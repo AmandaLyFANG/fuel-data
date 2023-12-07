@@ -1,0 +1,2182 @@
+﻿ServiceStationNo,ServiceStationName,Address,Suburb,Postcode,Brand
+1,Metro Petroleum Ballina,"323 River Street, BALLINA NSW 2478",BALLINA,2478,Metro Fuel
+2,Metro Peakhurst,"114 Boundary Road, PEAKHURST NSW 2210",PEAKHURST,2210,Metro Fuel
+3,Speedway Mt Pritchard,"348 Elizabeth Dr, MOUNT PRITCHARD NSW 2170",MOUNT PRITCHARD,2170,Speedway
+4,Speedway Meadows,"359 Elizabeth Drive, Mount Pritchard NSW 2170",Mount Pritchard,2170,Speedway
+5,BP Greta,"122 High St, GRETA NSW 2334",GRETA,2334,BP
+6,Budget Bexley,"295 FOREST RD, BEXLEY NSW 2207",BEXLEY,2207,Budget
+7,Budget Oatley,"12B Oatley Parade, Oatley NSW 2223",Oatley,2223,Budget
+8,Independent Riverstone,"129 Piccadilly St, Riverstone NSW 2765",Riverstone,2765,Independent
+9,Metro Cessnock,"102 Wollombi Rd, CESSNOCK NSW 2325",CESSNOCK,2325,Metro Fuel
+10,Medco Windale,"4 Lake Street, Windale NSW 2306",Windale,2306,Independent
+11,Metro Petroleum Hunter Valley,"36 WINE COUNTRY DR, CESSNOCK NSW 2325",CESSNOCK,2325,Metro Fuel
+12,Metro Sandgate,"61 Maitland Road, SANDGATE NSW 2304",SANDGATE,2304,Metro Fuel
+13,Metro Petroleum Bellbird,"380 Wollombi Rd, BELLBIRD NSW 2325",BELLBIRD,2325,Metro Fuel
+14,Metro Fuel Abermain,"289 Cessnock Road, Abermain NSW 2326",Abermain,2326,Metro Fuel
+15,Metro Petroleum Kurri Kurri Northcote,"47-49 NORTHCOTE ST, KURRI KURRI NSW 2327",KURRI KURRI,2327,Metro Fuel
+16,Powerfuel,"60 Hill Road, LURNEA NSW 2170",LURNEA,2170,Independent
+17,BP South Nowra,"202 Princes Hwy, South Nowra NSW 2541",South Nowra,2541,BP
+18,Metro Petroleum Fyshwick,"15 BARRIER ST, FYSHWICK ACT 2609",FYSHWICK,2609,Metro Fuel
+19,Ampol Iluka,"42 SPENSER ST, ILUKA NSW 2466",ILUKA,2466,Ampol
+20,Pearl energy Annabay,"4136 NELSON BAY RD, ANNA BAY NSW 2316",ANNA BAY,2316,Independent
+21,Speedway Bass Hill,"972 Hume Highway, Bass Hill NSW 2197",Bass Hill,2197,Speedway
+22,BP Loftus,"127 Loftus Ave, Loftus NSW 2232",Loftus,2232,BP
+23,Metro Fuel Doonside,"198 Hill End Road, Doonside NSW 2767",Doonside,2767,Metro Fuel
+24,Independent Guyra,"2 Lagoon St, Guyra NSW 2365",Guyra,2365,Independent
+25,BP West Pennant Hills,"48-50 Aiken Road, West Pennant Hills NSW 2125",West Pennant Hills,2125,BP
+26,Coles Express Cabramatta,"218 John St (Cnr Cumberland Hwy), Cabramatta NSW 2166",Cabramatta,2166,Coles Express
+27,Metro Petroleum West Hoxton,"198 FIFTEENTH AV, WEST HOXTON NSW 2171",WEST HOXTON,2171,Metro Fuel
+28,Summers Oxley Vale Takeaway & Superette,"171 Manilla Rd, OXLEY VALE NSW 2340",OXLEY VALE,2340,Transwest Fuels
+29,BP Camperdown,"Cnr Parramatta & Missenden Roads, Camperdown NSW 2050",Camperdown,2050,BP
+30,Metro Petroleum South Hurstville,"928-930 KING GEORGES RD, BLAKEHURST NSW 2221",BLAKEHURST,2221,Metro Fuel
+31,Metro Petroleum Leichhardt,"127-129 MARION ST, LEICHHARDT NSW 2040",LEICHHARDT,2040,Metro Fuel
+32,BP Wagga Wagga,"180 EDWARD ST, WAGGA WAGGA NSW 2650",WAGGA WAGGA,2650,BP
+33,Metro Fuel Miranda,"220 Port Hacking Road, Miranda NSW 2228",Miranda,2228,Metro Fuel
+34,TASCO Wentworth,"17 Sandwych St, WENTWORTH NSW 2648",WENTWORTH,2648,Caltex
+35,Mobil Wagga Wagga,"34 DOBNEY AV, WAGGA WAGGA NSW 2650",WAGGA WAGGA,2650,Mobil
+36,Metro Petroleum Faulconbridge,"690A GREAT WESTERN HWY, FAULCONBRIDGE NSW 2776",FAULCONBRIDGE,2776,Metro Fuel
+37,BUDGET PETROL MASCOT,"1004 Botany Rd., Mascot NSW 2020",Mascot,2020,Budget
+38,MOBIL LAKE ALBERT,"53 Gregory Cres, LAKE ALBERT NSW 2650",LAKE ALBERT,2650,Mobil
+39,Coles Express Lansvale West,"240 Hume Highway, LANSVALE NSW 2166",LANSVALE,2166,Coles Express
+40,Westside Blayney,"27 ORANGE RD, BLAYNEY NSW 2799",BLAYNEY,2799,Westside
+41,Independent Forbes,"60 Johnson Street, Forbes NSW 2871",Forbes,2871,Independent
+42,SPAR YAMBA,"7 WOOLI ST, YAMBA NSW 2464",YAMBA,2464,Independent
+43,Metro Petroleum Wellington,"145 Arthur Street, WELLINGTON NSW 2820",WELLINGTON,2820,Metro Fuel
+44,BP Lane Cove,"62-70 Epping Rd, Lane Cove NSW 2066",Lane Cove,2066,BP
+45,7-Eleven Georges Hall,"48 SURREY AV, GEORGES HALL NSW 2198",GEORGES HALL,2198,7-Eleven
+46,7-Eleven Giralang,"Cnr Canopus Cres & Atalumba Cl, Giralang ACT 2617",Giralang,2617,7-Eleven
+47,7-Eleven Baulkham Hills,"217-219 Seven Hills Rd, BAULKHAM HILLS NSW 2153",BAULKHAM HILLS,2153,7-Eleven
+48,7-Eleven Arndell Park,"180 Reservoir Road, Arndell Park NSW 2148",Arndell Park,2148,7-Eleven
+49,7-Eleven Blacktown,"62 Walters Road, Blacktown NSW 2148",Blacktown,2148,7-Eleven
+50,Metro Petroleum Chester Hill,"172 Hector St, CHESTER HILL NSW 2162",CHESTER HILL,2162,Metro Fuel
+51,Metro Fuel North Avalon,"662-664 Barrenjoey Rd, North Avalon NSW 2107",North Avalon,2107,Metro Fuel
+52,7-Eleven Camperdown,"198 Parramatta Rd, CAMPERDOWN NSW 2050",CAMPERDOWN,2050,7-Eleven
+53,Medco Petroleum Carlingford,"286-288 Pennant Hills Road, Cnr Adderton Road, Carlingford NSW 2118",Carlingford,2118,Independent
+54,SHELL NORTH ROCKS,"264-266 North Rocks Rd, North Rocks NSW 2151",North Rocks,2151,Shell
+55,EG Ampol Redfern,"475 Cleveland St, Redfern NSW 2016",Redfern,2016,EG Ampol
+56,7-Eleven Lansvale South,"44 Hume Highway & Knight Street, Lansvale South NSW 2166",Lansvale South,2166,7-Eleven
+57,7-Eleven Gregory Hills,"1&3 Rodeo Rd (160 Camden Valley Way), Gregory Hills NSW 2557",Gregory Hills,2557,7-Eleven
+58,7-Eleven East Maitland,"35 Melbourne St, EAST MAITLAND NSW 2323",EAST MAITLAND,2323,7-Eleven
+59,7-Eleven Emerald Hills,"7 Raby Rd, LEPPINGTON NSW 2179",LEPPINGTON,2179,7-Eleven
+60,7-Eleven Toongabbie,"3 Metella Road & Corner Cornelia Road, Toongabbie NSW 2146",Toongabbie,2146,7-Eleven
+61,7-Eleven Lakemba,"222 King Georges Rd (Cnr Canarys Rd) (Opn 30/6/16), Lakemba NSW 2195",Lakemba,2195,7-Eleven
+62,Metro Petroleum Earlwood,"281 HOMER ST, EARLWOOD NSW 2206",EARLWOOD,2206,Metro Fuel
+63,7-Eleven Kings Park,"363 Vardys Road, Kings Park NSW 2148",Kings Park,2148,7-Eleven
+64,7-Eleven Carlingford,"243 Pennant Hills Road, Carlingford NSW 2118",Carlingford,2118,7-Eleven
+65,7-Eleven Blacktown,"354 Corner Flushcombe Road & Myrtle Street, Blacktown NSW 2148",Blacktown,2148,7-Eleven
+66,7-Eleven Edensor Park,"Corner Elizabeth & Cowpasture Roads, Edensor Park NSW 2176",Edensor Park,2176,7-Eleven
+67,7-Eleven Epping,"246 Beecroft & Carlingford Roads, Epping NSW 2121",Epping,2121,7-Eleven
+68,7-Eleven Ryde,"326-328 Blaxland Road, Ryde NSW 2112",Ryde,2112,7-Eleven
+69,7-Eleven Albion Park Rail,"47-57 Princess Highway, ALBION PARK RAIL NSW 2527",ALBION PARK RAIL,2527,7-Eleven
+70,7-Eleven Albion Park Rail,"138-142 Princes Highway, ALBION PARK RAIL NSW 2527",ALBION PARK RAIL,2527,7-Eleven
+71,BP Rose Bay Central,"777 New South Head Rd, ROSE BAY NSW 2029",ROSE BAY,2029,BP
+72,EG Ampol Bass Hill,"862 Hume Highway, Bass Hill NSW 2197",Bass Hill,2197,EG Ampol
+73,Ingleburn Fuels,"SHOP 8 24 LAGONDA DR, INGLEBURN NSW 2565",INGLEBURN,2565,Independent
+74,Independent Lalor Park,"Lot 8 Comercial Road, Lalor Park NSW 2147",Lalor Park,2147,Independent
+75,7-Eleven Prairewood,"485-487 Smithfield Road, PRAIRIEWOOD NSW 2176",PRAIRIEWOOD,2176,7-Eleven
+76,NPG Albion Park Rail,"172-174 PRINCES HWY, ALBION PARK RAIL NSW 2527",ALBION PARK RAIL,2527,Independent
+77,Coles Express Ultimo,"387 427 Wattle St, ULTIMO NSW 2007",ULTIMO,2007,Coles Express
+78,Coles Express Waterloo,"867-869 South Dowling Street, Waterloo NSW 2017",Waterloo,2017,Coles Express
+79,Coles Express Stanmore,"308-310 Parramatta Road, Stanmore NSW 2048",Stanmore,2048,Coles Express
+80,Coles Express Annandale,"124-126 Johnston Street, Annandale NSW 2038",Annandale,2038,Coles Express
+81,Shell Yagoona,"740 Hume Highway, Yagoona NSW 2199",Yagoona,2199,Shell
+82,Metro Fuel Wiley Park,"618 Punchbowl Rd, Wiley Park NSW 2195",Wiley Park,2195,Metro Fuel
+83,Mobil Muswellbrook North,"147 BRIDGE ST, MUSWELLBROOK NSW 2333",MUSWELLBROOK,2333,Mobil
+84,EG Ampol Turramurra,"1233 Pacific Highway, Turramurra NSW 2074",Turramurra,2074,EG Ampol
+85,7-Eleven St Ives,"157-159 Mona Vale Rd, ST IVES NSW 2075",ST IVES,2075,7-Eleven
+86,7-Eleven Hurlstone Park,"670 New Canterbury Road (Corner Melford Street), Hurlstone Park NSW 2193",Hurlstone Park,2193,7-Eleven
+87,7-Eleven Granville East,"Lot 3-4 Parramatta Road & Harbord Street, Granville East NSW 2142",Granville East,2142,7-Eleven
+88,7-Eleven Haberfield,"25 Parramatta Road, Haberfield NSW 2045",Haberfield,2045,7-Eleven
+89,7-Eleven West Ryde,"919 Victoria Road (Corner Hermitage Road), West Ryde NSW 2114",West Ryde,2114,7-Eleven
+90,7-Eleven Seven Hills,"151 Prospect Hwy, SEVEN HILLS NSW 2147",SEVEN HILLS,2147,7-Eleven
+91,7-Eleven Turramurra,"1408 Pacific Highway (Corner Duff Street), Turramurra NSW 2074",Turramurra,2074,7-Eleven
+92,7-Eleven Wahroonga,"1579 Pacific Highway (Corner Redleaf Avenue), Wahroonga NSW 2076",Wahroonga,2076,7-Eleven
+93,7-Eleven Fyshwick,"149 Canberra Ave, Fyshwick ACT 2609",Fyshwick,2609,7-Eleven
+94,7-Eleven Penrith,"30 Henry Street, Penrith NSW 2750",Penrith,2750,7-Eleven
+95,7-Eleven Carlton,"439 Princes Highway (Corner Massey Street), Carlton NSW 2218",Carlton,2218,7-Eleven
+96,7-Eleven Bankstown,"180 Stacey & Stanley Streets, Bankstown NSW 2200",Bankstown,2200,7-Eleven
+97,7-Eleven Green Valley,"187 Wilson Road, Green Valley NSW 2168",Green Valley,2168,7-Eleven
+98,7-Eleven Revesby South,"102 Milperra Rd, REVESBY NSW 2212",REVESBY,2212,7-Eleven
+99,7-Eleven Medowie,"787 MEDOWIE RD, MEDOWIE NSW 2318",MEDOWIE,2318,7-Eleven
+100,SHELL COLYTON,"88 GREAT WESTERN HIGHWAY, COLYTON NSW 2760",COLYTON,2760,Shell
+101,Metro Petroleum Rosebery,"395 GARDENERS RD, ROSEBERY NSW 2018",ROSEBERY,2018,Metro Fuel
+102,Shell Croydon,"418-424 LIVERPOOL RD, CROYDON NSW 2132",CROYDON,2132,Shell
+103,7-Eleven Pendle Hill,"217 Wentworth Avenue (Corner Bungaree Road), Pendle Hill NSW 2145",Pendle Hill,2145,7-Eleven
+104,7-Eleven Guildford West,"534 Guildford Road West (Corner Fowler Road), Guildford West NSW 2161",Guildford West,2161,7-Eleven
+105,7-Eleven Windsor,"12 Hawkesbury Valley Way, WINDSOR NSW 2756",WINDSOR,2756,7-Eleven
+106,7-Eleven Revesby,"275 Canterbury Road & Mavis Street, Revesby NSW 2212",Revesby,2212,7-Eleven
+107,SHELL CHIPPING NORTON,"7 NEWBRIDGE RD, CHIPPING NORTON NSW 2170",CHIPPING NORTON,2170,Shell
+108,Enhance Albion Park,"253 Princes Hwy, Albion Park Rail NSW 2527",Albion Park Rail,2527,Enhance
+109,Townsend General Store,"1 Scullin St, TOWNSEND NSW 2463",TOWNSEND,2463,Independent
+110,7-Eleven Tweed Heads Sth,"112 Minjungbal Dr, TWEED HEADS SOUTH NSW 2486",TWEED HEADS SOUTH,2486,7-Eleven
+111,7-Eleven Cranebrook,"212-222 Andrews & Castlereagh Roads, Cranebrook NSW 2749",Cranebrook,2749,7-Eleven
+112,7-Eleven Singleton,"1 MAITLAND RD, SINGLETON NSW 2330",SINGLETON,2330,7-Eleven
+113,BP Baulkham Hills,"134 Seven Hills Rd, Baulkham Hills NSW 2153",Baulkham Hills,2153,BP
+114,Metro Wakely,"72 Thorney Rd, FAIRFIELD WEST NSW 2165",FAIRFIELD WEST,2165,Metro Fuel
+115,BP Bexley,"610 Forest Road, Bexley NSW 2207",Bexley,2207,BP
+116,BP Canterbury,"322 Canterbury Road, Canterbury NSW 2193",Canterbury,2193,BP
+117,BP Hoxton Park Airfield,"505 Cowpasture Rd, LEN WATERS ESTATE NSW 2171",LEN WATERS ESTATE,2171,BP
+118,BP Kelso,"63 Sydney Road, Kelso NSW 2795",Kelso,2795,BP
+119,BP Stewart Street,"255-257 Stewart Street, Bathurst NSW 2795",Bathurst,2795,BP
+120,BP Orange (Bathurst Road),"56-60 Bathurst Road, Orange NSW 2800",Orange,2800,BP
+121,Metro Fuel Forbes,"Warrul Orchards 10173 Newell Hwy, FORBES NSW 2871",FORBES,2871,Metro Fuel
+122,Liberty Coonabarbran,"51 CHARLES ST, COONABARABRAN NSW 2357",COONABARABRAN,2357,Liberty
+123,Ampol North Richmond,"50 Bells Line of Road, NORTH RICHMOND NSW 2754",NORTH RICHMOND,2754,Ampol
+124,Ampol Coolongolook,"Corner Pacific Highway and Midge Street, Coolongolook NSW 2423",Coolongolook,2423,Ampol
+125,EG Ampol Singleton,"Cnr Ryan Avenue & Burn Lane, Singleton NSW 2330",Singleton,2330,EG Ampol
+126,Metro Fuel Young,"186 Nasmyth St, Young NSW 2594",Young,2594,Metro Fuel
+127,BP Milperra,"5 Bullecourt Avenue, Milperra NSW 2214",Milperra,2214,BP
+128,Independent Wingham,"23-29 Isabella Street, Wingham NSW 2429",Wingham,2429,Independent
+129,Enhance Marulan,"117-119 George Street, MARULAN NSW 2579",MARULAN,2579,Enhance
+130,Enhance Willow Tree,"119 NEW ENGLAND HWY, WILLOW TREE NSW 2339",WILLOW TREE,2339,Enhance
+131,Coles Express Bass Hill,"884-888 Hume Hwy (Cnr Strickland St), Bass Hill NSW 2197",Bass Hill,2197,Coles Express
+132,7-Eleven Yagoona,"519 Hume Hwy, YAGOONA NSW 2199",YAGOONA,2199,7-Eleven
+133,Enhance Camellia,"17 GRAND AV, CAMELLIA NSW 2142",CAMELLIA,2142,Enhance
+134,Freedom Fuels Terranora,"2-14 Henry Lawson Dr, TERRANORA NSW 2486",TERRANORA,2486,Independent
+135,Metro Lane Cove,"533,Mowbray Rd, Lane Cove NSW 2066",Lane Cove,2066,Metro Fuel
+136,Ampol West Wyalong,"Mid West Highway, West Wyalong NSW 2671",West Wyalong,2671,Ampol
+137,Ampol Goulburn,"68 Goldsmith Street, GOULBURN NSW 2580",GOULBURN,2580,Ampol
+138,Ampol Nowra South,"100 Princes Hwy Cnr Browns Rd, South Nowra NSW 2541",South Nowra,2541,Ampol
+139,Tea Tree Cafe,"160 Mount Darragh Rd, SOUTH PAMBULA NSW 2549",SOUTH PAMBULA,2549,Shell
+140,Metro Petroleum Cooma,"42 SHARP ST, COOMA NSW 2630",COOMA,2630,Metro Fuel
+141,EG Ampol Albion Park,"Cnr Russell & Terry Street, Albion Park NSW 2527",Albion Park,2527,EG Ampol
+142,EG Ampol Marsfield,"Cnr Epping & Balaclava Road, Marsfield NSW 2122",Marsfield,2122,EG Ampol
+143,7-Eleven Bexley,"474 Forest Road, Bexley NSW 2207",Bexley,2207,7-Eleven
+144,7-Eleven Bexley,"611-615 Mimosa Street (Corner Forest Road), Bexley NSW 2207",Bexley,2207,7-Eleven
+145,Caltex Walcha,"108W Fitzroy St, Walcha NSW 2354",Walcha,2354,Caltex
+146,BP West Ryde,"1233 Victoria Road (Cnr Marsden Rd), West Ryde NSW 2114",West Ryde,2114,BP
+147,BP Seven Hills,"Abbott Road, Seven Hills NSW 2147",Seven Hills,2147,BP
+148,BP Revesby,"Cnr Milperra & River Rds, Revesby NSW 2212",Revesby,2212,BP
+149,Westside Petroleum Lidcombe,"32 Joseph St, LIDCOMBE NSW 2141",LIDCOMBE,2141,Westside
+150,United Petroleum East Maitland,"250 Newcastle Road, East Maitland NSW 2323",East Maitland,2323,United
+151,United Petroleum Metford,"114 Chelmsford Drive, Metford NSW 2325",Metford,2325,United
+152,Coles Express Inverell,"176 Otho St, Inverell NSW 2360",Inverell,2360,Coles Express
+153,Lyndhurst Fuel,"6518 MID WESTERN HWY, LYNDHURST NSW 2797",LYNDHURST,2797,Independent
+154,Calvi Petrol Station,"320 Lane Cove Road, North Ryde NSW 2113",North Ryde,2113,Independent
+155,BP Penrith,"Cnr Castlereagh & Coreen Ave, Penrith NSW 2750",Penrith,2750,BP
+156,TASCO Broken Hill Kanandah Rd,"5 Kanandah Road, Broken Hill NSW 2880",Broken Hill,2880,Ampol
+157,United Prairiewood,"522 Smithfield Road, Prairiewood NSW 2176",Prairiewood,2176,United
+158,United Petroleum Tomerong,"Lot 6 Princes Highway, Tomerong NSW 2540",Tomerong,2540,United
+159,United Petroleum Maitland,"Les Darcy Drive, Maitland NSW 2320",Maitland,2320,United
+160,Prime Earlwood,"33 Wardell Road, EARLWOOD NSW 2206",EARLWOOD,2206,Independent
+161,Budget Petrol Eastlakes,"102 Maloney St, Eastlakes NSW 2018",Eastlakes,2018,Budget
+162,Mobil Goulburn,"129 Lagoon Street, Goulburn NSW 2580",Goulburn,2580,Mobil
+163,BP Lavington,"481A URANA RD, LAVINGTON NSW 2641",LAVINGTON,2641,BP
+164,7-Eleven Ashfield,"132 LIVERPOOL RD, ASHFIELD NSW 2131",ASHFIELD,2131,7-Eleven
+165,UNITED PETROLEUM YASS,"279 COMUR ST, YASS NSW 2582",YASS,2582,United
+166,Metro Weston,"191-193 Cessnock Rd, Weston NSW 2326",Weston,2326,Metro Fuel
+167,Metro Bellbird Heights,"309A WOLLOMBI RD, BELLBIRD HEIGHTS NSW 2325",BELLBIRD HEIGHTS,2325,Metro Fuel
+168,Coles Express Bulli,"279-287 Princes Highway, Bulli NSW 2516",Bulli,2516,Coles Express
+169,Pag Petroleum,"924 HUME HWY, BASS HILL NSW 2197",BASS HILL,2197,Independent
+170,BP Oberon Truckstop,"24 ALBION ST, OBERON NSW 2787",OBERON,2787,BP
+171,Independent West Pymble,"45 Yanko Road, West Pymble NSW 2073",West Pymble,2073,BP
+172,Mobil Young Street,"624 Young St, ALBURY NSW 2640",ALBURY,2640,Mobil
+173,BP Hornsby,"Cnr George St and Burdett St, Hornsby NSW 2077",Hornsby,2077,BP
+174,United Petroleum Merewether,"Cnr Patrick & Watkins Streets, Merewether NSW 2291",Merewether,2291,United
+175,BP Forestville,"632 Warringah Road, Forestville NSW 2087",Forestville,2087,BP
+176,BP Silverwater,"Cnr Silverwater Road & Derby Street, SILVERWATER NSW 2128",SILVERWATER,2128,BP
+177,BP Carlingford,"712 Pennant Hills Road, Carlingford NSW 2118",Carlingford,2118,BP
+178,BP Berkeley Vale,"1 Blade Close, Berkeley Vale NSW 2261",Berkeley Vale,2261,BP
+179,BP Ashfield,"580-586 Parramatta Road, Croydon NSW 2132",Croydon,2132,BP
+180,Coles Express Yallah,"1 Macquarie Place Haywards Bay, Yallah NSW 2530",Yallah,2530,Coles Express
+181,BP Tumbi Umbi,"Cnr Wyong Rd & Mingara Dve, Tumbi Umbi NSW 2261",Tumbi Umbi,2261,BP
+182,BP Minchinbury,"1055 Great Western Highway, Minchinbury NSW 2770",Minchinbury,2770,BP
+183,Al Mustafa Petrol,"1/3 Haldon St, Lakemba NSW 2195",Lakemba,2195,Independent
+184,EG Ampol Bathurst,"74 Bentinck Street (Cnr Russell), Bathurst NSW 2795",Bathurst,2795,EG Ampol
+185,EG Ampol Windsor,"11 Macquarie Street, Windsor NSW 2756",Windsor,2756,EG Ampol
+186,BP Asquith,"Cnr Pacific Highway & Jersey Street, Asquith NSW 2077",Asquith,2077,BP
+187,BP Artarmon,"422 Pacific Hwy, Artarmon NSW 2064",Artarmon,2064,BP
+188,BP St Marys,"76 Glossop Street, St Marys NSW 2760",St Marys,2760,BP
+189,BP Jamisontown,"126-130 Mulgoa Road, Penrith NSW 2750",Penrith,2750,BP
+190,BP Dural,"582 Old Northern Road, Dural NSW 2158",Dural,2158,BP
+191,Coles Express Gymea,"470 Princes Hwy (Cnr The Boulevarde), Gymea NSW 2232",Gymea,2232,Coles Express
+192,Coles Express West Ryde,"1032-1036 Victoria Rd, West Ryde NSW 2114",West Ryde,2114,Coles Express
+193,Coles Express Albion Park,"252 Princes Highway, Albion Park NSW 2527",Albion Park,2527,Coles Express
+194,Coles Express Wyalong,"Mid Western Hwy & Nicholson Lane, Wyalong NSW 2671",Wyalong,2671,Coles Express
+195,Coles Express Beresfield,"93 WEAKLEYS DR, BERESFIELD NSW 2322",BERESFIELD,2322,Coles Express
+196,Coles Express Brookvale,"198 Harbord Rd (Cnr Winbourne Rd), Brookvale NSW 2100",Brookvale,2100,Coles Express
+197,EG Ampol Kelso,"171 Sydney Road, KELSO NSW 2795",KELSO,2795,EG Ampol
+198,EG Ampol Kogarah,"69 Princes Hwy (cnr Gladstone St), Kogarah NSW 2217",Kogarah,2217,EG Ampol
+199,EG Ampol Hoxton Park,"490 Cowpasture Road, Hoxton Park NSW 2171",Hoxton Park,2171,EG Ampol
+200,EG Ampol Punchbowl,"1618 Canterbury Road (Cnr Gow Street), Punchbowl NSW 2196",Punchbowl,2196,EG Ampol
+201,EG Ampol West Ryde,"924 Victoria Rd, WEST RYDE NSW 2114",WEST RYDE,2114,EG Ampol
+202,EG Ampol Lewisham,"774 Parramatta Road, Lewisham NSW 2049",Lewisham,2049,EG Ampol
+203,EG Ampol Narellan,"316 Camden Valley Way, Narellan NSW 2567",Narellan,2567,EG Ampol
+204,Metro Pendle Hill,"229 Wentworth Avenue, Pendle Hill NSW 2145",Pendle Hill,2145,Metro Fuel
+205,BP Auburn,"179 Parramatta Road, Auburn NSW 2144",Auburn,2144,BP
+206,Metro Fuel,"36-38 Lane Cove Rd, RYDE NSW 2112",RYDE,2112,Metro Fuel
+207,Beardy Street Servo,"351 Beardy Street, ARMIDALE NSW 2350",ARMIDALE,2350,Independent
+208,Coles Express Taren Point,"99 Parraweena Rd (Cnr Taren Point Rd), Miranda NSW 2228",Miranda,2228,Coles Express
+209,Metro Fuel Cremorne,"51 Spofforth St, CREMORNE NSW 2090",CREMORNE,2090,Metro Fuel
+210,EG Ampol Fairfield Heights,"163 THE BOULEVARDE, FAIRFIELD HEIGHTS NSW 2165",FAIRFIELD HEIGHTS,2165,EG Ampol
+211,EG Ampol Kellyville Ridge,"662 Windsor Rd (cnr Meriville Rd), Kellyville NSW 2155",Kellyville,2155,EG Ampol
+212,MEDCO INVERELL,"155 BYRON ST, INVERELL NSW 2360",INVERELL,2360,Independent
+213,AMPOL PENRITH,"153 Coreen Ave Cnr Castlereagh Rd, Penrith NSW 2750",Penrith,2750,Ampol
+214,7-Eleven Minchinbury,"Lot 3 Great Western Highway (Cnr John Hines Ave), Minchinbury NSW 2770",Minchinbury,2770,7-Eleven
+215,7-Eleven Emu Plains,"49-51 Great Western Highway, Emu Plains NSW 2750",Emu Plains,2750,7-Eleven
+216,7-Eleven Colyton,"104 Great Western Highway & Bennett Road, Colyton NSW 2760",Colyton,2760,7-Eleven
+217,Ampol Kemps Creek,"1163-1167 MAMRE RD, KEMPS CREEK NSW 2178",KEMPS CREEK,2178,Ampol
+218,Guyra Fourways Service Centre,"87-89 Bradley St, GUYRA NSW 2365",GUYRA,2365,Liberty
+219,YOGI'S PLACE SERVICE STATION,"85 Loder St, Quirindi NSW 2343",Quirindi,2343,Liberty
+220,Westside Petroleum Blakehurst,"338 Princes Hwy, BLAKEHURST NSW 2221",BLAKEHURST,2221,Westside
+221,7-Eleven Fairfield West,"234 Hamilton Road, Fairfield West NSW 2165",Fairfield West,2165,7-Eleven
+222,Budget Dulwich Hill,"299-303 Wardell Rd, Dulwich Hill NSW 2203",Dulwich Hill,2203,Budget
+223,METRO SUNNYHOLT RD BLACKTOWN,"7 148 Sunnyholt Road, BLACKTOWN NSW 2148",BLACKTOWN,2148,Metro Fuel
+224,7-Eleven Mount Druitt,"Lot 6 Luxford Road, Mount Druitt NSW 2770",Mount Druitt,2770,7-Eleven
+225,7-Eleven Greystanes,"601-605 Great Western Highway, GREYSTANES NSW 2145",GREYSTANES,2145,7-Eleven
+226,SHELL Parramatta CVRO (unmanned),"1 DURHAM ST, ROSEHILL NSW 2142",ROSEHILL,2142,Shell
+227,7-Eleven Granville,"154-160 Parramatta Road & Corner Bold Street, Granville NSW 2142",Granville,2142,7-Eleven
+228,Werrington South,"577 Great Western Hwy, WERRINGTON NSW 2747",WERRINGTON,2747,7-Eleven
+229,BP GOULBURN (Merino Fuels),"70 CLIFFORD ST, GOULBURN NSW 2580",GOULBURN,2580,BP
+230,Ampol Lilli Pilli,"481 Port Hacking Road, LILLI PILLI NSW 2229",LILLI PILLI,2229,Ampol
+231,Ampol Woolworths Baulkham Hills,"117 Seven Hills Rd, BAULKHAM HILLS NSW 2153",BAULKHAM HILLS,2153,Ampol
+232,Ampol Yass,"228 Comur Street, YASS NSW 2582",YASS,2582,Ampol
+233,Ampol Foodary Werrington,"Dunheved Road, WERRINGTON NSW 2747",WERRINGTON,2747,Ampol
+234,BP Wallacia,"1595 Mulgoa Rd, Wallacia NSW 2745",Wallacia,2745,BP
+235,METRO ROADHOUSE COOMA,"556 SNOWY MOUNTAINS HWY, DAIRYMANS PLAINS NSW 2630",DAIRYMANS PLAINS,2630,Metro Fuel
+236,7-Eleven Five Dock,"231-235 Great North Road, Five Dock NSW 2046",Five Dock,2046,7-Eleven
+237,7-Eleven West Pennant Hills,"552 Pennant Hills Road, West Pennant Hills NSW 2125",West Pennant Hills,2125,7-Eleven
+238,West Cooma Petroleum,"686 Snowy Mountain Highway, COOMA NSW 2630",COOMA,2630,Shell
+239,Coles Express Strathfield,"9 Albert Rd, Strathfield NSW 2135",Strathfield,2135,Coles Express
+240,Coles Express Rouse Hill,"43 Panmure Rd (Cnr Windsor Road), Rouse Hill NSW 2155",Rouse Hill,2155,Coles Express
+241,Coles Express Pymble,"21 Ryde Rd, Pymble NSW 2073",Pymble,2073,Coles Express
+242,Coles Express Parramatta,"88 Victoria Rd (Cnr Buller St), Parramatta NSW 2150",Parramatta,2150,Coles Express
+243,Coles Express Kingsgrove,"137-141 Kingsgrove Road, Kingsgrove NSW 2208",Kingsgrove,2208,Coles Express
+244,Coles Express Padstow,"19 Davies Road, Padstow NSW 2211",Padstow,2211,Coles Express
+245,Coles Express Faulconbridge,"575-581 Great Western Highway, Faulconbridge NSW 2776",Faulconbridge,2776,Coles Express
+246,Coles Express Pennant Hills,"369-371 Pennant Hills Rd, Pennant Hills NSW 2120",Pennant Hills,2120,Coles Express
+247,Coles Express Thornleigh,"188-190 Pennant Hills Rd, Thornleigh NSW 2120",Thornleigh,2120,Coles Express
+248,Coles Express Cammeray,"477-483 Miller St & Palmer St, Cammeray NSW 2062",Cammeray,2062,Coles Express
+249,Coles Express Lane Cove,"378 Pacific Hwy (Cnr Allison Ave), Lane Cove NSW 2066",Lane Cove,2066,Coles Express
+250,Coles Express Dural,"592-596 Old Northern Rd, Dural NSW 2158",Dural,2158,Coles Express
+251,Coles Express Marsden Park,"920 Richmond Rd, Marsden Park NSW 2765",Marsden Park,2765,Coles Express
+252,Coles Express Alexandria,"562-572 Botany Rd, Alexandria NSW 2015",Alexandria,2015,Coles Express
+253,Coles Express Bexley,"306-312 Forest Road (Cnr Fredrick St), Bexley NSW 2205",Bexley,2205,Coles Express
+254,Coles Express Doonside,"427 Bungarribee Road, Doonside NSW 2767",Doonside,2767,Coles Express
+255,Coles Express Baulkham Hills,"363 Windsor Rd (Cnr Olive St), Baulkham Hills NSW 2153",Baulkham Hills,2153,Coles Express
+256,Coles Express Parklea,"484 Sunnyholt Road, Parklea NSW 2768",Parklea,2768,Coles Express
+257,Coles Express Hunters Hill,"4 Ryde Rd, Hunters Hill NSW 2110",Hunters Hill,2110,Coles Express
+258,Coles Express Lidcombe,"18 Parramatta Road, Lidcombe NSW 2141",Lidcombe,2141,Coles Express
+259,Coles Express Dundas,"199-203 Kissing Point Rd (Cnr Kirby St), Dundas NSW 2117",Dundas,2117,Coles Express
+260,7-Eleven Regentville,"36 Mulgoa Road, Regentville NSW 2745",Regentville,2745,7-Eleven
+261,7-Eleven Jamisontown,"92 Mulgoa Road & Batt Street, Jamisontown NSW 2750",Jamisontown,2750,7-Eleven
+262,Independent Cooma,"8 Sharp St, Cooma NSW 2630",Cooma,2630,Independent
+263,Ampol Woolooware,"100 Woolooware Road, WOOLOOWARE NSW 2230",WOOLOOWARE,2230,Ampol
+264,Coles Express Oyster Bay,"26-28 Georges River Rd (Cnr Carvers Rd), Oyster Bay NSW 2225",Oyster Bay,2225,Coles Express
+265,Coles Express Forestville,"665-671 Warringah Rd (Cnr Cook St), Forestville NSW 2087",Forestville,2087,Coles Express
+266,Coles Express Camden,"273 Old Hume Highway, Camden NSW 2570",Camden,2570,Coles Express
+267,Coles Express South Hurstville,"835 King Georges Road, South Hurstville NSW 2221",South Hurstville,2221,Coles Express
+268,Coles Express Drummoyne,"38-46 Victoria Rd, Drummoyne NSW 2047",Drummoyne,2047,Coles Express
+269,Coles Express Randwick,"54 Alison Road, Randwick NSW 2031",Randwick,2031,Coles Express
+270,Coles Express Five Dock,"213-253 Parramatta Rd & Walker St, Five Dock NSW 2046",Five Dock,2046,Coles Express
+271,Coles Express Drummoyne,"39- 51 Victoria Rd, Drummoyne NSW 2047",Drummoyne,2047,Coles Express
+272,EG Ampol Gregory Hills,"33 VILLAGE CCT, GREGORY HILLS NSW 2557",GREGORY HILLS,2557,EG Ampol
+273,7 Express Carlton,"370 Railway Parade, Carlton NSW 2216",Carlton,2216,Independent
+274,BP Marsden Park,"851 Richmond Road, Marsden Park NSW 2765",Marsden Park,2765,BP
+275,Coles Express Ramsgate,"274-276 Grand Parade (Cnr Ramsgate Rd), Ramsgate NSW 2217",Ramsgate,2217,Coles Express
+276,Coles Express Pennant Hills,"386 Pennant Hills Rd, Pennant Hills NSW 2120",Pennant Hills,2120,Coles Express
+277,Speedway Roseville,"20-22 BABBAGE RD, ROSEVILLE NSW 2069",ROSEVILLE,2069,Speedway
+278,Budget Petrol Bundeena,"27 Thompson St, Bundeena NSW 2230",Bundeena,2230,Budget
+279,Coles Express Eastern Creek,"611 Great Western Hwy (Cnr Brabham Drv), Eastern Creek NSW 2766",Eastern Creek,2766,Coles Express
+280,Ampol Seven Hills,"38 Abbott Rd, SEVEN HILLS NSW 2147",SEVEN HILLS,2147,Ampol
+281,Speedway Rockdale,"651 Princes Highway, Rockdale NSW 2216",Rockdale,2216,Speedway
+282,Astron Beresfield,"261 ANDERSON DR, BERESFIELD NSW 2322",BERESFIELD,2322,Independent
+283,BP Brunswick Heads,"50 Tweed Street, Brunswick Heads NSW 2483",Brunswick Heads,2483,BP
+284,Coles Express Blacktown,"132-136 Sunnyholt Road, Blacktown NSW 2148",Blacktown,2148,Coles Express
+285,Budget Carlton,"3 Railway Pde, KOGARAH NSW 2217",KOGARAH,2217,Budget
+286,Harry's Fuel,"31-35 Unwins Bridge, Sydenham NSW 2044",Sydenham,2044,Independent
+287,EG Ampol Emu Heights,"132 Old Bathurst Road, Emu Plains NSW 2750",Emu Plains,2750,EG Ampol
+288,EG Ampol Emu Plains,"283 Great Western Hwy (Cnr Russell St), Emu Plains NSW 2750",Emu Plains,2750,EG Ampol
+289,EG Ampol Tweed Heads South,"98-100 Minjungbal Drive (Pacific Hwy), Tweed Heads NSW 2486",Tweed Heads,2486,EG Ampol
+290,EG Ampol Bulli,"261-265 Princes Highway, Bulli NSW 2516",Bulli,2516,EG Ampol
+291,EG Ampol Goulburn,"12 Verner Street, GOULBURN NSW 2580",GOULBURN,2580,EG Ampol
+292,Speedway Miranda,"181 The Boulevarde, Miranda NSW 2228",Miranda,2228,Speedway
+293,Lowes Inverell,"208 Byron Street, Inverell NSW 2360",Inverell,2360,Lowes
+294,Independent Ingleburn,"58 Stennett, Ingleburn NSW 2565",Ingleburn,2565,Independent
+295,Enhance Freshwater,"46 ALBERT ST, FRESHWATER NSW 2096",FRESHWATER,2096,Enhance
+296,Metro Goolgowi,"18-20 ZARA ST, GOOLGOWI NSW 2652",GOOLGOWI,2652,Metro Fuel
+297,TASCO Broken Hill Patton St,"84 Patton Street, Broken Hill NSW 2880",Broken Hill,2880,Ampol
+298,BP Coolongolook,"Pacific Highway, Coolongolook NSW 2423",Coolongolook,2423,BP
+299,BP Ballina Travel Centre,"41 Bruxner Highway, WEST BALLINA NSW 2478",WEST BALLINA,2478,BP
+300,7-Eleven Werrington,"Lot 122 Dunheved Road, Werrington NSW 2747",Werrington,2747,7-Eleven
+301,7-Eleven Penrith,"588 HIGH ST, PENRITH NSW 2750",PENRITH,2750,7-Eleven
+302,Lowes Bellata,"Newell Highway, Bellata NSW 2397",Bellata,2397,Lowes
+303,BP Tenterfield,"69 Rouse St, TENTERFIELD NSW 2372",TENTERFIELD,2372,BP
+304,Ampol Belrose,"153 Forest Way, Belrose NSW 2085",Belrose,2085,Ampol
+305,Ampol Taren Point,"114 Taren Point Rd, TAREN POINT NSW 2229",TAREN POINT,2229,Ampol
+306,Ampol Cambridge Park,"Lot 6 Star Court, CAMBRIDGE PARK NSW 2747",CAMBRIDGE PARK,2747,Ampol
+307,BP Beresfield T/S,"Lot 201 John Renshaw Drive, Beresfield NSW 2322",Beresfield,2322,BP
+308,BP Chinderah T/C,"68-89 Ozone Street, Chinderah NSW 2487",Chinderah,2487,BP
+309,BP North Rocks,"369 North Rocks Rd, North Rocks NSW 2151",North Rocks,2151,BP
+310,Independent Darlington Point,"7 Sturt Highway, DARLINGTON POINT NSW 2706",DARLINGTON POINT,2706,Independent
+311,Shell Little Topar,"11908 BARRIER HWY, LITTLE TOPAR NSW 2880",LITTLE TOPAR,2880,Shell
+312,Metro Minto,"1 Brookfield Road, Minto NSW 2566",Minto,2566,Metro Fuel
+313,Coles Express Bathurst,"298 Stewart St (Cnr Rocket St), Bathurst NSW 2795",Bathurst,2795,Coles Express
+314,Coles Express Coonabarabran,"2-6 Johns St, Coonabarabran NSW 2357",Coonabarabran,2357,Coles Express
+315,Coles Express Broken Hill,"164 William Street, Broken Hill NSW 2880",Broken Hill,2880,Coles Express
+316,Coles Express Killarney Vale,"102 - 106 Wyong Road, Killarney Vale NSW 2261",Killarney Vale,2261,Coles Express
+317,Coles Express Tweed Heads South,"71 Minjungbal Dr, Tweed Heads South NSW 2486",Tweed Heads South,2486,Coles Express
+318,Coles Express Taree,"59-63 Victoria Street, Taree NSW 2430",Taree,2430,Coles Express
+319,Coles Express Muswellbrook,"148 Bridge Street (Cnr Hill St), Muswellbrook NSW 2333",Muswellbrook,2333,Coles Express
+320,Coles Express Cessnock,"183 Vincent St, Cessnock NSW 2325",Cessnock,2325,Coles Express
+321,Coles Express Wollongong West,"434 Crown St, Wollongong West NSW 2500",Wollongong West,2500,Coles Express
+322,Coles Express Belmont South,"797 Pacific Hwy, Belmont South NSW 2280",Belmont South,2280,Coles Express
+323,Coles Express Terrigal,"250 Terrigal Dr (Cnr Bellbird Ave), Terrigal NSW 2260",Terrigal,2260,Coles Express
+324,Coles Express Casino,"88 Centre St (Cnr Richmond St), Casino NSW 2470",Casino,2470,Coles Express
+325,Coles Express Bowral,"430 Bong Bong St (Cnr Bowral St), Bowral NSW 2576",Bowral,2576,Coles Express
+326,Coles Express Queanbeyan,"2 High Street, QUEANBEYAN EAST NSW 2620",QUEANBEYAN EAST,2620,Coles Express
+327,Coles Express Forster,"2 The Lakes Way, Forster NSW 2428",Forster,2428,Coles Express
+328,Coles Express Tamworth West,"147-149 Bridge St, Tamworth West NSW 2340",Tamworth West,2340,Coles Express
+329,Coles Express South Nowra,"198 Princes Hwy, SOUTH NOWRA NSW 2541",SOUTH NOWRA,2541,Coles Express
+330,Coles Express Boggabilla,"33351 Newell Highway, Boggabilla NSW 2409",Boggabilla,2409,Coles Express
+331,Coles Express Erina,"211 The Entrance Rd (Cnr Bonnal Rd), Erina NSW 2250",Erina,2250,Coles Express
+332,Coles Express Wagga Wagga,"353-355 Edward St, Wagga Wagga NSW 2650",Wagga Wagga,2650,Coles Express
+333,Coles Express Charlestown,"128 Pacific Hwy, Charlestown NSW 2290",Charlestown,2290,Coles Express
+334,Coles Express Warrawong,"26-30 King Street, Warrawong NSW 2502",Warrawong,2502,Coles Express
+335,Coles Express Dubbo,"131-133 Cobra St (Cnr Fitzroy St), Dubbo NSW 2830",Dubbo,2830,Coles Express
+336,Coles Express Maitland,"233 High St (Cnr Smith St), Maitland NSW 2320",Maitland,2320,Coles Express
+337,Coles Express Broadmeadow,"2 Brunker Rd, Broadmeadow NSW 2292",Broadmeadow,2292,Coles Express
+338,Coles Express Singleton,"69-73 George St, Singleton NSW 2330",Singleton,2330,Coles Express
+339,Coles Express Orange,"Summer St & Sale St, Orange NSW 2800",Orange,2800,Coles Express
+340,Metro St Andrews,"72 Stranraer Drive, St Andrews NSW 2566",St Andrews,2566,Metro Fuel
+341,Ampol Woolworths Metro Northmead,"98-100 Windsor Rd Cnr Lombard Rd, Northmead NSW 2152",Northmead,2152,Ampol
+342,Ampol Eastern Creek Eastbound,"M4 Motorway Eastbound , Eastern Creek NSW 2766",Eastern Creek,2766,Ampol
+343,Ampol Eastern Creek West Bound,"M4 Motorway westbound, EASTERN CREEK NSW 2766",EASTERN CREEK,2766,Ampol
+344,TASCO Cootamundra Hovell St,"30 Hovell Street, COOTAMUNDRA NSW 2590",COOTAMUNDRA,2590,Ampol
+345,Coles Express Moree,"Balo St & Gwydir St, Moree NSW 2400",Moree,2400,Coles Express
+346,Coles Express Kempsey,"165 Smith St (Cnr Cochrane St), Kempsey NSW 2440",Kempsey,2440,Coles Express
+347,Coles Express Dubbo,"Whylandra St & Victoria St, Dubbo NSW 2830",Dubbo,2830,Coles Express
+348,Coles Express Bathurst,"59 Durham Street, Bathurst NSW 2795",Bathurst,2795,Coles Express
+349,Coles Express Randwick,"Frenchmans Rd & Clovelly Rd, Randwick NSW 2031",Randwick,2031,Coles Express
+350,Coles Express Gundagai,"Mount St & Middle St, Gundagai NSW 2722",Gundagai,2722,Coles Express
+351,Coles Express Coffs Harbour,"208-212 Pacific Hwy North, Coffs Harbour NSW 2450",Coffs Harbour,2450,Coles Express
+352,Coles Express Moss Vale,"571 Argyle St (Cnr Yarrawa Rd), Moss Vale NSW 2577",Moss Vale,2577,Coles Express
+353,7-Eleven Parramatta,"81 Victoria Road & Macarthur Street, Parramatta NSW 2150",Parramatta,2150,7-Eleven
+354,Enhance Merrylands,"506 Merrylands Road, Merrylands NSW 2160",Merrylands,2160,Enhance
+355,Coles Express Port Macquarie,"Cnr Gordon & Hollingsworth Sts, PORT MACQUARIE NSW 2444",PORT MACQUARIE,2444,Coles Express
+356,Coles Express Doyalson North,"260 Pacific Hwy (Cnr Basford Road), Doyalson North NSW 2259",Doyalson North,2259,Coles Express
+357,Metro Petroleum Tarro,"107 Anderson Drive, TARRO NSW 2322",TARRO,2322,Metro Fuel
+358,BP Seven Hills,"154-156 Prospect Hwy, Seven Hills NSW 2147",Seven Hills,2147,BP
+359,EG Ampol Mount Druitt,"North Parade (Mt Druitt Market Place), Mount Druitt NSW 2770",Mount Druitt,2770,EG Ampol
+360,EG Ampol Inverell,"262 Byron Street, Inverell NSW 2360",Inverell,2360,EG Ampol
+361,Metro Bow Bowing,"100 CAMPBELLTOWN RD, MINTO NSW 2566",MINTO,2566,Metro Fuel
+362,EG Ampol Cooma,"Cnr Bombala & Massie Streets, Cooma NSW 2630",Cooma,2630,EG Ampol
+363,BP Katoomba,"199 Great Western Highway, Katoomba NSW 2780",Katoomba,2780,BP
+364,BP Wentworth Falls,"340 Great Western Highway, Wentworth Falls NSW 2782",Wentworth Falls,2782,BP
+365,Coles Express Hawker,"20 Springvale Drive, Hawker ACT 2614",Hawker,2614,Coles Express
+366,COLES EXPRESS BELCONNEN TOWN CENTRE,"Cohen St &, Josephson St,, Belconnen ACT 2617",Belconnen,2617,Coles Express
+367,Coles Express Fyshwick Wiluna,"8/12 Wiluna St, Fyshwick Wiluna ACT 2609",Fyshwick Wiluna,2609,Coles Express
+368,Coles Express Charnwood,"Lhotsky St & Charnwood Pl, Charnwood ACT 2615",Charnwood,2615,Coles Express
+369,Coles Express Fyshwick Capital,"100 NEWCASTLE ST, FYSHWICK ACT 2609",FYSHWICK,2609,Coles Express
+370,Enhance Eastwood,"2 LOVELL RD, EASTWOOD NSW 2122",EASTWOOD,2122,Enhance
+371,BP North Richmond,"3 Bells Line Of Road, NORTH RICHMOND NSW 2754",NORTH RICHMOND,2754,BP
+372,Independent Sapphire Beach,"96 Solitary Islands Way, SAPPHIRE BEACH NSW 2450",SAPPHIRE BEACH,2450,Liberty
+373,Ampol Winmalee,"281 Hawkesbury Rd, Winmalee NSW 2777",Winmalee,2777,Ampol
+374,Coles Express Curtin,"17 STRANGWAYS ST, CURTIN ACT 2605",CURTIN,2605,Coles Express
+375,Coles Express Gungahlin,"1 GINN ST, GUNGAHLIN ACT 2912",GUNGAHLIN,2912,Coles Express
+376,Ampol The Oaks,"38 John St, The Oaks NSW 2570",The Oaks,2570,Ampol
+377,Mobil Narrandera,"74 Whitton St, NARRANDERA NSW 2700",NARRANDERA,2700,Mobil
+378,Metro Petroleum St Andrews,"95 BALLANTRAE DR, ST ANDREWS NSW 2566",ST ANDREWS,2566,Metro Fuel
+379,North Coast Petroleum Coffs Harbour,"15-17 O'Keefe Drive, COFFS HARBOUR NSW 2450",COFFS HARBOUR,2450,Independent
+380,Liberty Boambee,"752 Pacific Highway, Boambee NSW 2450",Boambee,2450,Liberty
+381,Ampol Foodary Granville,"144 Parramatta Rd, GRANVILLE NSW 2142",GRANVILLE,2142,Ampol
+382,BP Turramurra,"213 Kissing Point Rd, Turramurra NSW 2074",Turramurra,2074,BP
+383,BP Eastern Creek T/S,"1 Wallgrove Rd, Eastern Creek NSW 2766",Eastern Creek,2766,BP
+384,BP Naremburn,"169 Willoughby Road, Naremburn NSW 2065",Naremburn,2065,BP
+385,BP Orange (Summer ST),"81 Summer Street, Orange NSW 2800",Orange,2800,BP
+386,Quinn's on Melbourne Street,"U 1 39 Melbourne St, EAST MAITLAND NSW 2323",EAST MAITLAND,2323,Independent
+387,BP Gumly Gumly,"1 Tasman Road, GUMLY GUMLY NSW 2652",GUMLY GUMLY,2652,BP
+388,EG Ampol Belconnen,"4 LUXTON ST, BELCONNEN ACT 2617",BELCONNEN,2617,EG Ampol
+389,EG Ampol Canberra Gateway,"41 Federal Hwy, Lyneham ACT 2602",Lyneham,2602,EG Ampol
+390,EG Ampol Tamworth,"119 Bridge Street (Cnr Belmore St), Tamworth NSW 2340",Tamworth,2340,EG Ampol
+391,EG Ampol Conder,"Cnr Tharwa Drive & Norman Lindsay Street, Conder ACT 2906",Conder,2906,EG Ampol
+392,EG Ampol Lake Munmorah,"Cnr Pacific Highway & Tall Timbers Road, Lake Munmorah NSW 2259",Lake Munmorah,2259,EG Ampol
+393,EG Ampol Bowral,"2-4 Banyette Street (Cnr Station St), Bowral NSW 2576",Bowral,2576,EG Ampol
+394,BP Dubbo West,"51-63 Whylandra Street, Dubbo West NSW 2830",Dubbo West,2830,BP
+395,Independent Bradbury,"310 St Johns Road, Bradbury NSW 2560",Bradbury,2560,Independent
+396,Shell Xroads Cranebrook,"1-21 CRANEBROOK RD, CRANEBROOK NSW 2749",CRANEBROOK,2749,Shell
+397,Coles Express North Richmond,"75-78 Bells Line Of Road, NORTH RICHMOND NSW 2754",NORTH RICHMOND,2754,Coles Express
+398,Ampol Wyong,"M1 Southbound, Wyong NSW 2259",Wyong,2259,Ampol
+399,EG Ampol Moree,"215 Balo Street, Moree NSW 2400",Moree,2400,EG Ampol
+400,EG Ampol Maitland,"48 Denman Street (entrance via Ken Tubman Drive), Maitland NSW 2320",Maitland,2320,EG Ampol
+401,EG Ampol Moss Vale,"609 Argyle Street, Moss Vale NSW 2577",Moss Vale,2577,EG Ampol
+402,7-Eleven Drummoyne,"271A Victoria Road, Drummoyne NSW 2047",Drummoyne,2047,7-Eleven
+403,7-Eleven Rozelle,"178-184 Victoria Road (Corner Moodie Street), Rozelle NSW 2039",Rozelle,2039,7-Eleven
+404,Enhance 24 Hour (Self-Service),"1 Old Port Road, PORT KEMBLA NSW 2505",PORT KEMBLA,2505,Enhance
+405,7-Eleven Emu Plains,"126-128 OLD BATHURST RD, EMU HEIGHTS NSW 2750",EMU HEIGHTS,2750,7-Eleven
+406,7-Eleven Marsden Park,"861 Richmond Road, MARSDEN PARK NSW 2765",MARSDEN PARK,2765,7-Eleven
+407,Liberty Moruya,"5 Princes Hwy, MORUYA NSW 2537",MORUYA,2537,Liberty
+408,Speedway Blacktown,"90 Blacktown Road, Blacktown NSW 2148",Blacktown,2148,Speedway
+409,Metro Fuel Broken Hill,"571 Beryl Street, Broken Hill NSW 2880",Broken Hill,2880,Metro Fuel
+410,EG Ampol Glenrose,"60 Glenn Street, Belrose NSW 2085",Belrose,2085,EG Ampol
+411,EG Ampol Taree,"70-76 Manning Street (Cnr Wynter St), Taree NSW 2340",Taree,2340,EG Ampol
+412,BP Summer Hill,"3 Carlton Cres, Summer Hill NSW 2130",Summer Hill,2130,BP
+413,Mavin Petroleum,"100 Belgrave Street, Kempsey NSW 2440",Kempsey,2440,Independent
+414,Independent Turramurra,"105 Eastern Rd, Turramurra NSW 2074",Turramurra,2074,Independent
+415,BP Parkes T/S,"1-5 Forbes Road, PARKES NSW 2870",PARKES,2870,BP
+416,EG Ampol Gungahlin,"18 Gundaroo Dr, Gungahlin ACT 2912",Gungahlin,2912,EG Ampol
+417,EG Ampol Dickson,"1 Cape Street, Dickson ACT 2602",Dickson,2602,EG Ampol
+418,Ampol Woolworths Thornleigh,"200-202 Pennant Hills Road, THORNLEIGH NSW 2120",THORNLEIGH,2120,Ampol
+419,Metro Petroleum Tahmoor,"2790 REMEMBRANCE DVWY, TAHMOOR NSW 2573",TAHMOOR,2573,Metro Fuel
+420,Metro Wangi,"297 WATKINS RD, WANGI WANGI NSW 2267",WANGI WANGI,2267,Metro Fuel
+421,Shell Luddenham,"Lot 25/ 2140 The Northern Rd, Luddehham NSW 2745",Luddehham,2745,Shell
+422,Metro Islington,"144 Maitland Road, ISLINGTON NSW 2296",ISLINGTON,2296,Metro Fuel
+423,Coles Express Wauchope,"64 High Street, Wauchope NSW 2446",Wauchope,2446,Coles Express
+424,7-Eleven Goulburn,"88 - 92 Clinton Street, Goulburn NSW 2580",Goulburn,2580,7-Eleven
+425,BP Watson,"110 FEDERAL HWY, WATSON ACT 2602",WATSON,2602,BP
+426,Ampol Port Macquarie,"12-14 Bolwarra Rd, PORT MACQUARIE NSW 2444",PORT MACQUARIE,2444,Ampol
+427,7-Eleven South Hurstville,"822 King Georges Road & Joffre St, South Hurstville NSW 2220",South Hurstville,2220,7-Eleven
+428,Metro Mt Pritchard,"472 CABRAMATTA RD, MOUNT PRITCHARD NSW 2170",MOUNT PRITCHARD,2170,Metro Fuel
+429,EG Ampol Bega,"100 Gipps Street, Bega NSW 2550",Bega,2550,EG Ampol
+430,"Liberty Armidale, North Hill","2 MARSH ST, ARMIDALE NSW 2350",ARMIDALE,2350,Liberty
+431,Ampol Narwee,"41 BROADARROW RD, NARWEE NSW 2209",NARWEE,2209,Ampol
+432,Metro Guildford,"2 Rawson Road, GUILDFORD NSW 2161",GUILDFORD,2161,Metro Fuel
+433,Metro Fuel Fairfield,"130 Hamilton Road, Fairfield NSW 2165",Fairfield,2165,Metro Fuel
+434,Metro Petroleum Blacktown,"65-69 Richmond Rd, BLACKTOWN NSW 2148",BLACKTOWN,2148,Metro Fuel
+435,EG Ampol Liverpool,"67 Orange Grove Road, Liverpool NSW 2170",Liverpool,2170,EG Ampol
+436,EG Ampol Eagle Vale,"Eaglevale Road (Eaglevale Market Place), Eagle Vale NSW 2558",Eagle Vale,2558,EG Ampol
+437,EG Ampol Roselands,"218 King Georges Road, Roselands NSW 2196",Roselands,2196,EG Ampol
+438,EG Ampol Richmond,"Cnr Lennox & East Market Streets, Richmond NSW 2753",Richmond,2753,EG Ampol
+439,Metro Bonnyrigg,"709 Cabramatta Road, Bonnyrigg NSW 2177",Bonnyrigg,2177,Metro Fuel
+440,Metro Fairfield 82,"82 HAMILTON RD, FAIRFIELD NSW 2165",FAIRFIELD,2165,Metro Fuel
+441,Metro Revesby,"6,Doyle Rd, Revesby NSW 2210",Revesby,2210,Metro Fuel
+442,BP NEMINGHA,"464-468 ARMIDALE RD, NEMINGHA NSW 2340",NEMINGHA,2340,BP
+443,Metro Fuel Kogarah,"120 ROCKY POINT RD, KOGARAH NSW 2217",KOGARAH,2217,Metro Fuel
+444,Metro St Marys,"516-526 GREAT WESTERN HWY, ST MARYS NSW 2760",ST MARYS,2760,Metro Fuel
+445,SPEEDWAY GROSE VALE,"659 GROSE VALE RD, GROSE VALE NSW 2753",GROSE VALE,2753,Speedway
+446,Ampol Strathfield South,"600 Liverpool Rd, STRATHFIELD SOUTH NSW 2136",STRATHFIELD SOUTH,2136,Ampol
+447,Ampol Seven Hills,"105 Station Rd Cnr Powers St, Seven Hills NSW 2147",Seven Hills,2147,Ampol
+448,Ampol Ermington,"560-562 Victoria Road, ERMINGTON NSW 2115",ERMINGTON,2115,Ampol
+449,Ampol Lakemba,"516 Punchbowl Rd, LAKEMBA NSW 2195",LAKEMBA,2195,Ampol
+450,Ampol Woolworths Metro North Ryde,"41-43 Epping Rd Cnr Wicks Rd, North Ryde NSW 2113",North Ryde,2113,Ampol
+451,Ampol Penrith,"2 Lugard St, PENRITH NSW 2750",PENRITH,2750,Ampol
+452,Ampol Punchbowl,"1285-1289 Canterbury Rd, PUNCHBOWL NSW 2196",PUNCHBOWL,2196,Ampol
+453,Ampol Beacon Hill,"176 Warringah Rd, BEACON HILL NSW 2100",BEACON HILL,2100,Ampol
+454,Metro Revesby West,"10 MILPERRA RD, REVESBY NSW 2212",REVESBY,2212,Metro Fuel
+455,EG Ampol Minto,"2 Cary Grove (Cnr Ben Lomond Drive), Minto NSW 2566",Minto,2566,EG Ampol
+456,EG Ampol Werrington,"574 Great Western Hwy, Werrington NSW 2747",Werrington,2747,EG Ampol
+457,Norris Park IGA - MOGAS,"545 Union Rd, NORTH ALBURY NSW 2640",NORTH ALBURY,2640,Independent
+458,Metro Fuel Homebush,"134 John Street, Lidcombe NSW 2141",Lidcombe,2141,Metro Fuel
+459,BP Morisset,"50 Alliance Avenue, Morisset NSW 2264",Morisset,2264,BP
+460,Ampol Marulan,"10 GEORGE ST, MARULAN NSW 2579",MARULAN,2579,Ampol
+461,Wagga Fuel,"81 DOCKER ST, WAGGA WAGGA NSW 2650",WAGGA WAGGA,2650,Westside
+462,Ampol Woolworths Wentworthville,"313 Great Western Hwy, SOUTH WENTWORTHVILLE NSW 2145",SOUTH WENTWORTHVILLE,2145,Ampol
+463,Ampol Woolworths Revesby,"181 The River Rd, REVESBY NSW 2212",REVESBY,2212,Ampol
+464,Ampol Foodary Croydon,"404-410 Liverpool Rd, CROYDON NSW 2132",CROYDON,2132,Ampol
+465,Ampol Woolworths Pendle Hill,"602-606 Great Western Hwy, Pendle Hill NSW 2145",Pendle Hill,2145,Ampol
+466,Ampol Padstow,"115 Fairford Rd, Padstow NSW 2211",Padstow,2211,Ampol
+467,Ampol Foodary St Ives,"164 Mona Vale Road, ST IVES NSW 2075",ST IVES,2075,Ampol
+468,Ampol Gregory Hills,"1 Gregory Hills Drive, GREGORY HILLS NSW 2557",GREGORY HILLS,2557,Ampol
+469,Ampol Woolworths Metro Chatswood,"572 Pacific Hwy, Chatswood NSW 2067",Chatswood,2067,Ampol
+470,Metro Tura beach,"487 SAPPHIRE COAST DR, BOURNDA NSW 2548",BOURNDA,2548,Metro Fuel
+471,Independent Kanahooka,"90-94 Lakeside Dr, KANAHOOKA NSW 2530",KANAHOOKA,2530,Independent
+472,AMPOL NARELLAN,"NARELLAN RD CNR MAXWELL PL, NARELLAN NSW 2567",NARELLAN,2567,Ampol
+473,Ampol Wyong,"M1 Northbound, Wyong NSW 2259",Wyong,2259,Ampol
+474,Ultra Mogo,"33-35 Princes Highway, MOGO NSW 2536",MOGO,2536,Independent
+475,EG Ampol Katoomba,"52 Great Western Hwy (cnr Albion St), Katoomba NSW 2780",Katoomba,2780,EG Ampol
+476,Coles Express Dickson,"30-34 Antill Street, Dickson ACT 2602",Dickson,2602,Coles Express
+477,Coles Express Narrandera,"113 AUDLEY ST, NARRANDERA NSW 2700",NARRANDERA,2700,Coles Express
+478,Budget Goulburn,"53 Sydney Rd, Goulburn NSW 2580",Goulburn,2580,Budget
+479,Mobil Corowa,"475 Honour Ave, COROWA NSW 2646",COROWA,2646,Mobil
+480,Independent Maclean,"51-55 River Street, Maclean NSW 2463",Maclean,2463,Independent
+481,Deep Water road house,"83 Tenterfield St, DEEPWATER NSW 2371",DEEPWATER,2371,Liberty
+482,7-Eleven Minto,"Lot 1 Ben Lomond Road, MINTO NSW 2566",MINTO,2566,7-Eleven
+483,7-Eleven St Clair,"4 Endeavour & Bennett Roads, St Clair NSW 2759",St Clair,2759,7-Eleven
+484,Coles Express Strathfield South,"630-634 Liverpool Road, Strathfield South NSW 2136",Strathfield South,2136,Coles Express
+485,Ampol Foodary Forbes,"22-36 Parkes Road, FORBES NSW 2871",FORBES,2871,Ampol
+486,Westside Petroleum Oberon,"1 Horace St, OBERON NSW 2787",OBERON,2787,Westside
+487,BP Warwick Farm,"6 Hume Hwy, Warwick Farm NSW 2171",Warwick Farm,2171,BP
+488,BP Pymble,"Cnr Pacific Hwy & Bannockburn Rd, Pymble NSW 2073",Pymble,2073,BP
+489,Transwest Fuels,"2 Chelmsford St, KOOTINGAL NSW 2352",KOOTINGAL,2352,Transwest Fuels
+490,Transwest Fuels - CBD,"166 Marius Street, TAMWORTH NSW 2340",TAMWORTH,2340,Transwest Fuels
+491,Ampol Brunswick Heads,"5 Tweed St, BRUNSWICK HEADS NSW 2483",BRUNSWICK HEADS,2483,Ampol
+492,Ampol Albury North,"79 Union Road, NORTH ALBURY NSW 2640",NORTH ALBURY,2640,Ampol
+493,BP Albury,"842 David St, NORTH ALBURY NSW 2640",NORTH ALBURY,2640,BP
+494,EG Ampol Miranda,"Cnr The Kingsway & Port Hacking Road, Miranda NSW 2228",Miranda,2228,EG Ampol
+495,EG Ampol Carnes Hill,"Kurrajong Road (Carnes Hill Marketplace), Hoxton Park NSW 2171",Hoxton Park,2171,EG Ampol
+496,Speedway Green Valley,"182 Green Valley Rd, Green Valley NSW 2168",Green Valley,2168,Speedway
+497,Transwest Fed Park,"45 JEWRY ST, TAMINDA NSW 2340",TAMINDA,2340,Transwest Fuels
+498,BP Randwick,"8-10 Perouse Road, RANDWICK NSW 2031",RANDWICK,2031,BP
+499,METRO PETROLEUM BLACKTOWN FLUSHCOMBE,"140 FLUSHCOMBE RD, BLACKTOWN NSW 2148",BLACKTOWN,2148,Metro Fuel
+500,BP Riverside Maclean,"111-117 River Street, MacLean NSW 2463",MacLean,2463,BP
+501,Coles Express Albury,"465 Guinea St (Cnr David St), Albury NSW 2640",Albury,2640,Coles Express
+502,Lowes Cooma,"2 Sharp Street, Cooma NSW 2630",Cooma,2630,Lowes
+503,Coles Express Chatswood,"877-879 Pacific Hwy, Chatswood NSW 2067",Chatswood,2067,Coles Express
+504,Coles Express Mount Annan,"241 Waterworth Drive, Mount Annan NSW 2567",Mount Annan,2567,Coles Express
+505,Ampol Londonderry,"521 Carrington Road, LONDONDERRY NSW 2753",LONDONDERRY,2753,Ampol
+506,BP Cabramatta West,"90 Joseph St, Cabramatta West NSW 2166",Cabramatta West,2166,BP
+507,ATTUNGA GENERAL STORE,"5 MANILLA RD, ATTUNGA NSW 2345",ATTUNGA,2345,Independent
+508,Shell Helensburgh,"149 - 151 Parkes Street, Helensburgh NSW 2508",Helensburgh,2508,Shell
+509,Rural Supplies Coolamon,"82 Cowabbie St, COOLAMON NSW 2701",COOLAMON,2701,Ampol
+510,Independent West Wyalong,"220 Main Street, West Wyalong NSW 2671",West Wyalong,2671,Independent
+511,Ampol Moonbi,"16-18 Gill St, MOONBI NSW 2353",MOONBI,2353,Ampol
+512,Ampol Tamworth Orana,"21 White St Cnr Marius St, Tamworth NSW 2350",Tamworth,2350,Ampol
+513,Ampol Moorebank,"2 Bridges Road, MOOREBANK NSW 2170",MOOREBANK,2170,Ampol
+514,EG Ampol Cranebrook,"&amp Laycock Drive, CRANEBROOK NSW 2749",CRANEBROOK,2749,EG Ampol
+515,Caltex Peats Ridge,"1112 Peatsridge Rd, Peats Ridge NSW 2250",Peats Ridge,2250,Caltex
+516,Coles Express Belconnen,"Lathlain St & Wignall Pl, Belconnen ACT 2617",Belconnen,2617,Coles Express
+517,Metro Petroleum Toongabbie,"59 THE CRESCENT, TOONGABBIE NSW 2146",TOONGABBIE,2146,Metro Fuel
+518,Coles Express Taren Point,"102-108 Taren Point Road, Taren Point NSW 2229",Taren Point,2229,Coles Express
+519,Metro Peakhurst East,"637 Forest Rd, PEAKHURST NSW 2210",PEAKHURST,2210,Metro Fuel
+520,Ampol Foodary Chinderah,"Tweed Valley Way, CHINDERAH NSW 2487",CHINDERAH,2487,Ampol
+521,Ampol Woolworths Metro Randwick,"2 Alison Rd, RANDWICK NSW 2031",RANDWICK,2031,Ampol
+522,Ampol Holbrook,"51 Albury St, HOLBROOK NSW 2644",HOLBROOK,2644,Ampol
+523,Ampol Port Macquarie,"100 Hastings River Dr, PORT MACQUARIE NSW 2444",PORT MACQUARIE,2444,Ampol
+524,Ampol Woolworths Metro Dee Why,"793-797 Pittwater Rd, DEE WHY NSW 2099",DEE WHY,2099,Ampol
+525,Ampol Woolworths Miller,"86 Cartwright Avenue, MILLER NSW 2168",MILLER,2168,Ampol
+526,Ampol Warners Bay,"55 King St, WARNERS BAY NSW 2282",WARNERS BAY,2282,Ampol
+527,Ampol Greenacre,"87-91 ROBERTS RD, GREENACRE NSW 2190",GREENACRE,2190,Ampol
+528,Ampol Hexham Diesel Stop,"360 Old Maitland Rd Cnr Pacific Hwy, Hexham NSW 2322",Hexham,2322,Ampol
+529,Ampol Queanbeyan Bungendore Rd,"84 MacQuoid Street, QUEANBEYAN EAST NSW 2620",QUEANBEYAN EAST,2620,Ampol
+530,Ampol Weston,"1 Kirkpatrick St, Weston ACT 2611",Weston,2611,Ampol
+531,Ampol Wingham,"Cnr Isabella Street and Primrose Street, WINGHAM NSW 2429",WINGHAM,2429,Ampol
+532,Ampol Tamworth,"109 GUNNEDAH RD, TAMINDA NSW 2340",TAMINDA,2340,Ampol
+533,Ampol Woolworths Metro Kingsford,"603-611 Anzac Pde, KINGSFORD NSW 2032",KINGSFORD,2032,Ampol
+534,Ampol Woolworths Broken Hill,"73-87 Oxide Street, BROKEN HILL NSW 2880",BROKEN HILL,2880,Ampol
+535,7-Eleven Killara,"494 Pacific Hwy, Killara NSW 2071",Killara,2071,7-Eleven
+536,7-Eleven Roseville,"Corner Pacific Highway and Boundary Street, Roseville NSW 2069",Roseville,2069,7-Eleven
+537,7-Eleven Lindfield,"238 Pacific Highway, Lindfield NSW 2070",Lindfield,2070,7-Eleven
+538,BP Bargo,"116-118 Railside Ave, BARGO NSW 2574",BARGO,2574,BP
+539,SPEEDWAY SACKVILLE STREET FAIRFIELD,"115 Sackville Street, FAIRFIELD NSW 2165",FAIRFIELD,2165,Speedway
+540,BP South Moorebank,"80 Heathcote Road, Moorebank NSW 2170",Moorebank,2170,BP
+541,Independent Ramsgate,"112-114 Ramsgate Rd, Ramsgate NSW 2217",Ramsgate,2217,Independent
+542,Metro Petroleum (Kurri Kurri Lang St),"307 LANG ST, KURRI KURRI NSW 2327",KURRI KURRI,2327,Metro Fuel
+543,Metro Kurri Kurri,"1 VICTORIA ST, KURRI KURRI NSW 2327",KURRI KURRI,2327,Metro Fuel
+544,Pearl Energy Mayfield,"132 MAITLAND RD, MAYFIELD NSW 2304",MAYFIELD,2304,Independent
+545,Metro Petroleum Hillside,"75 GYPSUM ST, BROKEN HILL NSW 2880",BROKEN HILL,2880,Metro Fuel
+546,United Bulahdelah,"9999 Pacific Hwy, BULAHDELAH NSW 2423",BULAHDELAH,2423,United
+547,Independent Oberon,"187, Oberon Street, Oberon NSW 2787",Oberon,2787,Independent
+548,Metro Petroleum Lavington,"SHOP 2 407 WAGGA RD, LAVINGTON NSW 2641",LAVINGTON,2641,Metro Fuel
+549,7-Eleven Warners Bay,"393 Hillsborough Road (Corner Macquarie Road), Warners Bay NSW 2282",Warners Bay,2282,7-Eleven
+550,7-Eleven Charlestown,"271-273 Charlestown Rd, CHARLESTOWN NSW 2290",CHARLESTOWN,2290,7-Eleven
+551,BP Mortdale,"21 Boundary Road, Mortdale NSW 2223",Mortdale,2223,BP
+552,Independent Euston,"49 Murray Terrace, Euston NSW 2737",Euston,2737,Independent
+553,Budget Petroleum Smithfield,"729 The Horsley Dr, SMITHFIELD NSW 2164",SMITHFIELD,2164,Budget
+554,Metro Petroleum Thornleigh,"169-171 PENNANT HILLS RD, THORNLEIGH NSW 2120",THORNLEIGH,2120,Metro Fuel
+555,Ampol Port Kembla,"1-3 CHURCH ST, PORT KEMBLA NSW 2505",PORT KEMBLA,2505,Ampol
+556,Independent Ingleburn,"21-23 Cumberland Rd, Ingleburn NSW 2565",Ingleburn,2565,Independent
+557,BILAMBIL POST OFFICE,"381 BILAMBIL RD, BILAMBIL NSW 2486",BILAMBIL,2486,Liberty
+558,EG Ampol Byron Bay,"76-78 Shirley Street, Byron Bay NSW 2481",Byron Bay,2481,EG Ampol
+559,Speedway Court Road,"32 COURT RD, FAIRFIELD NSW 2165",FAIRFIELD,2165,Speedway
+560,Liberty Broken Hill,"535 ARGENT ST, BROKEN HILL NSW 2880",BROKEN HILL,2880,Liberty
+561,BP Roadhouse Murrurundi,"3-5 Mayne Street, MURRURUNDI NSW 2338",MURRURUNDI,2338,BP
+562,7-Eleven Moorebank,"98-102 Heathcote Rd, MOOREBANK NSW 2170",MOOREBANK,2170,7-Eleven
+563,BP Glen Innes,"205 Ferguson St, GLEN INNES NSW 2370",GLEN INNES,2370,BP
+564,Shell Sandy Hollow,"1612 Golden Highway, SANDY HOLLOW NSW 2333",SANDY HOLLOW,2333,Independent
+565,BP Nambucca T/C,"2 Corkwood Rd, VALLA NSW 2448",VALLA,2448,BP
+566,Metro Castle Cove,"327 Eastern Valley Way, Castle Cove NSW 2069",Castle Cove,2069,Metro Fuel
+567,Shell McGraths Hill,"126 Windsor Rd, MCGRATHS HILL NSW 2756",MCGRATHS HILL,2756,Shell
+568,BP Bolwarra Heights,"200 Paterson Road, BOLWARRA HEIGHTS NSW 2320",BOLWARRA HEIGHTS,2320,BP
+569,METRO SHORTLAND,"278 SANDGATE RD, SHORTLAND NSW 2307",SHORTLAND,2307,Metro Fuel
+570,Caltex Yetholme,"3529 Greatwestern Hi, Yetholme NSW 2795",Yetholme,2795,Caltex
+571,BP Ozigo,"Corner Ewingsdale Rd and, Bayshore Dr, Byron Bay NSW 2481",Byron Bay,2481,BP
+572,United Dubbo East,"195 Cobra St, Dubbo East NSW 2830",Dubbo East,2830,United
+573,The Channon General Store,"7 STANDING ST, THE CHANNON NSW 2480",THE CHANNON,2480,Liberty
+574,Speedway Kent Road,"38 Kent Rd, NORTH RYDE NSW 2113",NORTH RYDE,2113,Speedway
+575,Metro Petroleum Gosford,"57 CENTRAL COAST HWY, WEST GOSFORD NSW 2250",WEST GOSFORD,2250,Metro Fuel
+576,Metro Petroleum,"96 HOXTON PARK RD, LURNEA NSW 2170",LURNEA,2170,Metro Fuel
+577,Independent Coomba Park,"11 Kirribilli Avenue, Coomba Park NSW 2428",Coomba Park,2428,Independent
+578,Mobil Coolongolook,"21 BENGAL ST, COOLONGOLOOK NSW 2423",COOLONGOLOOK,2423,Mobil
+579,Mobil Muswellbrook,"49-51 Maitland St, MUSWELLBROOK NSW 2333",MUSWELLBROOK,2333,Mobil
+580,Mobil Forster,"131 THE LAKES WAY, FORSTER NSW 2428",FORSTER,2428,Mobil
+581,Metro Petroleum Bexley North,"307-309 Bexley Rd, BEXLEY NORTH NSW 2207",BEXLEY NORTH,2207,Metro Fuel
+582,Mobil Forster North,"32 HEAD ST, FORSTER NSW 2428",FORSTER,2428,Mobil
+583,Metro Petroleum Oakflats,"80-82 Central Ave, OAK FLATS NSW 2529",OAK FLATS,2529,Metro Fuel
+584,7-Eleven Muswellbrook,"31-33 MAITLAND ST, MUSWELLBROOK NSW 2333",MUSWELLBROOK,2333,7-Eleven
+585,Independent Wiley Park,"107 King Georges Rd, Wiley Park NSW 2195",Wiley Park,2195,Independent
+586,Metro Fuel Cliftleigh,"80 Main Road, Cliftleigh NSW 2321",Cliftleigh,2321,Metro Fuel
+587,Trundle Fuel,"77 FORBES ST, TRUNDLE NSW 2875",TRUNDLE,2875,Independent
+588,Metro Fuel Condell Park,"149 Eldridge Road, Condell Park NSW 2200",Condell Park,2200,Metro Fuel
+589,Ampol Denham Court,"194 CAMPBELLTOWN RD, DENHAM COURT NSW 2565",DENHAM COURT,2565,Ampol
+590,Pearl Energy Clarendon,"244 Hawkesbury Valley Way, CLARENDON NSW 2756",CLARENDON,2756,Independent
+591,BP North Orange,"5 Hanrahan Place, ORANGE NSW 2800",ORANGE,2800,BP
+592,Mobil Dubbo,"2 HAWTHORN ST, DUBBO NSW 2830",DUBBO,2830,Mobil
+593,United Petroleum Yagoona South,"45 Rookwood Rd, YAGOONA NSW 2199",YAGOONA,2199,United
+594,BP Rockdale,"444 West Botany Street, ROCKDALE NSW 2216",ROCKDALE,2216,BP
+595,Mobil Taree,"132 MANNING RIVER DR, TAREE SOUTH NSW 2430",TAREE SOUTH,2430,Mobil
+596,Enhance Homebush,"242 Parramatta Road, Homebush NSW 2140",Homebush,2140,Enhance
+597,CALTEX MUSWELLBROOK,"42-50 Sydney St, MUSWELLBROOK NSW 2333",MUSWELLBROOK,2333,Caltex
+598,APEX PETROLEUM (WEST RYDE),"898-902 Victoria Rd, West Ryde NSW 2114",West Ryde,2114,Independent
+599,Enhance West Wollongong,"438 CROWN ST, WEST WOLLONGONG NSW 2500",WEST WOLLONGONG,2500,Enhance
+600,APEX PETROLEUM VILLAWOOD,"896A Woodville Rd, Villawood NSW 2163",Villawood,2163,Independent
+601,Apex Petroleum Kemps Creek - Truck Facilities,"1443 Elizabeth Drive, Kemps Creek NSW 2178",Kemps Creek,2178,Independent
+602,Mobil Faulconbridge,"450 Great Western Hw, Faulconbridge NSW 2776",Faulconbridge,2776,Mobil
+603,Apex Petroleum Airds,"60 Riverside, Airds NSW 2560",Airds,2560,Independent
+604,BP Erina,"90 THE ENTRANCE ROAD, ERINA NSW 2250",ERINA,2250,BP
+605,United Jennings,"Border Roadhouse 1823 New England Hwy, JENNINGS NSW 4383",JENNINGS,4383,United
+606,BP Whittingham,"3550 NEW ENGLAND HWY, WHITTINGHAM NSW 2330",WHITTINGHAM,2330,BP
+607,Pearl Energy,"86-88 MacIntosh Street, FORSTER NSW 2428",FORSTER,2428,Independent
+608,BP Warners Bay,"9 KING ST, WARNERS BAY NSW 2282",WARNERS BAY,2282,BP
+609,BP Rosehill,"Cnr Hassall & James Ruse Drive, Rosehill NSW 2142",Rosehill,2142,BP
+610,BP St Marys South,"12 Gallipoli St, St Marys NSW 2760",St Marys,2760,BP
+611,BP Raglan,"39 Sydney Road, Raglan NSW 2795",Raglan,2795,BP
+612,Ampol Smeaton Grange,"1 DUNN RD, SMEATON GRANGE NSW 2567",SMEATON GRANGE,2567,Ampol
+613,Andys Garage Bray Park,"46-48 Kyogle Rd, BRAY PARK NSW 2484",BRAY PARK,2484,Independent
+614,EG Ampol Muswellbrook,"Cnr Brook & Sowerby Streets, Muswellbrook NSW 2333",Muswellbrook,2333,EG Ampol
+615,Metro Fuel Ermington,"700 Victoria Rd, ERMINGTON NSW 2115",ERMINGTON,2115,Metro Fuel
+616,Metro Fuel Old Toongabbie,"5 Picasso Cr, Old Toongabbie NSW 2146",Old Toongabbie,2146,Metro Fuel
+617,7-Eleven Casey,"10 Kingsland Parade, Casey ACT 2913",Casey,2913,7-Eleven
+618,Ampol Hornsby Heights,"110 Galston Rd., Hornsby Heights NSW 2077",Hornsby Heights,2077,Ampol
+619,EG Ampol Queanbeyan,"196 Crawford Street, Queanbeyan NSW 2620",Queanbeyan,2620,EG Ampol
+620,7-Eleven Northmead,"56 Windsor Road & Northmead Avenue, Northmead NSW 2152",Northmead,2152,7-Eleven
+621,7-Eleven Northmead,"137 Windsor Road, Northmead NSW 2152",Northmead,2152,7-Eleven
+622,7-Eleven North Rocks,"340 North Rocks Road, North Rocks NSW 2151",North Rocks,2151,7-Eleven
+623,EG Ampol Brookvale,"756 Pittwater Rd (Cnr West St), Brookvale NSW 2100",Brookvale,2100,EG Ampol
+624,BP Coffs Harbour South,"380 PACIFIC HWY, NORTH BOAMBEE VALLEY NSW 2450",NORTH BOAMBEE VALLEY,2450,BP
+625,Budget Brighton,"275 Bay Street, Brighton-Le-Sands NSW 2216",Brighton-Le-Sands,2216,Budget
+626,Budget Granville,"27 Woodville Rd, Granville NSW 2142",Granville,2142,Budget
+627,Independent Telegraph Point,"101 Mooney St, Telegraph Point NSW 2441",Telegraph Point,2441,Independent
+628,Metro Milperra,"144 Beaconsfield Street, MILPERRA NSW 2214",MILPERRA,2214,Metro Fuel
+629,BP Coffs Harbour,"136 Pacific Highway, Coffs Harbour NSW 2450",Coffs Harbour,2450,BP
+630,BUDGET PETROL ASHFIELD,"22 Charlotte Street, ASHFIELD NSW 2131",ASHFIELD,2131,Budget
+631,BP Balgowlah,"485 Sydney Road, Balgowlah NSW 2093",Balgowlah,2093,BP
+632,United Taree Depot,"85 Muldoon St, TAREE NSW 2430",TAREE,2430,United
+633,Metro Kurmond and Newsagency,"583 Bells Line Of Road, Kurmond NSW 2757",Kurmond,2757,Metro Fuel
+634,Pacific Petroleum,"5 Canavan Dr, BERESFIELD NSW 2322",BERESFIELD,2322,Independent
+635,BP North Albury T/S,"3 Travelstop Way, Lavington NSW 2641",Lavington,2641,BP
+636,Caltex Uranquinty,"28 Morgan St, Uranquinty NSW 2652",Uranquinty,2652,Caltex
+637,BP Roadhouse,"53 BOMBALA ST, NIMMITABEL NSW 2631",NIMMITABEL,2631,BP
+638,BP Express Northwood,"7-9 Northwood Road, Northwood NSW 2066",Northwood,2066,BP
+639,Independent Casino,"169 Canterbury St, CASINO NSW 2470",CASINO,2470,Independent
+640,EG Ampol Blakehurst,"390 Princes Highway, Blakehurst NSW 2221",Blakehurst,2221,EG Ampol
+641,Shell Coila,"Coila Auto and Caravan Pk 3926 Princes Hwy, COILA NSW 2537",COILA,2537,Shell
+642,South West Fuel Cootamundra,"56 Yass Rd, COOTAMUNDRA NSW 2590",COOTAMUNDRA,2590,South West
+643,Enhance Barrack Heights,"254-256 Shellharbour Rd, Barrack Heights NSW 2528",Barrack Heights,2528,Enhance
+644,Coles Express Cremorne,"227 Military Rd, Cremorne NSW 2090",Cremorne,2090,Coles Express
+645,Coles Express Pagewood,"297-299 Bunnerong Road, Pagewood NSW 2035",Pagewood,2035,Coles Express
+646,Metro Yagoona,"585 Hume Hwy, YAGOONA NSW 2199",YAGOONA,2199,Metro Fuel
+647,Metro Petroleum Epping,"30 BRIDGE ST, EPPING NSW 2121",EPPING,2121,Metro Fuel
+648,Red Spot Express Peak Hill,"123-125 Caswell Street, Peak Hill NSW 2869",Peak Hill,2869,Independent
+649,"METRO PETROLEUM, WYEE","147 WYEE RD, WYEE NSW 2259",WYEE,2259,Metro Fuel
+650,BP Finley,"255 Murray Street, Finley NSW 2713",Finley,2713,BP
+651,EG Ampol Orange North,"1 Hanrahan Place (Cnr Leeds Pde), Orange NSW 2800",Orange,2800,EG Ampol
+652,EG Ampol Silverwater,"154 Silverwater Rd, SILVERWATER NSW 2128",SILVERWATER,2128,EG Ampol
+653,Costco Canberra Airport (Members Only),"39-41 Mustang Avenue, Canberra Airport ACT 2609",Canberra Airport,2609,Costco
+654,Costco Casula (Members only),"20 Parkersfarm Place, Casula NSW 2170",Casula,2170,Costco
+655,Costco Marsden Park (Members only),"10 Langford Drive, MARSDEN PARK NSW 2765",MARSDEN PARK,2765,Costco
+656,Costco Lake Macquarie (Members only),"1 CRESSY RD, BOOLAROO NSW 2284",BOOLAROO,2284,Costco
+657,METRO WEST WYALONG,"298 NEELD ST, WEST WYALONG NSW 2671",WEST WYALONG,2671,Metro Fuel
+658,Tinonee General Store,"53 Beecher Street, TINONEE NSW 2430",TINONEE,2430,Independent
+659,Ampol Tocumwal,"54 Deniliquin Road, Tocumwal NSW 2714",Tocumwal,2714,Ampol
+660,Independent Walla Walla,"63 Commercial St, Walla Walla NSW 2659",Walla Walla,2659,Independent
+661,EG Ampol Islington,"262 Maitland Rd (Pacific Highway), Islington NSW 2296",Islington,2296,EG Ampol
+662,Freedom Fuels Vineyard,"1540 Windsor Road, Vineyard NSW 2765",Vineyard,2765,Independent
+663,Speedway Revesby,"106 Milperra Rd, Revesby NSW 2212",Revesby,2212,Speedway
+664,Thora Store,"2656 Waterfall Way, THORA NSW 2454",THORA,2454,Independent
+665,Coles Express Woolloomooloo,"61-63 Cowper Wharf Rd (Cnr Dowling St), Woolloomooloo NSW 2011",Woolloomooloo,2011,Coles Express
+666,Ampol Casino,"28-32 Dyraaba St, Casino NSW 2470",Casino,2470,Ampol
+667,Metro Petroleum Keiraville,"270 GIPPS RD, KEIRAVILLE NSW 2500",KEIRAVILLE,2500,Metro Fuel
+668,EG Ampol Mount Annan,"157 Narellan Rd (Cnr Smeaton Grange Rd), Mount Annan NSW 2567",Mount Annan,2567,EG Ampol
+669,Ampol Casino Centre St,"96 CENTRE ST, CASINO NSW 2470",CASINO,2470,Ampol
+670,BP Haberfield,"95-97 Ramsay St, HABERFIELD NSW 2045",HABERFIELD,2045,BP
+671,METRO West Wollongong,"505 Crown St, West Wollongong NSW 2500",West Wollongong,2500,Metro Fuel
+672,Campbell's Fuel BP,"309 Byron St, Inverell NSW 2360",Inverell,2360,BP
+673,Ampol Cooma Truck Stop Polo Flat,"2 Geebung St, POLO FLAT NSW 2630",POLO FLAT,2630,Ampol
+674,Coles Express Green Valley,"Cowpasture Rd & Green Valley, Green Valley NSW 2168",Green Valley,2168,Coles Express
+675,Ampol Rutherford Diesel Stop,"83 Mustang Dr, RUTHERFORD NSW 2320",RUTHERFORD,2320,Ampol
+676,EG Ampol Spring Farm,"254a Richardson Street, Spring Farm NSW 2570",Spring Farm,2570,EG Ampol
+677,Duncan's Store & Fuel,"4 Davis Street, Currabubula NSW 2342",Currabubula,2342,Independent
+678,Ampol Castlereagh,"1141 Castlereagh Rd, Castlereagh NSW 2749",Castlereagh,2749,Ampol
+679,Mobil The Oaks,"1190 Burragorang Rd, The Oaks NSW 2570",The Oaks,2570,Mobil
+680,Ampol Port Kembla Diesel Stop,"16 Flinders St, Port Kembla NSW 2505",Port Kembla,2505,Ampol
+681,United Petroleum Dubbo,"Cnr Fitzroy & Cobra Streets, Dubbo NSW 2830",Dubbo,2830,United
+682,Coles Express Minto,"73 Pembroke Rd (Cnr Durham St), Minto NSW 2566",Minto,2566,Coles Express
+683,Coles Express Bondi Junction,"120-138 Birrell Street, Bondi Junction NSW 2022",Bondi Junction,2022,Coles Express
+684,Coles Express Narellan,"293 Camden Valley Hwy (Cnr Grahams Hill Rd), Narellan NSW 2567",Narellan,2567,Coles Express
+685,Independent Cootamundra,"30 Wallendoon St, Cootamundra NSW 2590",Cootamundra,2590,Independent
+686,Budget South Penrith,"184 Smith Street, South Penrith NSW 2750",South Penrith,2750,Budget
+687,Access Fuels Yamba,"30 YAMBA ST, YAMBA NSW 2464",YAMBA,2464,Independent
+688,Hastings Co-op,"188 High Street, Wauchope NSW 2446",Wauchope,2446,Ampol
+689,Hastings Co-op Depot,"229 High Street, Wauchope NSW 2446",Wauchope,2446,Ampol
+690,Hastings Co-op,"4 High Street, Wauchope NSW 2446",Wauchope,2446,Ampol
+691,BP Mays Hill,"149 Great Western Hwy, Mays Hill NSW 2145",Mays Hill,2145,BP
+692,United Petroleum Dee Why Pittwater,"625 Pittwater Road, Dee Why NSW 2099",Dee Why,2099,United
+693,United Petroleum Orange South,"176-178 Peisley Street, ORANGE NSW 2800",ORANGE,2800,United
+694,United Petroleum Tamworth,"419-437 Goonoo-Goonoo Road, Tamworth NSW 2340",Tamworth,2340,United
+695,United Petroleum Dee Why,"1 The Strand, Dee Why NSW 2099",Dee Why,2099,United
+696,United Petroleum Wilberforce,"539 Wilberforce Rd, WILBERFORCE NSW 2756",WILBERFORCE,2756,United
+697,United Petroleum Coffs Central,"165 Pacific Highway, Coffs Central NSW 2450",Coffs Central,2450,United
+698,BP Black Mountain Road House & Motel,"3174 New England Hig, Black Mountain NSW 2365",Black Mountain,2365,Independent
+699,United Petroleum Minto,"6 Swettenham Road, Minto NSW 2566",Minto,2566,United
+700,United Petroleum North Richmond,"81-87 Bells Line of Road, North Richmond NSW 2754",North Richmond,2754,United
+701,United Terrey HILLS,"43 Booralie Rd, TERREY HILLS NSW 2084",TERREY HILLS,2084,United
+702,United Petroleum Waterloo,"941-953 Burke Road, Waterloo NSW 2147",Waterloo,2147,United
+703,United Petroleum Wagga Wagga,"122 Hammond Avenue, Wagga Wagga NSW 2650",Wagga Wagga,2650,United
+704,Access Fuels Ebor,"1 Ebor St, EBOR NSW 2453",EBOR,2453,Independent
+705,Coles Express Griffith,"121 Banna Avenue, Griffith NSW 2680",Griffith,2680,Coles Express
+706,Coles Express Tocumwal,"Dean & Hill Streets, Tocumwal NSW 2714",Tocumwal,2714,Coles Express
+707,ACCESS FUELS TUNCURRY,"86 Manning St, TUNCURRY NSW 2428",TUNCURRY,2428,Independent
+708,BP Hoxton Park,"Lot 1 Cowpasture Road, HOXTON PARK NSW 2171",HOXTON PARK,2171,BP
+709,United Petroleum Orange,"174 Woodward Street, Orange NSW 2800",Orange,2800,United
+710,Independent Bellingen,"995 Waterfall Way, Bellingen NSW 2454",Bellingen,2454,Independent
+711,Coles Express Gundagai,"Hume highway & Sheahan Bridge, GUNDAGAI NSW 2722",GUNDAGAI,2722,Coles Express
+712,Metro Wyangan,"7 Wyangan Avenue, Griffith NSW 2680",Griffith,2680,Metro Fuel
+713,United Petroleum Coffs Harbour,"316 Harbour Drive, Coffs Harbour NSW 2450",Coffs Harbour,2450,United
+714,Independent TATHRA,"88 Bega St, TATHRA NSW 2550",TATHRA,2550,Independent
+715,Independent Rainbow Flat,"362 GODFREY HILL RD, RAINBOW FLAT NSW 2430",RAINBOW FLAT,2430,Independent
+716,Access Fuels,"1-3 HI-TECH DR, TOORMINA NSW 2452",TOORMINA,2452,Independent
+717,Hill & Co Metro Depot,"1 Braidwood Rd, GOULBURN NSW 2580",GOULBURN,2580,Metro Fuel
+718,Mobil Junee,"33 SEIGNIOR ST, JUNEE NSW 2663",JUNEE,2663,Mobil
+719,EG Ampol Prospect,"360 Flushcombe Road, Prospect NSW 2148",Prospect,2148,EG Ampol
+720,EG Ampol Cootamundra,"88 Murray Street, Cootamundra NSW 2590",Cootamundra,2590,EG Ampol
+721,EG Ampol Casino,"130 Canterbury St (Cnr The Summerland Way), Casino NSW 2470",Casino,2470,EG Ampol
+722,United Petroleum Marrangaroo,"Great Western Hwy, MARRANGAROO NSW 2790",MARRANGAROO,2790,United
+723,Ampol Woolworths Cherrybrook,"67 Shepherds Dr, CHERRYBROOK NSW 2126",CHERRYBROOK,2126,Ampol
+724,Ampol Raymond Terrace North,"40 Richardson Rd, RAYMOND TERRACE NSW 2324",RAYMOND TERRACE,2324,Ampol
+725,Ampol Cabramatta,"166 John St, CABRAMATTA NSW 2166",CABRAMATTA,2166,Ampol
+726,Ampol Parkes,"352-360 Clarinda Street, PARKES NSW 2870",PARKES,2870,Ampol
+727,Ampol Woolworths Coogee South,"169-173 Malabar Rd, SOUTH COOGEE NSW 2034",SOUTH COOGEE,2034,Ampol
+728,Caltex Lavington,"436 Wagga Rd Cnr Dick Rd, Lavington NSW 2641",Lavington,2641,Caltex
+729,Ampol Edgeworth,"662 Main Rd, EDGEWORTH NSW 2285",EDGEWORTH,2285,Ampol
+730,Ampol Dubbo,"Cobra Street Cnr Brisbane Street, DUBBO NSW 2830",DUBBO,2830,Ampol
+731,Ampol Holt,"1 Hardwick Crescent, Holt ACT 2615",Holt,2615,Ampol
+732,Ampol Woolworths Woollahra,"116-118 Old South Head Rd, WOOLLAHRA NSW 2025",WOOLLAHRA,2025,Ampol
+733,Ampol Talmac Dubbo,"119 Bourke Street, DUBBO NSW 2830",DUBBO,2830,Ampol
+734,Ampol Woolworths Erina,"155 The Entrance Rd, ERINA NSW 2250",ERINA,2250,Ampol
+735,Ampol Woolworths Waitara,"59-61 Pacific Highway, WAITARA NSW 2077",WAITARA,2077,Ampol
+736,Ampol Kambah,"3 MARCONI CR, KAMBAH ACT 2902",KAMBAH,2902,Ampol
+737,Ampol Woolworths Heathcote Southbound,"1344 Princes Hwy, HEATHCOTE NSW 2233",HEATHCOTE,2233,Ampol
+738,AMPOL WOY WOY,"66 Memorial Ave, BLACKWALL NSW 2256",BLACKWALL,2256,Ampol
+739,Ampol Woolworths Heathcote Northbound,"1403 Princes Hwy, Heathcote NSW 2233",Heathcote,2233,Ampol
+740,EG Ampol Dural,"532 Old Northern Road, Dural NSW 2158",Dural,2158,EG Ampol
+741,EG Ampol Granville,"158 Clyde Street (Cnr Redfern St), Granville NSW 2142",Granville,2142,EG Ampol
+742,Metro Peakhurst,"836 FOREST RD, PEAKHURST NSW 2210",PEAKHURST,2210,Metro Fuel
+743,Ampol Gwynneville,"162 Gipps Rd, Gwynneville NSW 2500",Gwynneville,2500,Ampol
+744,Lowes Hillston,"165 Cowper Street, Hillston NSW 2675",Hillston,2675,Lowes
+745,Coles Express Willoughby,"612-626 Willoughby Rd Cnr Penkivil St, WILLOUGHBY NSW 2068",WILLOUGHBY,2068,Coles Express
+746,Ampol Woolworths Metro Alexandria,"133 Wyndham Street, ALEXANDRIA NSW 2015",ALEXANDRIA,2015,Ampol
+747,Ampol Woolworths Mudgee,"114-118 Church St, MUDGEE NSW 2850",MUDGEE,2850,Ampol
+748,Ampol Coogee,"146-148 COOGEE BAY RD, COOGEE NSW 2034",COOGEE,2034,Ampol
+749,Ampol Woolworths Metro Neutral Bay,"16-38 Military Rd, Neutral Bay NSW 2089",Neutral Bay,2089,Ampol
+750,Ampol Rutherford,"134-138 New England Highway, RUTHERFORD NSW 2320",RUTHERFORD,2320,Ampol
+751,Ampol Braddon,"36 LONSDALE ST, BRADDON ACT 2612",BRADDON,2612,Ampol
+752,Ampol Nicholls,"Curran Drive Cnr O'Hanlon Pl, Nicholls ACT 2913",Nicholls,2913,Ampol
+753,Ampol Woolworths Jindabyne,"6 Kosciuszko rd, Jindabyne NSW 2627",Jindabyne,2627,Ampol
+754,Ampol Muswellbrook (Maitland Rd),"84-86 Maitland St, MUSWELLBROOK NSW 2333",MUSWELLBROOK,2333,Ampol
+755,Ampol Banora Point West,"Darlington Drive Corner Leisure Drive, BANORA POINT WEST NSW 2486",BANORA POINT WEST,2486,Ampol
+756,Ampol Queanbeyan Laynon Drive,"1 Suraci Place, QUEANBEYAN WEST NSW 2620",QUEANBEYAN WEST,2620,Ampol
+757,Ampol Dural,"917-923 Old Northern Rd, DURAL NSW 2158",DURAL,2158,Ampol
+758,shell cromer,"189 South Creek Road, CROMER NSW 2099",CROMER,2099,Shell
+759,BP Cardiff,"328 MAIN RD, CARDIFF NSW 2285",CARDIFF,2285,BP
+760,BP Lugarno,"1046 FOREST RD, LUGARNO NSW 2210",LUGARNO,2210,BP
+761,BP FOX HILLS,"152 Toongabbie Rd, GIRRAWEEN NSW 2145",GIRRAWEEN,2145,BP
+762,Speedway Westmead,"67-69 Hawkesbury Rd, Westmead NSW 2145",Westmead,2145,Speedway
+763,Nanaglen General store,"16-18 NANA ST, NANA GLEN NSW 2450",NANA GLEN,2450,Liberty
+764,Coles Express Hornsby,"194-206 Pacific Hwy, Hornsby NSW 2077",Hornsby,2077,Coles Express
+765,7-Eleven Maroubra,"1 Meagher Ave (Cnr Malabar Rd) (Repn 9 June'16), Maroubra NSW 2035",Maroubra,2035,7-Eleven
+766,7-Eleven Erina,"214 The Entrance Road, Erina NSW 2250",Erina,2250,7-Eleven
+767,7-Eleven Blacktown East,"56 Leabons Lane (Corner Blacktown Road), Blacktown East NSW 2148",Blacktown East,2148,7-Eleven
+768,7-Eleven Castle Hill,"255 -257 Old Northern Road, Castle Hill NSW 2154",Castle Hill,2154,7-Eleven
+769,Metro Wollongong,"394 CROWN ST, WOLLONGONG NSW 2500",WOLLONGONG,2500,Metro Fuel
+770,BP Dubbo,"107 Erskine Street, Dubbo NSW 2830",Dubbo,2830,BP
+771,BP Woollahra,"39 Vernon Street, Woollahra NSW 2025",Woollahra,2025,BP
+772,BP Mudgee,"77 Church Street, Mudgee NSW 2850",Mudgee,2850,BP
+773,Metro Bonnyrigg Heights,"61 Brown Road, Bonnyrigg NSW 2177",Bonnyrigg,2177,Metro Fuel
+774,BP Jindabyne,"8 Kosciusko Road, Jindabyne NSW 2627",Jindabyne,2627,BP
+775,Speedway Villawood,"45 Fairfield St, Villawood NSW 2163",Villawood,2163,Speedway
+776,Ampol Foodary Marsden Park,"875 Richmond Rd, MARSDEN PARK NSW 2765",MARSDEN PARK,2765,Ampol
+777,Independent Bodalla,"93 Princes Hwy, Bodalla NSW 2545",Bodalla,2545,Independent
+778,BP Willoughby,"316 Penhurst St, Willoughby NSW 2068",Willoughby,2068,BP
+779,Metro Petroleum Saratoga,"13-15 VILLAGE RD, SARATOGA NSW 2251",SARATOGA,2251,Metro Fuel
+780,Ampol Kogarah,"29 President Ave, KOGARAH NSW 2217",KOGARAH,2217,Ampol
+781,Shell Wellington,"16 Mitchell Hwy, Wellington NSW 2820",Wellington,2820,Shell
+782,7-Eleven Mosman,"45 Spit Road, Mosman NSW 2088",Mosman,2088,7-Eleven
+783,Metro Petroleum Liverpool,"64 Orange Grove Rd, WARWICK FARM NSW 2170",WARWICK FARM,2170,Metro Fuel
+784,7-Eleven Melba,"2 Chinner Cres, Melba ACT 2615",Melba,2615,7-Eleven
+785,7-Eleven Spence,"Glassey Pl & Cnr Clarey Cres, Spence ACT 2615",Spence,2615,7-Eleven
+786,BP Cabramatta West,"208-212 Cabramatta Rd, Cabramatta West NSW 2166",Cabramatta West,2166,BP
+787,Metro Bankstown,"110 Canterbury Rd, BANKSTOWN NSW 2200",BANKSTOWN,2200,Metro Fuel
+788,Metro Fuel Croydon Park,"274 GEORGES RIVER RD, CROYDON PARK NSW 2133",CROYDON PARK,2133,Metro Fuel
+789,Independent Blayney,"3 Maria Street, Blayney NSW 2799",Blayney,2799,Independent
+790,BP Narromine,"1 DANDALOO ST, NARROMINE NSW 2821",NARROMINE,2821,BP
+791,Coles Express Neutral Bay,"200-204 Ben Boyd Rd (Cnr Ernest St), Neutral Bay NSW 2089",Neutral Bay,2089,Coles Express
+792,Ampol Woolworths Mount Colah,"603 Pacific Hwy, MOUNT COLAH NSW 2079",MOUNT COLAH,2079,Ampol
+793,Ampol Brookvale,"740-742 Pittwater Rd, BROOKVALE NSW 2100",BROOKVALE,2100,Ampol
+794,BP WELLINGTON,"35A MAXWELL ST, WELLINGTON NSW 2820",WELLINGTON,2820,BP
+795,Coles Express Rutherford,"118 New England Hwy, Rutherford NSW 2320",Rutherford,2320,Coles Express
+796,Coles Express Braddon,"54 MORT ST, BRADDON ACT 2612",BRADDON,2612,Coles Express
+797,Coles Express Deakin,"SHOP 1 25 HOPETOUN CCT, DEAKIN ACT 2600",DEAKIN,2600,Coles Express
+798,United Petroleum Viney Creek,"Lot 12, 51 Pacific Highway, Viney Creek NSW 2324",Viney Creek,2324,United
+799,BP Wiley Park,"24-42 King Georges Road, Wiley Park NSW 2195",Wiley Park,2195,BP
+800,Coles Express Greenacre,"9-11 Roberts Road, Greenacre NSW 2190",Greenacre,2190,Coles Express
+801,Ampol Narooma,"60 Princes Hwy, NAROOMA NSW 2546",NAROOMA,2546,Ampol
+802,Coles Express Greenacre,"74 Roberts Road, Greenacre NSW 2190",Greenacre,2190,Coles Express
+803,Metro Tuggerah,"150 Pacific Hwy, TUGGERAH NSW 2259",TUGGERAH,2259,Metro Fuel
+804,BP Rozelle,"Cnr Victoria Rd & Evans St, Rozelle NSW 2039",Rozelle,2039,BP
+805,Coles Express Edmondson Park,"2126 Camden Valley Way, EDMONSON PARK NSW 2174",EDMONSON PARK,2174,Coles Express
+806,Metro Fuel Jannali,"97-99 Wattle Road, Jannali NSW 2226",Jannali,2226,Metro Fuel
+807,Coles Express Smithfield,"678 The Horsley Drv (Cnr Cumberland Hwy), Smithfield NSW 2164",Smithfield,2164,Coles Express
+808,Caltex Glen Innes,"64 CHURCH ST, GLEN INNES NSW 2370",GLEN INNES,2370,Caltex
+809,Ampol Guyra,"4352 New England Hwy, GUYRA NSW 2365",GUYRA,2365,Ampol
+810,Coles Express Mudgee,"47 Church St (Cnr Mortimer St), Mudgee NSW 2850",Mudgee,2850,Coles Express
+811,Westside Petroleum - Yarramalong,"1625 Yarramalong Rd, YARRAMALONG NSW 2259",YARRAMALONG,2259,Independent
+812,Caltex Kempsey South,"629 Pacific Highway, KEMPSEY SOUTH NSW 2440",KEMPSEY SOUTH,2440,Caltex
+813,EG Ampol Broken Hill,"Cnr Galena & Mercury Sts, Broken Hill NSW 2880",Broken Hill,2880,EG Ampol
+814,BP Port Kembla,"144 Wentworth Street, Port Kembla NSW 2505",Port Kembla,2505,BP
+815,Metro Bexley,"630 Forest Road, BEXLEY NSW 2207",BEXLEY,2207,Metro Fuel
+816,Ampol Holbrook,"130 ALBURY ST, HOLBROOK NSW 2644",HOLBROOK,2644,Ampol
+817,METRO ROZELLE,"127 VICTORIA RD, ROZELLE NSW 2039",ROZELLE,2039,Metro Fuel
+818,Ampol Woolworths Luddenham,"105 WILLMINGTON RD, LUDDENHAM NSW 2745",LUDDENHAM,2745,Ampol
+819,Metro Glossodia,"450 Creek Ridge Road, GLOSSODIA NSW 2756",GLOSSODIA,2756,Metro Fuel
+820,Ampol Woolworths Carlingford,"797 Pennant Hills Road, CARLINGFORD NSW 2118",CARLINGFORD,2118,Ampol
+821,Ampol Woolworths Rydalmere,"309 Victoria Rd, RYDALMERE NSW 2116",RYDALMERE,2116,Ampol
+822,Coopernook Service Station,"104 George Gibson Drive, COOPERNOOK NSW 2426",COOPERNOOK,2426,Independent
+823,EG Ampol Greenacre,"51 Roberts Road (Cnr Amarina St), Greenacre NSW 2190",Greenacre,2190,EG Ampol
+824,Greenwell Point Service Centre,"85 Greenwell Point Rd, GREENWELL POINT NSW 2540",GREENWELL POINT,2540,Enhance
+825,EJ Stop N Save,"9 Davies Rd, Padstow NSW 2211",Padstow,2211,Independent
+826,Metro petroleum Padstow,"69 DAVIES RD, PADSTOW NSW 2211",PADSTOW,2211,Metro Fuel
+827,Ampol Carlingford,"131 Pennant Hills Rd, CARLINGFORD NSW 2118",CARLINGFORD,2118,Ampol
+828,Ampol Mt Victoria,"36 Great Western Highway, MOUNT VICTORIA NSW 2786",MOUNT VICTORIA,2786,Ampol
+829,Speedway Earlwood,"200 Homer St, Earlwood NSW 2206",Earlwood,2206,Speedway
+830,7-Eleven Riverwood,"30 Bonds Road (Corner Romilly Street), Riverwood NSW 2210",Riverwood,2210,7-Eleven
+831,Mobil Queanbeyan,"6 Stephens Road, Queanbeyan NSW 2620",Queanbeyan,2620,Mobil
+832,EG Ampol Wellington,"79 Lee Street, Wellington NSW 2820",Wellington,2820,EG Ampol
+833,Vignes Independent Petroleum,"28 Sawtell Rd, TOORMINA NSW 2452",TOORMINA,2452,Independent
+834,BP Willoughby,"157 Penshurst street, Willoughby NSW 2068",Willoughby,2068,BP
+835,BP Rydalmere,"Cnr Victora Rd & Clyde St, Rydalmere NSW 2116",Rydalmere,2116,BP
+836,EG Ampol Lakewood,"108 Sirus Drive, Lakewood NSW 2443",Lakewood,2443,EG Ampol
+837,EG Ampol Kingswood,"66 Parker Street (Cnr Copeland St), Penrith NSW 2747",Penrith,2747,EG Ampol
+838,Independent Thirlmere,"39 Oaks Rd, Thirlmere NSW 2752",Thirlmere,2752,Independent
+839,Independent Berridale,"68 Jindabyne Rd, BERRIDALE NSW 2628",BERRIDALE,2628,Independent
+840,BP Riverstone,"196 Riverstone Pde, RIVERSTONE NSW 2765",RIVERSTONE,2765,BP
+841,Bp Croydon Park,"236-240 GEORGES RIVER RD, CROYDON PARK NSW 2133",CROYDON PARK,2133,BP
+842,Ampol Windsor South,"741 George St, Windsor South NSW 2756",Windsor South,2756,Ampol
+843,Budget Petrol Telopea,"57 ADDERTON RD, TELOPEA NSW 2117",TELOPEA,2117,Budget
+844,Metro Fuel Hornsby,"275 Pacific Highway, Hornsby NSW 2077",Hornsby,2077,Metro Fuel
+845,7-Eleven Bligh Park,"735 George Street, Bligh Park NSW 2756",Bligh Park,2756,7-Eleven
+846,Metro Fuel Ourimbah,"12 Pacific Hwy, Ourimbah NSW 2258",Ourimbah,2258,Metro Fuel
+847,BP Bankstown,"126 CHAPEL RD, BANKSTOWN NSW 2200",BANKSTOWN,2200,BP
+848,Shell Kenthurst,"86 KENTHURST RD, KENTHURST NSW 2156",KENTHURST,2156,Shell
+849,7-Eleven Strathfield South,"575-585 Liverpool Road, Strathfield South NSW 2136",Strathfield South,2136,7-Eleven
+850,BP Riverwood,"189-191 Belmore Rd, RIVERWOOD NSW 2210",RIVERWOOD,2210,BP
+851,BP Fairfield,"183 The Horsley Drive, FAIRFIELD EAST NSW 2165",FAIRFIELD EAST,2165,BP
+852,BP Leppington,"1389 Camden Valley Way, LEPPINGTON NSW 2179",LEPPINGTON,2179,BP
+853,BP CAMDEN,"12 ARGYLE ST, CAMDEN NSW 2570",CAMDEN,2570,BP
+854,EG Ampol Chatswood East,"364-366 Eastern Valley Way, Chatswood East NSW 2067",Chatswood East,2067,EG Ampol
+855,BP Putney,"236 Morrison Road, Putney NSW 2112",Putney,2112,BP
+856,Metro Warners Bay,"1 Warners Bay Rd, WARNERS BAY NSW 2282",WARNERS BAY,2282,Metro Fuel
+857,Metro Marrickville,"379 Enmore Road, Marrickville NSW 2204",Marrickville,2204,Metro Fuel
+858,EG Ampol Prestons,"2203 Camden Valley Way, PRESTONS NSW 2170",PRESTONS,2170,EG Ampol
+859,Independent Murwillumbah,"51 Tweed Valley Way, Murwillumbah NSW 2484",Murwillumbah,2484,Independent
+860,BP Scone,"18-30 Kelly Street, SCONE NSW 2337",SCONE,2337,BP
+861,EG Ampol Chullora,"97 Hume Highway, Chullora NSW 2190",Chullora,2190,EG Ampol
+862,BP Manly,"133-139 Pittwater Rd, MANLY NSW 2095",MANLY,2095,BP
+863,Your Fuel,"77 SANDGATE RD, BIRMINGHAM GARDENS NSW 2287",BIRMINGHAM GARDENS,2287,Independent
+864,Shell Narooma,"16 Princes Highway, NAROOMA NSW 2546",NAROOMA,2546,Shell
+865,Metro Fuel Ruse,"2 Acacia Av, Ruse NSW 2560",Ruse,2560,Metro Fuel
+866,Budget Auburn,"98 Park Road, Auburn NSW 2144",Auburn,2144,Budget
+867,Metro Aberdeen,"134 MacQueen Street, ABERDEEN NSW 2336",ABERDEEN,2336,Metro Fuel
+868,Ampol Heatherbrae,"2283 Pacific Highway, 2283 Pacific Highway, HEATHERBRAE NSW 2324",HEATHERBRAE,2324,Ampol
+869,Budget Chester Hill,"41 Boundary Road, Chester Hill NSW 2162",Chester Hill,2162,Budget
+870,7-Eleven Penrith South,"15-19 Aspen Street, Penrith South NSW 2750",Penrith South,2750,7-Eleven
+871,Caltex Finley,"295-301 MURRAY ST, FINLEY NSW 2713",FINLEY,2713,Caltex
+872,METRO PETROLEUM CRESTWOOD,"64 Uriarra Road, CRESTWOOD NSW 2620",CRESTWOOD,2620,Metro Fuel
+873,BP Werrington,"569 GREAT WESTERN HWY, WERRINGTON NSW 2747",WERRINGTON,2747,BP
+874,Coles Express Raymond Terrace,"105 Pacific Hwy (Cnr Kangaroo St), Raymond Terrace NSW 2324",Raymond Terrace,2324,Coles Express
+875,Speedway Regents Park,"27-29 Amy Steet, Regents Park NSW 2143",Regents Park,2143,Speedway
+876,BP Hexham,"Cnr Pacific Hwy & Old M'Land, Hexham NSW 2322",Hexham,2322,BP
+877,TASCO Balranald Market St,"99 Market Street, Balranald NSW 2715",Balranald,2715,Caltex
+878,BP Heatherbrae,"2398 Pacific Highway, Heatherbrae NSW 2324",Heatherbrae,2324,BP
+879,Budget Annangrove,"1/169 Annangrove Rd, Annangrove NSW 2156",Annangrove,2156,Budget
+880,Budget Kogarah,"132 Princes Hway, Kogarah NSW 2217",Kogarah,2217,Budget
+881,Ampol Byron Bay,"1B Butler St, Byron Bay NSW 2481",Byron Bay,2481,Ampol
+882,Speedway Parramatta,"127A Alfred Street, Parramatta NSW 2150",Parramatta,2150,Speedway
+883,United Petroleum Budgewoi,"67-71 Scenic Drive, Budgewoi NSW 2262",Budgewoi,2262,United
+884,Independent Camden,"8 Argyle St, CAMDEN NSW 2570",CAMDEN,2570,Independent
+885,Independent Cargo,"1 Forbes Street, Cargo NSW 2800",Cargo,2800,Independent
+886,BP New Lambton,"105 St. James rd., New Lambton NSW 2302",New Lambton,2302,BP
+887,7-Eleven RIVERSTONE,"55 Garfield Rd E, RIVERSTONE NSW 2765",RIVERSTONE,2765,7-Eleven
+888,7-Eleven Dee Why,"940 Pittwater Road & Hawkesbury Avenue, Dee Why NSW 2099",Dee Why,2099,7-Eleven
+889,BP Thornleigh,"Pennant Hills Rd & Parkes St, THORNLEIGH NSW 2120",THORNLEIGH,2120,BP
+890,Hillston Hardware Mobil Service Station,"8 Grattan St, HILLSTON NSW 2675",HILLSTON,2675,Mobil
+891,7-Eleven Croydon Park,"342 Georges River Road & Burwood Road, Croydon Park NSW 2133",Croydon Park,2133,7-Eleven
+892,Metro Petroleum Bankstown South,"160 SOUTH TCE, BANKSTOWN NSW 2200",BANKSTOWN,2200,Metro Fuel
+893,Metro Lansdowne,"987 Hume Highway, Lansdowne NSW 2163",Lansdowne,2163,Metro Fuel
+894,7-Eleven New Lambton,"289 - 291 Turton Road & Young Street, New Lambton NSW 2305",New Lambton,2305,7-Eleven
+895,BP Boambee,"601 Pacific Hwy, Boambee NSW 2450",Boambee,2450,BP
+896,BP West Wyalong,"68 MAIN ST, WEST WYALONG NSW 2671",WEST WYALONG,2671,BP
+897,Metro Willoughby,"599 Willoughby Rd, WILLOUGHBY NSW 2068",WILLOUGHBY,2068,Metro Fuel
+898,Metro Fuel Alexandria,"36 Henderson Road, Alexandria NSW 2015",Alexandria,2015,Metro Fuel
+899,Long Flat Shop,"5019 Oxley Hwy, Long Flat NSW 2446",Long Flat,2446,Caltex
+900,Ampol Woolworths St Ives North,"363 Mona Vale Road, ST IVES NORTH NSW 2075",ST IVES NORTH,2075,Ampol
+901,United Petroleum Junee,"126-130 Broadway St, JUNEE NSW 2663",JUNEE,2663,United
+902,Coles Express Halfway Creek,"4974 Pacific Highway (Cnr Lemon Tree Rd), Halfway Creek NSW 2460",Halfway Creek,2460,Coles Express
+903,Mobil 1 Gillenbah,"16305 NEWELL HWY, GILLENBAH NSW 2700",GILLENBAH,2700,Mobil
+904,United Petroleum Lismore,"16 Ballina Rd, Lismore NSW 2480",Lismore,2480,United
+905,United Petroleum Lethbridge Park,"400 Luxford Road, Lethbridge Park NSW 2770",Lethbridge Park,2770,United
+906,United Petroleum Yagoona,"100 Rookwood Road, Yagoona NSW 2199",Yagoona,2199,United
+907,United Petroleum Grafton South,"Pacific Hwy & Heber Street, GRAFTON SOUTH NSW 2460",GRAFTON SOUTH,2460,United
+908,United Petroleum East Blaxland,"67 Old Bathurst Road, East Blaxland NSW 2774",East Blaxland,2774,United
+909,United Petroleum Murrurundi,"226 MAYNE ST, MURRURUNDI NSW 2338",MURRURUNDI,2338,United
+910,United Amaroo,"Cnr Katherine and Horse Park Dr, Amaroo ACT 2914",Amaroo,2914,United
+911,United Petroleum Umina,"307-313 Ocean Beach Road, UMINA BEACH NSW 2257",UMINA BEACH,2257,United
+912,United Petroleum Rydalmere,"262-272 Victoria Road, Rydalmere NSW 2116",Rydalmere,2116,United
+913,United Tenterfield,"94 Rouse St, TENTERFIELD NSW 2372",TENTERFIELD,2372,United
+914,United Petroleum Casino,"136-144 Johnston Street, Casino NSW 2470",Casino,2470,United
+915,United Petroleum Kempsey,"154 Belgrave Street, Kempsey NSW 2440",Kempsey,2440,United
+916,United Petroleum Woolgoolga,"58 Clarence Street, Woolgoolga NSW 2456",Woolgoolga,2456,United
+917,United Petroleum Leeton,"110 Kurrajong Avenue, Leeton NSW 2705",Leeton,2705,United
+918,United Petroleum Dorrigo,"3 Cudgery Street, Dorrigo NSW 2453",Dorrigo,2453,United
+919,United Petroleum Sutton,"1542 Federal Highway Service Road, Sutton NSW 2620",Sutton,2620,United
+920,United Petroleum Mullaway,"2910 Pacific Highway, Mullaway NSW 2456",Mullaway,2456,United
+921,United Petroleum Cowra,"10 Kendal Street, Cowra NSW 2794",Cowra,2794,United
+922,United Petroleum Nowra,"86 Princes Highway, Nowra NSW 2541",Nowra,2541,United
+923,United Petroleum Pambula,"Corner Quondola Street & Bullara Street, Pambula NSW 2549",Pambula,2549,United
+924,United Petroleum Freemans Waterhole,"971 Freemans Drive, Freemans Waterhole NSW 2323",Freemans Waterhole,2323,United
+925,United Petroleum Mayfield,"40 Industrial Drive, Mayfield NSW 2304",Mayfield,2304,United
+926,United Petroleum Ourimbah,"51 Pacific Highway, OURIMBAH NSW 2258",OURIMBAH,2258,United
+927,United Kambah,"150 O'Halloran Circuit, Kambah ACT 2902",Kambah,2902,United
+928,United Petroleum Taree,"56 Victoria Street, Taree NSW 2430",Taree,2430,United
+929,United Petroleum Whittingham,"Lot 2 New England Highway, Whittingham NSW 2330",Whittingham,2330,United
+930,United Petroleum Singleton,"59 John Street, Singleton NSW 2330",Singleton,2330,United
+931,United Petroleum Bathurst Unmanned,"35 William Street, Bathurst NSW 2795",Bathurst,2795,United
+932,United Petroleum North Wyong,"359 Pacific Highway, North Wyong NSW 2259",North Wyong,2259,United
+933,United Petroleum Medlow Bath,"90-92 Great Western Highway, Medlow Bath NSW 2780",Medlow Bath,2780,United
+934,United Petroleum Empire Bay,"306 Empire Drive, Empire Bay NSW 2257",Empire Bay,2257,United
+935,United Petroleum Kemps Creek,"1465-1467 Elizabeth Drive, Kemps Creek NSW 2178",Kemps Creek,2178,United
+936,United Petroleum Cobargo,"39-53 Princes Highway, Cobargo NSW 2550",Cobargo,2550,United
+937,United Petroleum Wyoming,"459 Pacific Hwy, WYOMING NSW 2250",WYOMING,2250,United
+938,United Glen Innes,"Corner of New England Highway & Grafton Street, Glen Innes NSW 2370",Glen Innes,2370,United
+939,United Mayfield West,"86-88 MAITLAND RD, MAYFIELD NSW 2304",MAYFIELD,2304,United
+940,United Petroleum Windang,"217-221 Windang Rd, Windang NSW 2528",Windang,2528,United
+941,Ampol McDougalls Hill,"4949 New England Hwy, McDougalls Hill NSW 2330",McDougalls Hill,2330,Ampol
+942,BP Capertee,"44 Castlereagh Hwy, Capertee NSW 2846",Capertee,2846,BP
+943,Mobil 1 Carlingford Car Care,"482 North Rocks Rd, Carlingford NSW 2118",Carlingford,2118,Independent
+944,Riordan Fuels Express Diesel,"503 COOLAC RD, COOLAC NSW 2727",COOLAC,2727,Independent
+945,Shell Wisemans Ferry,"5558 Old Northern Road, WISEMANS FERRY NSW 2775",WISEMANS FERRY,2775,Shell
+946,Liberty Evans Head,"70 WOODBURN ST, EVANS HEAD NSW 2473",EVANS HEAD,2473,Liberty
+947,Shell South Lismore,"21 Elliott Road, South Lismore NSW 2480",South Lismore,2480,Shell
+948,Liberty South Lismore,"19-21 Kyogle Street, South Lismore NSW 2480",South Lismore,2480,Liberty
+949,Liberty Casino,"84 Centre St, Casino NSW 2470",Casino,2470,Liberty
+950,Liberty Casino,"58-60 Hare Street, Casino NSW 2470",Casino,2470,Liberty
+951,Liberty Foodmart,"54 Ballina Rd, LISMORE NSW 2480",LISMORE,2480,Liberty
+952,Ampol Woolworths Toormina,"2 Minorca Place, TOORMINA NSW 2452",TOORMINA,2452,Ampol
+953,Ampol Dubbo North Diesel Stop,"Lot 51 Bourke St (newell Hwy) Cnr River St, DUBBO NORTH NSW 2830",DUBBO NORTH,2830,Ampol
+954,Ampol Woolworths Kooringal Via Wagga Wagga,"265-267 Lake Albert Rd, KOORINGAL NSW 2650",KOORINGAL,2650,Ampol
+955,Ampol Gumly Gumly,"Caltex 3723 Hwy, GUMLY GUMLY NSW 2652",GUMLY GUMLY,2652,Ampol
+956,Ampol Foodary Coffs Harbour South,"399 Pacific Highway, Coffs Harbour NSW 2450",Coffs Harbour,2450,Ampol
+957,Ampol Coffs Harbour Halls Rd,"Corner Pacific Hwy and Halls Road, Coffs Harbour NEW SOUTH WALES 2450",Coffs Harbour,2450,Ampol
+958,BP Liverpool,"69 Hoxton Park Road, Liverpool NSW 2170",Liverpool,2170,BP
+959,Invergowrie General Store,"Invergowrie Store 171 Invergowrie Rd, INVERGOWRIE NSW 2350",INVERGOWRIE,2350,Independent
+960,Westside Balranald,"203 MARKET ST, BALRANALD NSW 2715",BALRANALD,2715,Shell
+961,Independent Lismore,"46 Wyrallah Rd, Lismore NSW 2480",Lismore,2480,Independent
+962,Coles Express Hexham,"21 Maitland Road, Hexham NSW 2322",Hexham,2322,Coles Express
+963,Lawrence General & Liquor Store,"1 Richmond St, LAWRENCE NSW 2460",LAWRENCE,2460,BP
+964,Independent Girraween,"38A Gilba Rd, Girraween NSW 2145",Girraween,2145,Independent
+965,Liberty Lismore,"113 Union st, Lismore NSW 2480",Lismore,2480,Liberty
+966,Ampol Kenthurst,"137 Kenthurst Rd, Kenthurst NSW 2156",Kenthurst,2156,Ampol
+967,Coles Express Marsfield,"189 Epping Rd & Culloden Rd, Marsfield NSW 2122",Marsfield,2122,Coles Express
+968,BP Willoughby,"500 Willoughby Rd, Willoughby NSW 2068",Willoughby,2068,BP
+969,Wagga Fuel (Leeton),"98 KURRAJONG AV, LEETON NSW 2705",LEETON,2705,Shell
+970,BP Blackheath,"257-263 Great Western Hwy, BLACKHEATH NSW 2785",BLACKHEATH,2785,BP
+971,Caltex Casino,"37 Johnston Street, Casino NSW 2470",Casino,2470,Caltex
+972,7-Eleven Lurnea,"124 Hoxton Park Rd, LURNEA NSW 2170",LURNEA,2170,7-Eleven
+973,Coles Express St Clair,"247 Banks Drive (Cnr Mamre Rd), St Clair NSW 2759",St Clair,2759,Coles Express
+974,7-Eleven Croydon Park,"45 Georges River Road, Croydon Park NSW 2133",Croydon Park,2133,7-Eleven
+975,7-Eleven Greenacre,"301 Hume Hwy, GREENACRE NSW 2190",GREENACRE,2190,7-Eleven
+976,Independent Goulburn,"Corner Ross & Queen Street, GOULBURN NSW 2580",GOULBURN,2580,Independent
+977,Coles Express Heathcote,"1355 Princess Hwy (Cnr Oliver Rd), Heathcote NSW 2233",Heathcote,2233,Coles Express
+978,EG Ampol Parkes,"78 Currajong St (Cnr Bushman Street), Parkes NSW 2870",Parkes,2870,EG Ampol
+979,BP Denistone East,"295 Quarry Rd, Denistone East NSW 2112",Denistone East,2112,BP
+980,BP Rossmore,"832 Bringelly Road, Rossmore NSW 2557",Rossmore,2557,BP
+981,BP Lismore,"131 Dawson Street, Lismore NSW 2480",Lismore,2480,BP
+982,Metro Sefton,"101 Hector St, SEFTON NSW 2162",SEFTON,2162,Metro Fuel
+983,Coles Express Wattle Grove,"115 Heathcote Rd, Wattle Grove NSW 2173",Wattle Grove,2173,Coles Express
+984,EG Ampol Chipping Norton,"147 Newbridge Rd, CHIPPING NORTON NSW 2170",CHIPPING NORTON,2170,EG Ampol
+985,BP Lismore,"2 Leycester Street, Lismore NSW 2480",Lismore,2480,BP
+986,Ampol North Bondi,"321 OLD SOUTH HEAD RD, NORTH BONDI NSW 2026",NORTH BONDI,2026,Ampol
+987,Ampol Coffs Harbour (Depot Front),"157 ORLANDO ST, COFFS HARBOUR NSW 2450",COFFS HARBOUR,2450,Ampol
+988,Ampol Armidale Airport,"New England Highway, ARMIDALE NSW 2350",ARMIDALE,2350,Ampol
+989,Ampol Kingsgrove,"351-357 Stoney Creek, KINGSGROVE NSW 2208",KINGSGROVE,2208,Ampol
+990,BP Salt Ash,"Corner Richardson Road and Nelson Bay, SALT ASH NSW 2318",SALT ASH,2318,BP
+991,Ultra Randwick,"345 Avoca Street, RANDWICK NSW 2031",RANDWICK,2031,Independent
+992,Coles Express Lavington,"575 Wagga Rd, Lavington NSW 2641",Lavington,2641,Coles Express
+993,BP East End,"46 Clarinda Street, Parkes NSW 2870",Parkes,2870,BP
+994,Coles Express Tweed Heads,"34 Wharf St (Cnr Frances St), Tweed Heads NSW 2485",Tweed Heads,2485,Coles Express
+995,7-Eleven St Marys,"Corner Mamre Road & Wilson Street, St Marys NSW 2760",St Marys,2760,7-Eleven
+996,EG Ampol Umina,"337 West Street (Cnr Ocean Beach Road), Umina NSW 2257",Umina,2257,EG Ampol
+997,EG Ampol Chester Hill,"35 Woodville Road (cnr Alpha), Chester Hill NSW 2162",Chester Hill,2162,EG Ampol
+998,Shell Chinderah,"2-12 Chinderah Bay Drive, Chinderah NSW 2478",Chinderah,2478,Shell
+999,METRO FUEL KILLARNEY HEIGHTS,"702-704 WARRINGAH RD, FORESTVILLE NSW 2087",FORESTVILLE,2087,Metro Fuel
+1000,EG Ampol Dubbo,"Cnr Mitchell Hwy and Wheelers Lane, Dubbo NSW 2830",Dubbo,2830,EG Ampol
+1001,EG Ampol Goonellabah,"2 Simeoni Drive, Goonellabah NSW 2480",Goonellabah,2480,EG Ampol
+1002,EG Ampol Lismore,"99 Diadem Street, Lismore NSW 2480",Lismore,2480,EG Ampol
+1003,Ampol Bomaderry,"246 Princes Hwy, Bomaderry NSW 2541",Bomaderry,2541,Ampol
+1004,Mobil Fuel North Haven,"Shop 1 531 Ocean Dr, NORTH HAVEN NSW 2443",NORTH HAVEN,2443,Mobil
+1005,Budget Petrol,"143 Concord Rd, North Strathfield NSW 2137",North Strathfield,2137,Budget
+1006,Metro Petroleum Temora,"90 Victoria St, TEMORA NSW 2666",TEMORA,2666,Metro Fuel
+1007,Ampol Bombala,"159-161 MAYBE ST, BOMBALA NSW 2632",BOMBALA,2632,Ampol
+1008,Reflections Holiday Parks,"State Recreation Area, 2373 Burrinjuck Road, BOOKHAM NSW 2582",BOOKHAM,2582,Independent
+1009,Coles Express Lismore,"100 Dawson & Magellan Sts, Lismore NSW 2480",Lismore,2480,Coles Express
+1010,Reflections Holiday Parks,"2453 GRABINE RD, BIGGA NSW 2583",BIGGA,2583,Independent
+1011,Reflections Holiday Parks,"2891 Reg Hailstone Way, Wyangala NSW 2808",Wyangala,2808,Independent
+1012,7-Eleven Rockdale,"99 Railway Street (Corner Frederick Street), Rockdale NSW 2216",Rockdale,2216,7-Eleven
+1013,BP Macquarie,"52 REDFERN ST, COOK ACT 2614",COOK,2614,BP
+1014,BP Coutts Crossing,"9 Armidale Road, Coutts Crossing NSW 2460",Coutts Crossing,2460,BP
+1015,Caltex Heddon Greta,"195 Main Rd, HEDDON GRETA NSW 2321",HEDDON GRETA,2321,Caltex
+1016,Ampol Shoalhaven Heads,"52-54 Shoalhaven Heads Rd, Shoalhaven Heads NSW 2535",Shoalhaven Heads,2535,Ampol
+1017,Ampol Menai,"Menai Rd Cnr Carter Rd, Menai NSW 2234",Menai,2234,Ampol
+1018,Ampol Woolworths Hazelbrook,"198-199 Great Western Hwy, HAZELBROOK NSW 2779",HAZELBROOK,2779,Ampol
+1019,Coles Express Northmead,"100 Briens Road, Northmead NSW 2152",Northmead,2152,Coles Express
+1020,Speedway Carss Park,"294 PRINCES HWY, CARSS PARK NSW 2221",CARSS PARK,2221,Speedway
+1021,Shell Wyong,"140 Pacific Hwy, WYONG NSW 2259",WYONG,2259,Shell
+1022,EG Ampol Menai,"Cnr Allison Cres & Old Menai Road, Menai NSW 2234",Menai,2234,EG Ampol
+1023,Puma Energy Marsden Park,"65 Garfield Road West & Richmond Road, Marsden Park NSW 2765",Marsden Park,2765,Puma Energy
+1024,7-Eleven Artarmon,"477 Pacific Highway, Artarmon NSW 2064",Artarmon,2064,7-Eleven
+1025,Speedway Kings Langley,"18 Solander Road, Kings Langley NSW 2147",Kings Langley,2147,Speedway
+1026,EG Ampol Lavington,"370 Griffith Rd, Lavington NSW 2641",Lavington,2641,EG Ampol
+1027,Budget Moorebank,"68 Nuwarra Road, Moorebank NSW 2170",Moorebank,2170,Budget
+1028,Bombala Servo,"77 MAYBE ST, BOMBALA NSW 2632",BOMBALA,2632,Independent
+1029,BP BRINGELLY,"657 THE NORTHERN ROAD, BRINGELLY NSW 2556",BRINGELLY,2556,BP
+1030,Ampol Lismore Airport,"237 Union St, SOUTH LISMORE NSW 2480",SOUTH LISMORE,2480,Ampol
+1031,Ampol Dubbo-Dulhunty,"60 Windsor Parade, DUBBO NSW 2830",DUBBO,2830,Ampol
+1032,AMPOL WOOLWORTHS WAMBERAL,"656-658 THE ENTRANCE ROAD, WAMBERAL NSW 2260",WAMBERAL,2260,Ampol
+1033,BP Nicholls,"6 GOLD CREEK RD, NICHOLLS ACT 2913",NICHOLLS,2913,BP
+1034,Coles Express Woy Woy,"50-52 Ocean Beach Rd (Cnr Rawson St), Woy Woy NSW 2256",Woy Woy,2256,Coles Express
+1035,Coles Express Umina,"1-3 Sydney Ave (Cnr Ocean Beach Rd), Umina NSW 2257",Umina,2257,Coles Express
+1036,Ampol Woolworths Rosebery,"321 Gardeners Rd, ROSEBERY NSW 2018",ROSEBERY,2018,Ampol
+1037,Ampol Rutherford West,"387 New England Hwy, RUTHERFORD NSW 2320",RUTHERFORD,2320,Ampol
+1038,SPEEDWAY BEACON HILL.,"214 Warringah Road, Beacon Hill NSW 2100",Beacon Hill,2100,Speedway
+1039,7-Eleven Menai,"Corner Allison Crescent & Menai Road, Menai NSW 2234",Menai,2234,7-Eleven
+1040,Shell Forbes,"34 Sherriff Street, Forbes NSW 2871",Forbes,2871,Shell
+1041,Mobil Nowra,"215 Kinghorne St, NOWRA NSW 2541",NOWRA,2541,Mobil
+1042,Coles Express Wahroonga,"1601 Pacific Hwy & Coonanbarra Rd, Wahroonga NSW 2076",Wahroonga,2076,Coles Express
+1043,Ampol Leppington,"1370-1380 Camden Valley Hwy, LEPPINGTON NSW 2179",LEPPINGTON,2179,Ampol
+1044,Enhance,"44 Railway St, BOMADERRY NSW 2541",BOMADERRY,2541,Enhance
+1045,Collarenebri,"36-40 Wilson St, COLLARENEBRI NSW 2833",COLLARENEBRI,2833,Woodham Petroleum
+1046,Hermidale,"Lot 1 Quanda St, HERMIDALE NSW 2831",HERMIDALE,2831,Woodham Petroleum
+1047,Byrock,"Mulga Creek Hotel Mitchell Hwy, BYROCK NSW 2831",BYROCK,2831,Woodham Petroleum
+1048,Coonamble,"5 Hooper Dr, COONAMBLE NSW 2829",COONAMBLE,2829,Woodham Petroleum
+1049,Woodham Petroleum Services Carinda,"18 Colin Street, CARINDA NSW 2831",CARINDA,2831,Woodham Petroleum
+1050,"Woodham Petroleum Services, Nyngan","16 LAWLOR ST, NYNGAN NSW 2825",NYNGAN,2825,Woodham Petroleum
+1051,Woodham Petroleum Services,"2 ENTERPRISE DR, GILGANDRA NSW 2827",GILGANDRA,2827,Woodham Petroleum
+1052,Independent Burren Junction,"Junction City Hotel 63 Slacksmith St, BURREN JUNCTION NSW 2386",BURREN JUNCTION,2386,Woodham Petroleum
+1053,Independent Narrabri,"20 Old Newell Hwy, Narrabri NSW 2390",Narrabri,2390,Woodham Petroleum
+1054,Independent Walgett,"160 Fox St, Walgett NSW 2832",Walgett,2832,Woodham Petroleum
+1055,United Petroleum,"6-8 MINJUNGBAL DR, TWEED HEADS SOUTH NSW 2486",TWEED HEADS SOUTH,2486,United
+1056,Metro Fuel Frenchs Forest,"663 Warringah Road, Forestville NSW 2087",Forestville,2087,Metro Fuel
+1057,Westside Petroleum Mount Austin,"2 Ceduna Street, MOUNT AUSTIN NSW 2650",MOUNT AUSTIN,2650,Westside
+1058,Metro Petroleum Forestville,"656 Warringah Road, FORESTVILLE NSW 2087",FORESTVILLE,2087,Metro Fuel
+1059,EG Ampol Gunnedah,"18-22 Tempest Street, Gunnedah NSW 2380",Gunnedah,2380,EG Ampol
+1060,7-Eleven Woy Woy,"83 RAWSON RD, WOY WOY NSW 2256",WOY WOY,2256,7-Eleven
+1061,7-Eleven Eastern Creek,"Lot 16 - 25 Great Western Highway, Eastern Creek NSW 2766",Eastern Creek,2766,7-Eleven
+1062,7-Eleven Minchinbury,"1042 Great Western Highway, Minchinbury NSW 2770",Minchinbury,2770,7-Eleven
+1063,7-Eleven Bungarribee,"5/100 Eastern Rd, Bungarribee NSW 2767",Bungarribee,2767,7-Eleven
+1064,7-Eleven Rooty Hill,"108 ROOTY HILL RD SOUTH, ROOTY HILL NSW 2766",ROOTY HILL,2766,7-Eleven
+1065,Manildra Newsagency & Roadhouse,"2 Kiewa St, MANILDRA NSW 2865",MANILDRA,2865,Independent
+1066,Independent Dungog,"15 Clarencetown Road, Dungog NSW 2420",Dungog,2420,Independent
+1067,EG Ampol Albury,"515 Young Street, Albury NSW 2640",Albury,2640,EG Ampol
+1068,BP Allambie Heights,"132 Allambie road, Allambie Heights NSW 2100",Allambie Heights,2100,BP
+1069,Shell Liverpool,"104-106 Elizabeth Drive,, Liverpool NSW 2170",Liverpool,2170,Shell
+1070,Ampol Tamworth,"47 Plain St, Tamworth NSW 2340",Tamworth,2340,Ampol
+1071,United Lidsdale,"1 Castlereagh Highway, LIDSDALE NSW 2790",LIDSDALE,2790,United
+1072,Budget Kingsgrove,"2 Commercial Rd, Kingsgrove NSW 2208",Kingsgrove,2208,Budget
+1073,Metro Petroleum Cootamundra,"111 Sutton St, COOTAMUNDRA NSW 2590",COOTAMUNDRA,2590,Metro Fuel
+1074,Metro Redhead,"100 Collier Street, Redhead NSW 2290",Redhead,2290,Metro Fuel
+1075,Speedway Cammeray,"330 Miller St, CAMMERAY NSW 2062",CAMMERAY,2062,Speedway
+1076,Bp woonona,"426 Princes Highway, WOONONA NSW 2517",WOONONA,2517,BP
+1077,Westside Petroleum Guildford,"210 Guildford Road, GUILDFORD NSW 2161",GUILDFORD,2161,Westside
+1078,MOBIL COFFS HARBOUR,"178 PACIFIC HWY, COFFS HARBOUR NSW 2450",COFFS HARBOUR,2450,Mobil
+1079,Mobil Singleton,"1 Bridgman Road, DUNOLLY NSW 2330",DUNOLLY,2330,Mobil
+1080,Transwest Fuels,"50e Fitzroy St, WALCHA NSW 2354",WALCHA,2354,Transwest Fuels
+1081,MOBIL MOSS VALE,"225 Argyle St, MOSS VALE NSW 2577",MOSS VALE,2577,Mobil
+1082,Mobil South Tamworth,"2 Kathleen St, SOUTH TAMWORTH NSW 2340",SOUTH TAMWORTH,2340,Mobil
+1083,Mobil Tamworth,"246 Goonoo Goonoo Road, SOUTH TAMWORTH NSW 2340",SOUTH TAMWORTH,2340,Mobil
+1084,Mobil North Nowra,"Lot23 Illaroo Road, North Nowra NSW 2541",North Nowra,2541,Mobil
+1085,Ampol Parklea,"Unit 3 1190 Old Windsor, Glenwood NSW 2768",Glenwood,2768,Ampol
+1086,Speedway Caringbah,"66 Captain Cook Drive, Caringbah NSW 2229",Caringbah,2229,Speedway
+1087,AMPOL SOUTH KEMPSEY,"10 Industrial Drive corner of Zylpha Drive, South Kempsey NSW 2440",South Kempsey,2440,Ampol
+1088,Mobil Mittagong,"224 Old Hume Highway, Mittagong NSW 2575",Mittagong,2575,Mobil
+1089,BP Medowie,"701 Medowie Road, Medowie NSW 2318",Medowie,2318,BP
+1090,BP Eagle Vale,"Cnr Eagle Vale Dve & Gould Rd, Eagle Vale NSW 2558",Eagle Vale,2558,BP
+1091,BP Bexley North,"369C Bexley Road, Bexley NSW 2207",Bexley,2207,BP
+1092,BP Tomingley,"Newell Highway, Tomingley NSW 2869",Tomingley,2869,BP
+1093,7-Eleven Liverpool,"95 Elizabeth Drive (Corner Park Road), Liverpool NSW 2170",Liverpool,2170,7-Eleven
+1094,Caltex Mittagong Bowral Rd,"65 BOWRAL RD, MITTAGONG NSW 2575",MITTAGONG,2575,Caltex
+1095,ALLIANCE PETROLEUM,"1766 Horsley Drive, Horsley Park NSW 2175",Horsley Park,2175,Independent
+1096,Mobil Bomaderry,"33 Bolong Road, Bomaderry NSW 2541",Bomaderry,2541,Mobil
+1097,BP Nyngan,"124 Nymagee Street, Nyngan NSW 2825",Nyngan,2825,BP
+1098,COLES EXPRESS BELLA VISTA,"8 LEXINGTON DR, BELLA VISTA NSW 2153",BELLA VISTA,2153,Coles Express
+1099,BP Denham Court,"505 Campbelltown Road, Denham Court NSW 2565",Denham Court,2565,BP
+1100,Independent Fingal Bay,"5 Boulder Bay Road, Fingal Bay NSW 2315",Fingal Bay,2315,Independent
+1101,Budget Petrol Petersham,"204-208 New Canterbury Rd, LEWISHAM NSW 2049",LEWISHAM,2049,Budget
+1102,BP Kingsgrove,"152 Moorefields Road, Kingsgrove NSW 2208",Kingsgrove,2208,BP
+1103,EG Ampol Mittagong,"96-98 BOWRAL RD, MITTAGONG NSW 2575",MITTAGONG,2575,EG Ampol
+1104,BP Narooma,"90 Campbell St, Narooma NSW 2546",Narooma,2546,BP
+1105,7-Eleven Bathurst,"269 Stewart Street, Bathurst NSW 2795",Bathurst,2795,7-Eleven
+1106,Independent Urana,"48 William Street, Urana NSW 2645",Urana,2645,Independent
+1107,United Tweed Heads,"61-65 WHARF ST, TWEED HEADS NSW 2485",TWEED HEADS,2485,United
+1108,Ampol Old Guildford,"636-644 Woodville Rd, OLD GUILDFORD NSW 2161",OLD GUILDFORD,2161,Ampol
+1109,BP Horsley Park,"1642 The Horsley Dr, Horsley Park NSW 2164",Horsley Park,2164,BP
+1110,Ampol Kirrawee,"487 Princess Hwy, Kirrawee NSW 2232",Kirrawee,2232,Ampol
+1111,INDEPENDENT SERVICE STATION,"73-75 ALLANDALE RD, CESSNOCK NSW 2325",CESSNOCK,2325,Independent
+1112,Coles Express Baulkham Hills,"4 Century Circuit, Baulkham Hills NSW 2153",Baulkham Hills,2153,Coles Express
+1113,Mavin Petroleum,"49A Lachlan Street, South Kempsey NSW 2440",South Kempsey,2440,Independent
+1114,Coles Express Hurstville,"396-404 Forest Road, Hurstville NSW 2220",Hurstville,2220,Coles Express
+1115,Coles Express Picton,"93-99 Argyle Street, Picton NSW 2571",Picton,2571,Coles Express
+1116,BP Border,"Cnr Ebden & Wodonga Place, Albury NSW 2640",Albury,2640,BP
+1117,BP South Hurstville,"63 CONNELLS POINT RD, SOUTH HURSTVILLE NSW 2221",SOUTH HURSTVILLE,2221,BP
+1118,North Ryde Petroleum,"118 Coxs Rd, North Ryde NSW 2113",North Ryde,2113,Independent
+1119,Coles Express Belmont,"504 Pacific Hwy (Cnr Maude St), Belmont NSW 2280",Belmont,2280,Coles Express
+1120,BP Valentine,"855 Macquarie Drive, Valentine NSW 2280",Valentine,2280,BP
+1121,Metro Greenacre,"1 DAVID ST, GREENACRE NSW 2190",GREENACRE,2190,Metro Fuel
+1122,EG Ampol Hume,"94-96 Sheppard St, Hume ACT 2620",Hume,2620,EG Ampol
+1123,Caltex Nyngan,"39 Pangee St, NYNGAN NSW 2825",NYNGAN,2825,Caltex
+1124,Liberty Coffs Harbour,"150 Pacific Highway, COFFS HARBOUR NSW 2450",COFFS HARBOUR,2450,Liberty
+1125,EG Ampol Bomaderry,"272 Princes Highway, Bomaderry NSW 2541",Bomaderry,2541,EG Ampol
+1126,Metro Medowie,"UNIT 4 26 FERODALE RD, MEDOWIE NSW 2318",MEDOWIE,2318,Metro Fuel
+1127,Shell Lane Cove,"254 BURNS BAY RD, LANE COVE NSW 2066",LANE COVE,2066,Shell
+1128,BP Redfern,"411-417 Cleveland St, REDFERN NSW 2016",REDFERN,2016,BP
+1129,BP Matraville,"585 Bunnerong Rd, MATRAVILLE NSW 2036",MATRAVILLE,2036,BP
+1130,AMPOL Canowindra,"43 Ferguson Street, CANOWINDRA NSW 2804",CANOWINDRA,2804,Ampol
+1131,Jack & Co Lane Cove,"203 BURNS BAY RD, LANE COVE NSW 2066",LANE COVE,2066,Independent
+1132,TEMCO Petroleum,"190 WATERLOO RD, GREENACRE NSW 2190",GREENACRE,2190,Independent
+1133,IGA Blackheath,"211 Great Western Hwy, BLACKHEATH NSW 2785",BLACKHEATH,2785,Independent
+1134,BP Bonnyrigg,"451 Nth Liverpool Rd, Bonnyrigg NSW 2177",Bonnyrigg,2177,BP
+1135,HIGHLAND FUELS BOWRAL,"202 Bong Bong Street, Bowral NSW 2576",Bowral,2576,Independent
+1136,BP Manilla,"302 Tamworth Road, MANILLA NSW 2346",MANILLA,2346,BP
+1137,BP Guildford,"257 Guildford Rd, GUILDFORD NSW 2161",GUILDFORD,2161,BP
+1138,EG Ampol Burwood,"400 Parramatta Road, Burwood NSW 2134",Burwood,2134,EG Ampol
+1139,BP Mascot,"1077 Botany Road, Mascot NSW 2020",Mascot,2020,BP
+1140,7-Eleven Matraville,"515 Bunnerong Rd, MATRAVILLE NSW 2036",MATRAVILLE,2036,7-Eleven
+1141,7-Eleven Burwood,"Cnr Parramatta & Shaftsbury Rds, Burwood NSW 2134",Burwood,2134,7-Eleven
+1142,7-Eleven Kirrawee,"529-531 Princes Highway & Bath Road, Kirrawee NSW 2232",Kirrawee,2232,7-Eleven
+1143,7-Eleven Kirrawee,"542 Princes Highway, Kirrawee NSW 2232",Kirrawee,2232,7-Eleven
+1144,Metro Petroleum Belmore,"442 Punchbowl Rd, BELMORE NSW 2192",BELMORE,2192,Metro Fuel
+1145,Metro Petroleum Lakemba,"47 Lakemba Street, Belmore NSW 2192",Belmore,2192,Metro Fuel
+1146,Metro Fuel Canterbury,"280 Canterbury Road, Canterbury NSW 2193",Canterbury,2193,Metro Fuel
+1147,Tamarang Servicentre,"115 Station Street, Quirindi NSW 2343",Quirindi,2343,Shell
+1148,Milton Petrol,"90 Princes Highway, Milton NSW 2538",Milton,2538,Independent
+1149,BP Quirindi,"4 Duke Street, QUIRINDI NSW 2343",QUIRINDI,2343,BP
+1150,Speedway Horsley Drive,"769 The Horsley Dr, SMITHFIELD NSW 2164",SMITHFIELD,2164,Speedway
+1151,Speedway Smithfield,"26-28 Smithfield Road, SMITHFIELD NSW 2164",SMITHFIELD,2164,Speedway
+1152,Enhance Robertson,"22 Hoddle St, Robertson NSW 2577",Robertson,2577,Enhance
+1153,7-Eleven Enmore,"22 Stanmore Street, Enmore NSW 2042",Enmore,2042,7-Eleven
+1154,Randwick Petroleum,"88 Clovelly Rd, RANDWICK NSW 2031",RANDWICK,2031,Independent
+1155,The Woodville Store,"229 CLARENCE TOWN RD, WOODVILLE NSW 2321",WOODVILLE,2321,Independent
+1156,St Marys,"61-63 CHRISTIE ST, ST MARYS NSW 2760",ST MARYS,2760,Coles Express
+1157,BP Taree South,"7087 The Bucketts Way, TAREE SOUTH NSW 2430",TAREE SOUTH,2430,BP
+1158,Metro Londonderry,"486 Londonderry Rd, LONDONDERRY NSW 2753",LONDONDERRY,2753,Metro Fuel
+1159,BP Silverwater South,"51 Egerton St, SILVERWATER NSW 2128",SILVERWATER,2128,BP
+1160,Mobil Kangaroo Valley,"32 Moss Vale Road, Kangaroo Valley NSW 2577",Kangaroo Valley,2577,Mobil
+1161,Independent Glenreagh,"49 Caramba St, Glenreagh NSW 2450",Glenreagh,2450,Independent
+1162,South Kempsey Local Servo,"22 CARRI ST, SOUTH KEMPSEY NSW 2440",SOUTH KEMPSEY,2440,Liberty
+1163,Speedway Casula,"572-576 Hume Hwy, CASULA NSW 2170",CASULA,2170,Speedway
+1164,Ampol Woolworths Metro Lane Cove West,"UNIT 1 237-245 BURNS BAY RD, LANE COVE WEST NSW 2066",LANE COVE WEST,2066,Ampol
+1165,BILPIN PETROLEUM,"2742 Bells Line of Road, BILPIN NSW 2758",BILPIN,2758,Metro Fuel
+1166,New Berrima General Store,"104-106 TAYLOR AV, NEW BERRIMA NSW 2577",NEW BERRIMA,2577,Ampol
+1167,Budget Petrol,"37 Crystal St., Petersham NSW 2049",Petersham,2049,Budget
+1168,Locals Servo,"148 MAYNE ST, MURRURUNDI NSW 2338",MURRURUNDI,2338,Independent
+1169,Speedway Haberfield,"273 Parramatta Rd, Haberfield NSW 2045",Haberfield,2045,Speedway
+1170,BP Picton,"403 Argyle St, Picton NSW 2571",Picton,2571,BP
+1171,Speedway Bankstown,"49 Canterbury Road, BANKSTOWN NSW 2200",BANKSTOWN,2200,Speedway
+1172,EG Ampol Port Macquarie,"1 Bay Street, Port Macquarie NSW 2444",Port Macquarie,2444,EG Ampol
+1173,EG Ampol Warilla,"43-57 Shellharbour Rd (Warilla Grove Shopping Centre), Warilla NSW 2528",Warilla,2528,EG Ampol
+1174,EG Ampol Charlestown,"93 Pacific Highway, Charlestown NSW 2290",Charlestown,2290,EG Ampol
+1175,MEDCO SINGLETON,"53 GEORGE ST, SINGLETON NSW 2330",SINGLETON,2330,Independent
+1176,Shell Tolland,"229 BOURKE ST, TOLLAND NSW 2650",TOLLAND,2650,Shell
+1177,BP Mars,"196 The River Road, Revesby NSW 2212",Revesby,2212,BP
+1178,Ampol Foodary Concord,"87-89 Parramatta Rd, CONCORD NSW 2137",CONCORD,2137,Ampol
+1179,BP Greenfield Park,"1 Greenfield Rd, Greenfield Park NSW 2176",Greenfield Park,2176,BP
+1180,BP Merrylands West,"65 Kenyons Road, Merrylands West NSW 2160",Merrylands West,2160,BP
+1181,Independent Barham,"50 Moulamein Rd, Barham NSW 2732",Barham,2732,BP
+1182,United Turvey Park,"31 Bourke Street, TURVEY PARK NSW 2650",TURVEY PARK,2650,United
+1183,EG Ampol Peakhurst,"742 Forest Road, Peakhurst NSW 2210",Peakhurst,2210,EG Ampol
+1184,BP Dundas,"256 Kissing Point Rd, DUNDAS NSW 2117",DUNDAS,2117,BP
+1185,MOBIL WARIALDA,"46 GEDDES ST, WARIALDA NSW 2402",WARIALDA,2402,Mobil
+1186,7-Eleven Penshurst,"612 Forest Road, Penshurst NSW 2222",Penshurst,2222,7-Eleven
+1187,Powerfuel,"114 BATHURST ST, CONDOBOLIN NSW 2877",CONDOBOLIN,2877,Independent
+1188,BP Narellan,"271 Camden Valley Way, NARELLAN NSW 2567",NARELLAN,2567,BP
+1189,Wisda Group Australia Adaminaby,"5243 Snowy Mountains Hwy, ADAMINABY NSW 2629",ADAMINABY,2629,Independent
+1190,BP Smithfield NSW,"846 THE HORSLEY DRIVE, SMITHFIELD NSW 2164",SMITHFIELD,2164,BP
+1191,Metro Fuel Croydon,"221-229 Elizabeth St, Croydon NSW 2132",Croydon,2132,Metro Fuel
+1192,7-Eleven Fairfield,"320 Polding St, FAIRFIELD WEST NSW 2165",FAIRFIELD WEST,2165,7-Eleven
+1193,AP Punchbowl,"Cnr Dudley St & Punchbowl Rd, PUNCHBOWL NSW 2196",PUNCHBOWL,2196,Independent
+1194,Independent Bonville,"340 Pine Creek Way, Bonville NSW 2450",Bonville,2450,Independent
+1195,BP Wauchope,"210 High Street, WAUCHOPE NSW 2446",WAUCHOPE,2446,BP
+1196,BP Penshurst,"494 Forest Rd, PENSHURST NSW 2222",PENSHURST,2222,BP
+1197,Ampol Gosford West,"283 MANNS RD, WEST GOSFORD NSW 2250",WEST GOSFORD,2250,Ampol
+1198,Ampol Tahmoor,"2900 Remeberance Drive, TAHMOOR NSW 2573",TAHMOOR,2573,Ampol
+1199,Metro Villawood,"276 MILLER RD, VILLAWOOD NSW 2163",VILLAWOOD,2163,Metro Fuel
+1200,BP Muswellbrook,"139-141 Maitland St, MUSWELLBROOK NSW 2333",MUSWELLBROOK,2333,BP
+1201,Shell Henty,"29 Railway Parade, Henty NSW 2658",Henty,2658,Shell
+1202,Metro Auburn,"74-78 Auburn Road, Auburn NSW 2144",Auburn,2144,Metro Fuel
+1203,Prime Earlwood,"108 Homer St, Earlwood NSW 2206",Earlwood,2206,Independent
+1204,Metro Fuel Berkeley Vale,"Lot 4 Tumbi Creek Rd, Berkeley Vale NSW 2261",Berkeley Vale,2261,Metro Fuel
+1205,B & E Doherty P/L Independent Wauchope,"57 High Street, Wauchope NSW 2446",Wauchope,2446,Independent
+1206,Independent Orange,"48-52 Peisley Street, Orange NSW 2800",Orange,2800,Independent
+1207,Independent Kempsey,"103 Smith ST, Kempsey NSW 2440",Kempsey,2440,Independent
+1208,Shell Goonellabah,"753 Ballina Road, GOONELLABAH NSW 2480",GOONELLABAH,2480,Shell
+1209,Ampol Wallacia,"2510 Silverdale Road, Wallacia NSW 2745",Wallacia,2745,Ampol
+1210,Metro Marrickville,"103 SYDENHAM RD, MARRICKVILLE NSW 2204",MARRICKVILLE,2204,Metro Fuel
+1211,Ampol Young Roadhouse,"Young Roadhouse 4623 Olympic Hwy, YOUNG NSW 2594",YOUNG,2594,Ampol
+1212,Shell Tomago,"793 TOMAGO RD, TOMAGO NSW 2322",TOMAGO,2322,Shell
+1213,Metro Tempe,"531 Princes Hwy, TEMPE NSW 2044",TEMPE,2044,Metro Fuel
+1214,Independent Krambach,"2/3728 Bucketts Way, Krambach NSW 2429",Krambach,2429,Independent
+1215,Metro Petroleum Addison Rd Marrickville,"93-99 ADDISON RD, MARRICKVILLE NSW 2204",MARRICKVILLE,2204,Metro Fuel
+1216,Budget Petrol Matraville,"553 Bunnerong Road, Matraville NSW 2036",Matraville,2036,Budget
+1217,Mobil Silverdale,"2320 Silverdale Rd, Silverdale NSW 2752",Silverdale,2752,Mobil
+1218,Metro Petroleum Narwee,"32 Bryant St, NARWEE NSW 2209",NARWEE,2209,Metro Fuel
+1219,Fuel Plus Harrington,"85 Beach St, HARRINGTON NSW 2427",HARRINGTON,2427,Independent
+1220,Budget Campsie,"403 Canterbury Road, Campsie NSW 2194",Campsie,2194,Budget
+1221,Coles Express Leppington,"1443 Camden Valley Way, Leppington NSW 2171",Leppington,2171,Coles Express
+1222,Coles Express Deniliquin,"336 Victoria Street, Deniliquin NSW 2710",Deniliquin,2710,Coles Express
+1223,Coles Express Bomaderry,"271 Princes Hwy, BOMADERRY NSW 2541",BOMADERRY,2541,Coles Express
+1224,Speedway Arncliffe,"32 Princes Hwy, Arncliffe NSW 2205",Arncliffe,2205,Speedway
+1225,Enhance Colovale,"1 Elm St, Colo Vale NSW 2575",Colo Vale,2575,Enhance
+1226,Shell Delungra,"26 Inverell Street, Delungra NSW 2403",Delungra,2403,Shell
+1227,Shell Bingara,"63 Maitland Street, Bingara NSW 2404",Bingara,2404,Shell
+1228,Independent SCONE,"236 Kelly St, SCONE NSW 2337",SCONE,2337,Independent
+1229,Budget Erskineville,"25-33 Erskineville Road, ERSKINEVILLE NSW 2043",ERSKINEVILLE,2043,Budget
+1230,Freedom Fuels Kingscliff,"22-26 Pearl Street, Kingscliff NSW 2487",Kingscliff,2487,Independent
+1231,Ampol Bombala Depot,"1 High Street, BOMBALA NSW 2632",BOMBALA,2632,Ampol
+1232,South West Fuel - Grenfell,"1 MAIN ST, GRENFELL NSW 2810",GRENFELL,2810,South West
+1233,Shell Brocklehurst,"2 TRANSPORT DR, BROCKLEHURST NSW 2830",BROCKLEHURST,2830,Shell
+1234,EG Ampol Canberra Airport,"Corner Majura Rd and Mustang Avenue, Canberra Airport ACT 2609",Canberra Airport,2609,EG Ampol
+1235,Ampol Weston,"49 BRIERLY ST, WESTON ACT 2611",WESTON,2611,Ampol
+1236,Ampol Calwell,"Were St, Calwell ACT 2905",Calwell,2905,Ampol
+1237,Westside Petroleum Bundanoon,"61 Railway Avenue, BUNDANOON NSW 2578",BUNDANOON,2578,Westside
+1238,BP Woolgoolga,"35 River Street, Woolgoolga NSW 2456",Woolgoolga,2456,BP
+1239,Ampol Canberra Airport,"1/3 Rogan St, Canberra Airport ACT 2609",Canberra Airport,2609,Ampol
+1240,Shanty Service Station,"3012 STURT HWY, ALFREDTOWN NSW 2650",ALFREDTOWN,2650,Independent
+1241,BP Kingston,"77 CANBERRA AV, GRIFFITH ACT 2603",GRIFFITH,2603,BP
+1242,Aberdare Fuel & Lotto,"68 Aberdare Road, Aberdare NSW 2325",Aberdare,2325,Independent
+1243,BP Enfield,"184 Liverpool Road, Enfield NSW 2136",Enfield,2136,BP
+1244,Transwest Mungindi,"30 ST GEORGE ST, MUNGINDI NSW 2406",MUNGINDI,2406,Transwest Fuels
+1245,BP Murwillumbah,"216 Tweed Valley Way, Murwillumbah NSW 2484",Murwillumbah,2484,BP
+1246,Enhance East Corrimal,"2-4 RAILWAY ST, EAST CORRIMAL NSW 2518",EAST CORRIMAL,2518,Enhance
+1247,Nicholson Petroleum,"11 Lower Rankin St, FORBES NSW 2871",FORBES,2871,Independent
+1248,Liberty Tenterfield,"104 Rouse St, TENTERFIELD NSW 2372",TENTERFIELD,2372,Liberty
+1249,South West Fuel - Temora,"109 Hoskins St, Temora NSW 2666",Temora,2666,South West
+1250,South West Fuel - Young,"31 Boorowa St, Young NSW 2594",Young,2594,South West
+1251,BP Young,"Cnr Zouch and Edward Streets, Young NSW 2594",Young,2594,BP
+1252,BP Quakers Hill,"45 Hambledon Road, Quakers Hill NSW 2763",Quakers Hill,2763,BP
+1253,TASCO Corowa Cemetery Rd,"161 Cemetery Road, Corowa NSW 2646",Corowa,2646,Ampol
+1254,BP Uncle Leo's Roadhouse,"1 Campbelltown Road, Glenfield NSW 2167",Glenfield,2167,BP
+1255,Puma Uralla,"111 Bridge Street, Uralla NSW 2358",Uralla,2358,Puma Energy
+1256,BP Tighes Hill,"110 ELIZABETH ST, TIGHES HILL NSW 2297",TIGHES HILL,2297,BP
+1257,METRO PETROLEUM BARMEDMAN TRUCK STOP,"92 Queen Street, Barmedman NSW 2668",Barmedman,2668,Metro Fuel
+1258,Metro Balgownie,"99 Balgownie Road, Balgownie NSW 2519",Balgownie,2519,Metro Fuel
+1259,Budget Freshwater,"119 Harbord Rd, Freshwater NSW 2096",Freshwater,2096,Budget
+1260,Ampol Foodary Manly,"86 Pittwater Rd, MANLY NSW 2095",MANLY,2095,Ampol
+1261,Shell Coonamble,"121 Castlereagh St, Coonamble NSW 2829",Coonamble,2829,Shell
+1262,Caltex Murwillumbah,"182 Tweed Valley Way, Murwillumbah NSW 2484",Murwillumbah,2484,Caltex
+1263,COLES EXPRESS MANUKA,"Cnr Canberra Avenue & Flinders Way, Express Manuka ACT 2603",Express Manuka,2603,Coles Express
+1264,Independent Towradgi,"119 Towradgi Road, Towradgi NSW 2518",Towradgi,2518,Independent
+1265,BP Coleambally,"12 Kingfisher Ave, COLEAMBALLY NSW 2707",COLEAMBALLY,2707,BP
+1266,Caltex Thornton,"2 Weakleys Dr, THORNTON NSW 2322",THORNTON,2322,Caltex
+1267,EG Ampol Temora,"Cnr. Polaris & Hoskins Streets, Temora NSW 2666",Temora,2666,EG Ampol
+1268,Aberdare Petroleum,"81 Aberdare Rd, ABERDARE NSW 2325",ABERDARE,2325,Independent
+1269,Metro Fuel Regents Park,"360 Park Road, Regents Park NSW 2143",Regents Park,2143,Metro Fuel
+1270,Delta Agribusiness Ardlethan,"18 Mirrool Street, Ardlethan NSW 2665",Ardlethan,2665,Independent
+1271,BP Austinmer,"42 Lawrence Hargrave, Austinmer NSW 2515",Austinmer,2515,BP
+1272,BP Blacktown,"162 Sunnyholt Rd, Blacktown NSW 2148",Blacktown,2148,BP
+1273,EG Ampol Morisset,"125 Dora Street, Morisset NSW 2264",Morisset,2264,EG Ampol
+1274,EG Ampol Forster,"16 Breese Parade, Forster NSW 2428",Forster,2428,EG Ampol
+1275,EG Ampol Seven Hills North,"1/155 Prospect Highway, Seven Hills NSW 2147",Seven Hills,2147,EG Ampol
+1276,EG Ampol Tuggerah,"24-26 Gavenlock Road, Tuggerah NSW 2259",Tuggerah,2259,EG Ampol
+1277,EG Ampol Cardiff,"43 Macquarie Road, Cardiff NSW 2285",Cardiff,2285,EG Ampol
+1278,EG Ampol Tuggerah North,"186 Pacific Highway, Tuggerah NSW 2259",Tuggerah,2259,EG Ampol
+1279,EG Ampol Tumut,"29-37 Fitzroy St (Cnr Herlihy St), Tumut NSW 2720",Tumut,2720,EG Ampol
+1280,EG Ampol Scone,"254 Kelly St, Scone NSW 2337",Scone,2337,EG Ampol
+1281,EG Ampol Bateau Bay,"9 Bay Village Rd, BATEAU BAY NSW 2261",BATEAU BAY,2261,EG Ampol
+1282,EG Ampol Tura Beach,"3-5 Tura Beach Drive (Cnr Sapphire Coast Drive), Tura Beach NSW 2548",Tura Beach,2548,EG Ampol
+1283,EG Ampol Raymond Terrace,"39-41 Port Stephens Rd (Cnr Bourke St), Raymond Terrace NSW 2324",Raymond Terrace,2324,EG Ampol
+1284,EG Ampol Seven Hills,"240 Prospect Highway, Seven Hills NSW 2147",Seven Hills,2147,EG Ampol
+1285,Independent Nimbin,"20 Sibley Street, Nimbin NSW 2480",Nimbin,2480,Independent
+1286,Independent Girraween,"133-137 Targo, Girraween NSW 2145",Girraween,2145,Independent
+1287,EG Ampol Rutherford,"300 New England Highway, Rutherford NSW 2320",Rutherford,2320,EG Ampol
+1288,Corner Country Store,"49 Briscoe St, TIBOOBURRA NSW 2880",TIBOOBURRA,2880,Independent
+1289,Westside Narrabri,"35 COOMA RD, NARRABRI NSW 2390",NARRABRI,2390,Shell
+1290,Shell Bermagui,"2 Bunga St, BERMAGUI NSW 2546",BERMAGUI,2546,Shell
+1291,Shell Peak Hill,"112-118 Caswell St, PEAK HILL NSW 2869",PEAK HILL,2869,Shell
+1292,EG Ampol Wyoming,"522 Pacific Highway (Cnr Renwick Rd), Wyoming NSW 2250",Wyoming,2250,EG Ampol
+1293,Ampol Kaleen,"275 MARIBYRNONG AV, KALEEN ACT 2617",KALEEN,2617,Ampol
+1294,South West Fuel - Temora Depot,"9 Ironbark St, Temora NSW 2666",Temora,2666,South West
+1295,South West Fuel - Ardlethan,"3 Wilson St, Ardlethan NSW 2665",Ardlethan,2665,South West
+1296,South West Fuel - Ariah Park,"42 COOLAMON ST, ARIAH PARK NSW 2665",ARIAH PARK,2665,South West
+1297,South West Fuel - Barellan,"76 Yapunyah St, Barellan NSW 2665",Barellan,2665,South West
+1298,South West Fuel - Barmedman,"1 Mandamah Rd, Barmedman NSW 2668",Barmedman,2668,South West
+1299,South West Fuel - Quandialla,"Second St, Quandialla NSW 2721",Quandialla,2721,South West
+1300,7-Eleven Rutherford,"319 New England Highway, 319 New England Highway, RUTHERFORD NSW 2320",RUTHERFORD,2320,7-Eleven
+1301,7-Eleven Woolooware,"192-198 The Kingsway, WOOLOOWARE NSW 2230",WOOLOOWARE,2230,7-Eleven
+1302,7-Eleven Watanobbi,"156 Pacific Highway, Watanobbi NSW 2259",Watanobbi,2259,7-Eleven
+1303,7-Eleven Casula,"2355 Camden Valley Way (Corner Beech Road), Casula NSW 2170",Casula,2170,7-Eleven
+1304,7-Eleven Long Jetty,"184-186 The Entrance Rd & Gosford Ave, Long Jetty NSW 2261",Long Jetty,2261,7-Eleven
+1305,7-Eleven Morisset,"133 Dora St, MORISSET NSW 2264",MORISSET,2264,7-Eleven
+1306,7-Eleven Edmondson Park,"1962 Camden Valley Way, EDMONDSON PARK NSW 2174",EDMONDSON PARK,2174,7-Eleven
+1307,7-Eleven Gateshead,"13-15 Pacific Highway, GATESHEAD NSW 2290",GATESHEAD,2290,7-Eleven
+1308,Long Jetty,"475 The Entrance Rd, LONG JETTY NSW 2261",LONG JETTY,2261,7-Eleven
+1309,7-Eleven Holt,"88 Hardwick Cres, Holt ACT 2615",Holt,2615,7-Eleven
+1310,Speedway Fairfield,"251 The Horsley Drive, Fairfield NSW 2165",Fairfield,2165,Speedway
+1311,Coles Express Tumut,"168-170 Snowy Mountains Hwy, Tumut NSW 2720",Tumut,2720,Coles Express
+1312,SPEEDWAY AUSTRAL,"394 FIFTEENTH AV, AUSTRAL NSW 2179",AUSTRAL,2179,Speedway
+1313,Speedway Auburn,"238 Cumberland Rd, Auburn NSW 2144",Auburn,2144,Speedway
+1314,Shell Brewarrina,"39 Doyle Street, Brewarrina NSW 2839",Brewarrina,2839,Shell
+1315,BP Rutherford,"360 New England Hwy, Rutherford NSW 2320",Rutherford,2320,BP
+1316,BP Bennetts Green,"20 PACIFIC HWY, BENNETTS GREEN NSW 2290",BENNETTS GREEN,2290,BP
+1317,APW,"449 Great Western Highway, WENTWORTHVILLE NSW 2145",WENTWORTHVILLE,2145,Independent
+1318,Ampol Nabiac,"3964 Wallanbah Road, NABIAC NSW 2312",NABIAC,2312,Ampol
+1319,BP Yagoona,"405 Hume Highway, Yagoona NSW 2199",Yagoona,2199,BP
+1320,SHELL WAGGA WAGGA TRUCKSTOP,"Lot 4, Bomen Road, Wagga Wagga NSW 2650",Wagga Wagga,2650,Shell
+1321,EG Ampol Lisarow,"900 Pacific Highway, LISAROW NSW 2250",LISAROW,2250,EG Ampol
+1322,Metro Petroleum Queanbeyan,"65 THARWA RD, QUEANBEYAN WEST NSW 2620",QUEANBEYAN WEST,2620,Metro Fuel
+1323,Caltex Rutherford,"Cnr Brooks St & New England Highway, Rutherford NSW 2320",Rutherford,2320,Caltex
+1324,BP Normanhurst,"155 Pennant Hills Rd, Normanhurst NSW 2076",Normanhurst,2076,BP
+1325,Caltex Moulamein,"66 Tallow Street, Moulamein NSW 2733",Moulamein,2733,Caltex
+1326,Ampol Broken Hill,"1 BLENDE ST, BROKEN HILL NSW 2880",BROKEN HILL,2880,Ampol
+1327,AVOCA FUEL,"210 Avoca Drive, AVOCA BEACH NSW 2251",AVOCA BEACH,2251,Independent
+1328,Eden service station,"52 MITCHELL ST, EDEN NSW 2551",EDEN,2551,Independent
+1329,Speedway Woodpark,"32-36 Woodpark Rd, WOODPARK NSW 2164",WOODPARK,2164,Speedway
+1330,Lowes Coleambally,"Calrose Avenue, Coleambally NSW 2707",Coleambally,2707,Lowes
+1331,Metro Petroleum Corrimal,"61-63 MURRAY RD, EAST CORRIMAL NSW 2518",EAST CORRIMAL,2518,Metro Fuel
+1332,Metro Petroleum Fairy Meadow,"16 Princes Highway, FAIRY MEADOW NSW 2519",FAIRY MEADOW,2519,Metro Fuel
+1333,7-Eleven Lisarow,"911 Pacific Highway, Lisarow NSW 2250",Lisarow,2250,7-Eleven
+1334,Metro Petroleum Bellambi,"209-211 ROTHERY ST, BELLAMBI NSW 2518",BELLAMBI,2518,Metro Fuel
+1335,Transwest Fuels Nemingha,"1019 New England Hwy, Nemingha NSW 2340",Nemingha,2340,Transwest Fuels
+1336,Metro Petroleum Appin,"34 APPIN RD, APPIN NSW 2560",APPIN,2560,Metro Fuel
+1337,TASCO Albury North St,"127 North Street, Albury NSW 2640",Albury,2640,Ampol
+1338,Ultra Manly,"209 Pittwater Road, Manly NSW 2095",Manly,2095,Independent
+1339,Enhance Russell Vale,"115 BELLAMBI LANE, BELLAMBI NSW 2518",BELLAMBI,2518,Enhance
+1340,Liberty Broadwater,"7-9 Pacific Hwy, BROADWATER NSW 2472",BROADWATER,2472,Liberty
+1341,Xpress fuels,"134 Brighton Ave, CAMPSIE NSW 2194",CAMPSIE,2194,Independent
+1342,Metro St Ives Chase,"164 Warrimoo Avenue, St Ives Chase NSW 2075",St Ives Chase,2075,Metro Fuel
+1343,TASCO Wagga Hammond Ave,"151 Hammond Ave, Wagga Wagga NSW 2650",Wagga Wagga,2650,Ampol
+1344,Gas to connect,"54c Fairfield Road, GUILDFORD WEST NSW 2161",GUILDFORD WEST,2161,Independent
+1345,Speedway Ingleburn,"13/3 Lancester St, Ingleburn NSW 2565",Ingleburn,2565,Speedway
+1346,TASCO Hay Sturt Hwy,"Sturt Hwy & Archer St, HAY SOUTH NSW 2711",HAY SOUTH,2711,Shell
+1347,Metro Fuel Greystanes,"73 Ettalong Rd, Greystanes NSW 2145",Greystanes,2145,Metro Fuel
+1348,TASCO Wagga Fernleigh Rd,"131 Fernleigh Road, Wagga Wagga NSW 2650",Wagga Wagga,2650,Ampol
+1349,TASCO Leeton Pine Ave,"1 Pine Avenue, Leeton NSW 2705",Leeton,2705,Ampol
+1350,Ampol Beresfield,"6, Yagan Drive, Beresfield NSW 2322",Beresfield,2322,Ampol
+1351,BP CLOVELLY,"33-37 Carrington Rd, RANDWICK NSW 2031",RANDWICK,2031,BP
+1352,Ampol Beresfield North,"Corner Weakleys & Balook Dr, Beresfield North NSW 2322",Beresfield North,2322,Ampol
+1353,TASCO Narrandera,"16322 Newell Highway, GILLENBAH NSW 2700",GILLENBAH,2700,Ampol
+1354,TASCO Tarcutta Hume Hwy,"Hume Highway, TARCUTTA NSW 2652",TARCUTTA,2652,Ampol
+1355,Ampol Mittagong,"115 Main St, MITTAGONG NSW 2575",MITTAGONG,2575,Ampol
+1356,Independent Freemans Reach,"442 Kurmond Road, Freemans Reach NSW 2756",Freemans Reach,2756,Independent
+1357,Transwest Fuels,"286 Manilla St, MANILLA NSW 2346",MANILLA,2346,Transwest Fuels
+1358,7-Eleven Quakers Hill,"83 Lalor Road & Quakers Hill Parkway, Quakers Hill NSW 2763",Quakers Hill,2763,7-Eleven
+1359,7-Eleven Emerton,"Shop 1, 135-137 Popondetta Road, Emerton NSW 2770",Emerton,2770,7-Eleven
+1360,Westside Petroleum Temora,"145-147 Hoskins Street, TEMORA NSW 2666",TEMORA,2666,Shell
+1361,Ampol Morisset,"5-11 Bvd, MORISSET NSW 2264",MORISSET,2264,Ampol
+1362,Nundle Fuel and cafe,"92 Jenkins Street, NUNDLE NSW 2340",NUNDLE,2340,Independent
+1363,Oasis Tuncurry,"186 The Lakes Way, TUNCURRY NSW 2428",TUNCURRY,2428,Independent
+1364,BUDGET PETROL BEXLEY ROAD CAMPSIE,"65 Bexley Rd, Campsie NSW 2194",Campsie,2194,Budget
+1365,Ampol Forresters Beach,"The Entrance, FORRESTERS BEACH NSW 2260",FORRESTERS BEACH,2260,Ampol
+1366,Ampol Long Jetty,"431 The Entrance Rd, LONG JETTY NSW 2261",LONG JETTY,2261,Ampol
+1367,AMPOL WOOLWORTHS MANLY VALE,"236 Condamine Street, MANLY VALE NSW 2093",MANLY VALE,2093,Ampol
+1368,Ampol Eden,"159 IMLAY ST, EDEN NSW 2551",EDEN,2551,Ampol
+1369,Ampol Woolworths Toronto,"147 St, TORONTO NSW 2283",TORONTO,2283,Ampol
+1370,Ampol Foodary Austral,"68 KELLY ST, AUSTRAL NSW 2179",AUSTRAL,2179,Ampol
+1371,Ampol Batemans Bay,"2 Princes Hwy Cnr Kings Hwy, BATEMANS BAY NSW 2536",BATEMANS BAY,2536,Ampol
+1372,Ampol Bomaderry,"341 Princes Hwy, Bomaderry NSW 2541",Bomaderry,2541,Ampol
+1373,Ampol Moorebank,"216 Newbridge Rd, MOOREBANK NSW 2170",MOOREBANK,2170,Ampol
+1374,Ampol Charlestown,"81 Pacific Hwy, CHARLESTOWN NSW 2290",CHARLESTOWN,2290,Ampol
+1375,Ampol Foodary Edmondson Park,"2072 Camden Valley Way, EDMONDSON PARK NSW 2174",EDMONDSON PARK,2174,Ampol
+1376,Independent Booral,"2780 Booral Road, Booral NSW 2425",Booral,2425,Independent
+1377,Coles Express Armidale,"89-93 Marsh St, Armidale NSW 2350",Armidale,2350,Coles Express
+1378,Coles Express North Ryde,"96 Wicks Road, North Ryde NSW 2113",North Ryde,2113,Coles Express
+1379,Mobil Bellingen,"24-26 Hyde Street, Bellingen NSW 2454",Bellingen,2454,Mobil
+1380,Ampol Orange Diesel Stop,"91 Elsham Avenue, ORANGE NSW 2800",ORANGE,2800,Ampol
+1381,BP Toronto,"132 CAREY STREET, Toronto NSW 2283",Toronto,2283,BP
+1382,Tanwar Petroleum,"281 New Canterbury Rd, Lewisham NSW 2049",Lewisham,2049,Independent
+1383,Independent Marrar,"3 York Street, Marrar NSW 2652",Marrar,2652,Independent
+1384,Blue Dolphin Service Station Yamba,"31-65 Yamba Road, Yamba NSW 2464",Yamba,2464,Liberty
+1385,Coles Express Tuggeranong,"149-165 Soward Way, Anketell St,, Greenway ACT 2900",Greenway,2900,Coles Express
+1386,EG Ampol Ingleburn,"12-14 Norfolk Street, Ingleburn NSW 2565",Ingleburn,2565,EG Ampol
+1387,TASCO Wagga Edwards St,"Edwards St & Station Pl, Wagga Wagga NSW 2650",Wagga Wagga,2650,Ampol
+1388,Silvalite Fuel Stop,"210 Ashmont Avenue, Ashmont NSW 2650",Ashmont,2650,Liberty
+1389,Willawarrin General Store and Post Office,"44 Main St, WILLAWARRIN NSW 2440",WILLAWARRIN,2440,Independent
+1390,Metro Tamworth,"360 Armidale Rd, EAST TAMWORTH NSW 2340",EAST TAMWORTH,2340,Metro Fuel
+1391,Tenterfield fuel & Co(Mobil),"159 ROUSE ST, TENTERFIELD NSW 2372",TENTERFIELD,2372,Mobil
+1392,BP Fyshwick,"2 Ipswich Street, Fyshwick ACT 2609",Fyshwick,2609,BP
+1393,BP Quakers Hill,"450 Quakers Hill Pkw, Quakers Hill NSW 2763",Quakers Hill,2763,BP
+1394,BP Ingleburn,"Cnr Williamson & McDonald Road, INGLEBURN NSW 2565",INGLEBURN,2565,BP
+1395,Metro Hurlstone Park,"13-19 CANTERBURY RD, CANTERBURY NSW 2193",CANTERBURY,2193,Metro Fuel
+1396,Coles Express Gorokan,"67 Wallarah Rd (Cnr Edith St), Gorokan NSW 2263",Gorokan,2263,Coles Express
+1397,BP Casula,"461 Hume Hwy, Casula NSW 2170",Casula,2170,BP
+1398,EG Ampol Tuggeranong,"Cnr Scollay St & Soward Way, Greenway ACT 2900",Greenway,2900,EG Ampol
+1399,Coles Express Wollongong,"142-148 Corrimal St, Wollongong NSW 2500",Wollongong,2500,Coles Express
+1400,BP Lansvale,"115-119 Hume Hwy, Lansvale NSW 2166",Lansvale,2166,BP
+1401,Metro Punchbowl,"998 Punchbowl Road, PUNCHBOWL NSW 2196",PUNCHBOWL,2196,Metro Fuel
+1402,Metro Petroleum Macquarie Fields,"2 ATCHISON RD, MACQUARIE FIELDS NSW 2564",MACQUARIE FIELDS,2564,Metro Fuel
+1403,Metro Petroleum West Wallsend,"7 WITHERS ST, WEST WALLSEND NSW 2286",WEST WALLSEND,2286,Metro Fuel
+1404,EG Ampol Coffs Harbour,"Pacific Hwy (Park Beach Plaza), Coffs Harbour NSW 2450",Coffs Harbour,2450,EG Ampol
+1405,7-Eleven Thornton,"1 Weakleys Dr, THORNTON NSW 2322",THORNTON,2322,7-Eleven
+1406,Liberty Wingham,"1325 GLOUCESTER RD, WINGHAM NSW 2429",WINGHAM,2429,Liberty
+1407,Jeff and rocks fuel and hardware,"38 Adam's Street, Wentworth NSW 2648",Wentworth,2648,BP
+1408,LakeMac Petroleum,"283 MAIN RD, FENNELL BAY NSW 2283",FENNELL BAY,2283,Independent
+1409,BP Queanbeyan,"52 Yass Road Queanbeyan, Queanbeyan NSW 2620",Queanbeyan,2620,BP
+1410,EG Ampol Young,"Cnr Lovell & Thornhill Sts, Young NSW 2594",Young,2594,EG Ampol
+1411,7-Eleven Heatherbrae,"369 Pacific Highway, Heatherbrae NSW 2324",Heatherbrae,2324,7-Eleven
+1412,Gilgai General Store,"9 Marsh Street, GILGAI NSW 2360",GILGAI,2360,Liberty
+1413,Independent Marrickville,"73-81 Marrickville Road, Marrickville NSW 2204",Marrickville,2204,Independent
+1414,7-Eleven Ingleburn,"63 Oxford & Cumberland Streets, Ingleburn NSW 2565",Ingleburn,2565,7-Eleven
+1415,7-Eleven Ingleburn,"4 LANCASTER ST, INGLEBURN NSW 2565",INGLEBURN,2565,7-Eleven
+1416,CULCAIRN TAKEAWAY & FUEL,"2883 Olympic Hwy, CULCAIRN NSW 2660",CULCAIRN,2660,Caltex
+1417,Lowes Mount Thorley,"74 Mount Thorley Road, Mount Thorley NSW 2330",Mount Thorley,2330,Lowes
+1418,BP Tumbarumba,"Bridge St Cnr Winton Street, Tumbarumba NSW 2653",Tumbarumba,2653,BP
+1419,Coles Express Goulburn,"90 Cowper St (Cnr Clinton St), Goulburn NSW 2580",Goulburn,2580,Coles Express
+1420,Coles Express Heatherbrae,"2137 Pacific Highway, Heatherbrae NSW 2324",Heatherbrae,2324,Coles Express
+1421,Carey bay servo,"42 Ambrose Street, CAREY BAY NSW 2283",CAREY BAY,2283,Independent
+1422,Independent Appin,"71 Appin Road, Appin NSW 2560",Appin,2560,Independent
+1423,EG Ampol Batemans Bay,"27 Vesper Street (Cnr Princes Hwy & Guy St), Batemans Bay NSW 2536",Batemans Bay,2536,EG Ampol
+1424,EG Ampol Moorebank,"Cnr Dredge & Stockton Avenue, Moorebank NSW 2170",Moorebank,2170,EG Ampol
+1425,Independent Mullumbimby,"1670 Coolamon Scenic Rd, Mullumbimby NSW 2482",Mullumbimby,2482,Independent
+1426,EG Ampol Blacktown,"41 - 43 Third Avenue, Blacktown NSW 2148",Blacktown,2148,EG Ampol
+1427,BP Crossroads,"615-617 Hume Hwy, CASULA NSW 2170",CASULA,2170,BP
+1428,BP Caringbah,"Cnr Captain Cook Dve & Cawarra Rd, Caringbah NSW 2229",Caringbah,2229,BP
+1429,Budget Hoxton Park,"358 Hoxton Park Road, HOXTON PARK NSW 2171",HOXTON PARK,2171,Budget
+1430,Ampol Lake Haven,"1 Bannister Drive, LAKE HAVEN NSW 2263",LAKE HAVEN,2263,Ampol
+1431,BP Cronulla,"Cnr Wilbur & Kingsway Streets, Cronulla NSW 2230",Cronulla,2230,BP
+1432,Metro Petroleum Heatherbrae,"206 Adelaide Street, HEATHERBRAE NSW 2324",HEATHERBRAE,2324,Metro Fuel
+1433,7-Eleven Paddington,"Cnr Oxford St & Greens Rd, PADDINGTON NSW 2021",PADDINGTON,2021,7-Eleven
+1434,Shell Wilton,"1109 Argyle St, WILTON NSW 2571",WILTON,2571,Shell
+1435,BP Mittagong,"51-59 Main Street, Mittagong NSW 2575",Mittagong,2575,BP
+1436,Werris Creek Fuels,"18 Single St, WERRIS CREEK NSW 2341",WERRIS CREEK,2341,Independent
+1437,Coles Express Guildford,"295 Woodville Rd, Guildford NSW 2161",Guildford,2161,Coles Express
+1438,Coles Express Casula,"629-631 Hume Highway, CASULA NSW 2170",CASULA,2170,Coles Express
+1439,Ampol Raymond Terrace,"136-138 Adelaide St, RAYMOND TERRACE NSW 2324",RAYMOND TERRACE,2324,Ampol
+1440,Ampol Hamilton,"59-63 Tudor Street, HAMILTON NSW 2303",HAMILTON,2303,Ampol
+1441,BP Nowra,"Corner Princess Highway and Plunkett Street, NOWRA NSW 2541",NOWRA,2541,BP
+1442,7-Eleven Toukley,"287 Main Street, Toukley NSW 2263",Toukley,2263,7-Eleven
+1443,BP Jerilderie Truck Stop,"13 Southy Street, Jerilderie NSW 2716",Jerilderie,2716,BP
+1444,BP Leppington Town Centre,"221 BRINGELLY RD, LEPPINGTON NSW 2179",LEPPINGTON,2179,BP
+1445,EG Ampol Rosemeadow,"3 Thomas Rose Drive, Rosemeadow NSW 2560",Rosemeadow,2560,EG Ampol
+1446,EG Ampol Merrylands,"185 Pitt Street, MERRYLANDS NSW 2160",MERRYLANDS,2160,EG Ampol
+1447,EG Ampol Vineyard,"1432 Windsor Rd (cnr Woodlands St), Vineyard NSW 2765",Vineyard,2765,EG Ampol
+1448,EG Ampol North Narrabeen,"1412-1414 Pittwater Road, North Narrabeen NSW 2101",North Narrabeen,2101,EG Ampol
+1449,EG Ampol Wanniassa,"Cnr McBryde Cres & Denigan Street, Wanniassa ACT 2903",Wanniassa,2903,EG Ampol
+1450,EG Ampol Kempsey,"77 Smith Street, Kempsey NSW 2440",Kempsey,2440,EG Ampol
+1451,EG Ampol Cessnock,"220 Wollombi Road, Cessnock NSW 2325",Cessnock,2325,EG Ampol
+1452,EG Ampol Grafton,"75-77 Fitzroy Street, Grafton NSW 2460",Grafton,2460,EG Ampol
+1453,EG Ampol Moama,"2 Perricoota Rd, Moama NSW 2731",Moama,2731,EG Ampol
+1454,EG Ampol Nowra,"58 North Street, Nowra NSW 2541",Nowra,2541,EG Ampol
+1455,EG Ampol Armidale,"244A Beardy Street, Armidale NSW 2350",Armidale,2350,EG Ampol
+1456,EG Ampol Glen Innes,"143 Meade Street, Glen Innes NSW 2370",Glen Innes,2370,EG Ampol
+1457,EG Ampol Corowa,"Cnr Queen & Parliament Streets, Corowa NSW 2646",Corowa,2646,EG Ampol
+1458,EG Ampol Edgeworth,"736-742 Main Road, Edgeworth NSW 2285",Edgeworth,2285,EG Ampol
+1459,EG Ampol Shellharbour,"New Lake Entrance Road (Shellharbour City Centre), Shellharbour NSW 2529",Shellharbour,2529,EG Ampol
+1460,EG Ampol Orange,"357-361 Summer St (Cnr William), Orange NSW 2800",Orange,2800,EG Ampol
+1461,Mountain Motors Walcha,"18n Derby St, WALCHA NSW 2354",WALCHA,2354,BP
+1462,BP Tuggerah,"100 Pacific Highway, Tuggerah NSW 2259",Tuggerah,2259,BP
+1463,Ampol Wagga Wagga,"170 FITZMAURICE ST, WAGGA WAGGA NSW 2650",WAGGA WAGGA,2650,Ampol
+1464,Ampol Wollongong North,"9 Flinders St, Wollongong North NSW 2500",Wollongong North,2500,Ampol
+1465,Ampol Taree,"Cnr Manning River Dr & Glenthorne, Taree South NSW 2430",Taree South,2430,Ampol
+1466,Ampol Kensington,"211-213 Anzac Parade, KENSINGTON NSW 2033",KENSINGTON,2033,Ampol
+1467,Ampol Woolworths Swansea,"126 Pacific Hwy, SWANSEA NSW 2281",SWANSEA,2281,Ampol
+1468,Ampol Tempe,"775 Princes Hwy, TEMPE NSW 2044",TEMPE,2044,Ampol
+1469,Ampol Leumeah,"6 Rudd Rd, LEUMEAH NSW 2560",LEUMEAH,2560,Ampol
+1470,Ampol Wagga Wagga,"56 Docker St, WAGGA WAGGA NSW 2650",WAGGA WAGGA,2650,Ampol
+1471,Ampol Lansvale,"141-151 Hume Highway Cnr Chadderton St, LANSVALE NSW 2166",LANSVALE,2166,Ampol
+1472,Ampol Woolworths Wetherill Park,"Cnr The Horsley Dr & Mcilwraith St, WETHERILL PARK NSW 2164",WETHERILL PARK,2164,Ampol
+1473,Ampol Woolworths Yass,"1715 Yass Valley Way, Yass NSW 2582",Yass,2582,Ampol
+1474,EG Ampol Green Hills,"Molly Morgan Drive (Stockland Green Hills), East Maitland NSW 2323",East Maitland,2323,EG Ampol
+1475,EG Ampol Glendale,"Stockland Drive (Stockland Shopping Centre), Glendale NSW 2285",Glendale,2285,EG Ampol
+1476,EG Ampol Berkshire Park,"770 Richmond Road, Berkshire Park NSW 2765",Berkshire Park,2765,EG Ampol
+1477,EG Ampol Plumpton,"Jersey Road (Plumpton Market Place), Plumpton NSW 2761",Plumpton,2761,EG Ampol
+1478,EG Ampol Newport,"348 Barrenjoey Road, Newport NSW 2106",Newport,2106,EG Ampol
+1479,EG Ampol Belmont,"397 Pacific Highway, Belmont NSW 2280",Belmont,2280,EG Ampol
+1480,Coles Express Toronto,"133-137 Cary St, Toronto NSW 2283",Toronto,2283,Coles Express
+1481,Speedway Liverpool,"406 Macquarie Street, LIVERPOOL NSW 2170",LIVERPOOL,2170,Speedway
+1482,Ampol Gosford West (Eastbound),"69-71 Pacific Highway, Gosford West NSW 2250",Gosford West,2250,Ampol
+1483,Ampol Lightning Ridge,"Cnr Onyx St, LIGHTNING RIDGE NSW 2834",LIGHTNING RIDGE,2834,Ampol
+1484,Ampol Woolworths Gosford West (Westbound),"30A Pacific Hwy, Gosford West NSW 2250",Gosford West,2250,Ampol
+1485,Ampol Salt Ash,"2893 Nelson Bay Rd, SALT ASH NSW 2318",SALT ASH,2318,Ampol
+1486,Ampol Woolworths Charmhaven,"13-15 Pacific Hwy Cnr Costa Ave, CHARMHAVEN NSW 2263",CHARMHAVEN,2263,Ampol
+1487,EG Ampol Unanderra,"110-112 Princes Hwy, UNANDERRA NSW 2526",UNANDERRA,2526,EG Ampol
+1488,Lowes Forbes,"3-15 Union Street, Forbes NSW 2871",Forbes,2871,Lowes
+1489,Fuel Plus Condobolin,"20 Lachlan St, CONDOBOLIN NSW 2877",CONDOBOLIN,2877,Independent
+1490,Boland Petroleum,"101 Gosport St, MOREE NSW 2400",MOREE,2400,Ampol
+1491,Boland Petroleum,"1-5 James St, NARRABRI NSW 2390",NARRABRI,2390,Ampol
+1492,7-Eleven Orange,"90 Bathurst Road, Orange NSW 2800",Orange,2800,7-Eleven
+1493,7-Eleven Wanniassa,"76 Gartside St, Wanniassa ACT 2903",Wanniassa,2903,7-Eleven
+1494,7-Eleven Kensington,"110 Anzac Parade & Goodwood Street, Kensington NSW 2033",Kensington,2033,7-Eleven
+1495,7-Eleven Kensington,"131 Anzac Parade & Todman Avenue, Kensington NSW 2033",Kensington,2033,7-Eleven
+1496,Delta Ag,"5 Harry Davies Dr, LOCKHART NSW 2656",LOCKHART,2656,Independent
+1497,7-Eleven Hassall Grove,"795 Luxford Road (Corner Buckwell Drive), Hassall Grove NSW 2761",Hassall Grove,2761,7-Eleven
+1498,7-Eleven Narrabeen,"1497 Pittwater Road & Gondola Street, Narrabeen NSW 2101",Narrabeen,2101,7-Eleven
+1499,Metrol Petroleum Liverpool CBD,"86 Castlereagh Street, LIVERPOOL NSW 2170",LIVERPOOL,2170,Metro Fuel
+1500,Coles Express Mittagong,"Old Hume Hwy (Cnr Balaclava St), Mittagong NSW 2575",Mittagong,2575,Coles Express
+1501,7-Eleven Gosford West,"55 Central Coast Highway, Gosford West NSW 2250",Gosford West,2250,7-Eleven
+1502,EG Ampol Jerrabomberra,"10 Limestone Drive, Jerrabomberra NSW 2619",Jerrabomberra,2619,EG Ampol
+1503,Westside Toukley,"356 MAIN RD, TOUKLEY NSW 2263",TOUKLEY,2263,Westside
+1504,Shell Nyngan,"57 Pangee Street, Nyngan NSW 2825",Nyngan,2825,Shell
+1505,Metro Fuel Haberfield,"163-165 PARRAMATTA RD, HABERFIELD NSW 2045",HABERFIELD,2045,Metro Fuel
+1506,Shell Glen Innes,"102 CHURCH ST, GLEN INNES NSW 2370",GLEN INNES,2370,Shell
+1507,BP St Marys (Forrester Road),"120-128 Forrester Road, ST MARYS NSW 2760",ST MARYS,2760,BP
+1508,Coles Express Batehaven,"198 Beach Road, Batehaven NSW 2536",Batehaven,2536,Coles Express
+1509,Ampol South Grafton,"Gwydir Hwy, South Grafton NSW 2460",South Grafton,2460,Ampol
+1510,Budget Petrol Chippendale,"66-70 Regent Street, CHIPPENDALE NSW 2008",CHIPPENDALE,2008,Budget
+1511,Rodney's Transport Service,"82 BOMEN RD, CARTWRIGHTS HILL NSW 2650",CARTWRIGHTS HILL,2650,Independent
+1512,Ampol Ingleburn Diesel Stop,"4 Lancaster St, Ingleburn NSW 2565",Ingleburn,2565,Ampol
+1513,BP Maraylya,"415 Boundary Road, Maraylya NSW 2765",Maraylya,2765,BP
+1514,TASCO Tumut Adelong Rd,"42 Adelong Road, Tumut NSW 2720",Tumut,2720,Ampol
+1515,EG Ampol Lansvale,"136 Hume Highway (cnr Hollywood Drive), Lansvale NSW 2166",Lansvale,2166,EG Ampol
+1516,EG Ampol Strathfield,"287 Liverpool Road, Burwood NSW 2134",Burwood,2134,EG Ampol
+1517,BP Macquarie Fields,"72 Harold St, Macquarie Fields NSW 2564",Macquarie Fields,2564,BP
+1518,Metro Petroleum Georges Hall,"250 HENRY LAWSON DR, GEORGES HALL NSW 2198",GEORGES HALL,2198,Metro Fuel
+1519,Budget Fairfield,"62 Railway Parade, Fairfield NSW 2165",Fairfield,2165,Budget
+1520,Speedway South Granville,"171 Clyde St, SOUTH GRANVILLE NSW 2142",SOUTH GRANVILLE,2142,Speedway
+1521,Ampol Elermore Vale,"52 Cardiff Road, Elermore Vale NSW 2287",Elermore Vale,2287,Ampol
+1522,Westside Doonside,"13-15 Doonside Rd, Doonside NSW 2767",Doonside,2767,Westside
+1523,Caltex Greta,"2021 New England Hwy, Greta NSW 2334",Greta,2334,Caltex
+1524,7-Eleven Newport,"307-311 Barrenjoey Rd, NEWPORT NSW 2106",NEWPORT,2106,7-Eleven
+1525,Metro Eden,"26 MITCHELL ST, EDEN NSW 2551",EDEN,2551,Metro Fuel
+1526,Independent Dalmeny,"69 Mort Avenue, Dalmeny NSW 2546",Dalmeny,2546,Independent
+1527,Budget Blacktown,"143 Kildare Road, Blacktown NSW 2148",Blacktown,2148,Budget
+1528,Ultra Edgeworth,"780 Main Rd, EDGEWORTH NSW 2285",EDGEWORTH,2285,Independent
+1529,Ampol Nemingha,"428 Armidale Road, NEMINGHA NSW 2340",NEMINGHA,2340,Ampol
+1530,EG Ampol Dapto,"83 Byamee Street, Dapto NSW 2530",Dapto,2530,EG Ampol
+1531,7-Eleven West Wollongong,"Corner Crown & Darling Streets, West Wollongong NSW 2500",West Wollongong,2500,7-Eleven
+1532,7-Eleven St Marys,"Corner Forrester Road & Christie Street, St Marys NSW 2760",St Marys,2760,7-Eleven
+1533,Monaghan's Fuel Supplies (Account holders only),"27 HASTINGS ST, WAUCHOPE NSW 2446",WAUCHOPE,2446,Independent
+1534,Oilplus Daroobalgie (Bulk Service Depot),"Lot 127 Lot 127 Back Yamma Rd, Daroobalgie NSW 2870",Daroobalgie,2870,Independent
+1535,Independent Wyndham,"18/19 Monaro Street, Wyndham NSW 2550",Wyndham,2550,Independent
+1536,Coles Express Phillip,"172 MELROSE DR, PHILLIP ACT 2606",PHILLIP,2606,Coles Express
+1537,Coles Express Wanniassa,"49 RYLAH CR, WANNIASSA ACT 2903",WANNIASSA,2903,Coles Express
+1538,Access Fuels,"140-142 JUBILEE ST, TOWNSEND NSW 2463",TOWNSEND,2463,Independent
+1539,Independent Murrumbateman,"22 East Street, Murrumbateman NSW 2582",Murrumbateman,2582,Independent
+1540,Lowes Moree,"65 Greenbah Road, Moree NSW 2400",Moree,2400,Lowes
+1541,AMPOL BEROWRA,"12-14 Berowra Waters Rd, BEROWRA NSW 2081",BEROWRA,2081,Ampol
+1542,BP Uki,"1504 kyogle Road, Uki NSW 2484",Uki,2484,BP
+1543,Coles Express Dapto,"152-158 Princes Hwy, Dapto NSW 2530",Dapto,2530,Coles Express
+1544,Coles Express Glendale,"593 Main Rd, Glendale NSW 2285",Glendale,2285,Coles Express
+1545,Coles Express Kincumber,"Avoca Dr & Bungoona St, Kincumber NSW 2251",Kincumber,2251,Coles Express
+1546,Coles Express Corrimal,"269-275 Princes Highway, Corrimal NSW 2518",Corrimal,2518,Coles Express
+1547,Coles Express Mayfield,"63-69 Maud St (Cnr Miller St), Mayfield NSW 2304",Mayfield,2304,Coles Express
+1548,EG Ampol Wollongong West,"425 Crown Street, Wollongong West NSW 2500",Wollongong West,2500,EG Ampol
+1549,BP Kurmond,"501-509 Bells Line Of Road, Kurmond NSW 2757",Kurmond,2757,BP
+1550,BP Tahmoor,"2710 REMEMBRANCE DVWY, TAHMOOR NSW 2573",TAHMOOR,2573,BP
+1551,Independent Somersby,"51 Smiths Rd, Somersby NSW 2250",Somersby,2250,Independent
+1552,7-Eleven Argenton,"503 Lake Road, Argenton NSW 2284",Argenton,2284,7-Eleven
+1553,BP South Tamworth,"399 Goonoo Goonoo Rd, Hillvue NSW 2340",Hillvue,2340,BP
+1554,Pacific Mobil,"11 Hanlon Street, PARKES NSW 2870",PARKES,2870,Mobil
+1555,Coles Express Lawson,"311 Great Western Highway, Lawson NSW 2783",Lawson,2783,Coles Express
+1556,Coles Express Salamander Bay,"163 Salamander Way, Salamander Bay NSW 2317",Salamander Bay,2317,Coles Express
+1557,Coles Express Nowra,"55 Kinghorne St (Cnr Worrigee St), Nowra NSW 2541",Nowra,2541,Coles Express
+1558,EG Ampol Corrimal,"275-277 Princes Highway, Corrimal NSW 2518",Corrimal,2518,EG Ampol
+1559,Mobil Coolamon,"84 Cowabbie St, COOLAMON NSW 2701",COOLAMON,2701,Mobil
+1560,EG Ampol Kings Park,"Cnr Vardys & Turbo Roads, Marayong NSW 2148",Marayong,2148,EG Ampol
+1561,Independent Kempsey,"108-112 Smith Street, Kempsey NSW 2440",Kempsey,2440,Independent
+1562,Shell Cooma,"51 Sharp Street, Cooma NSW 2630",Cooma,2630,Shell
+1563,Endeavour Corowa,"223 SANGER ST, COROWA NSW 2646",COROWA,2646,Independent
+1564,7-Eleven Dapto,"125-127 Princes Hwy, DAPTO NSW 2530",DAPTO,2530,7-Eleven
+1565,Buronga IGA Express,"141 Sturt Hwy, BURONGA NSW 2739",BURONGA,2739,Shell
+1566,EG Ampol Mawson,"15 Mawson Place, Mawson ACT 2607",Mawson,2607,EG Ampol
+1567,7-Eleven Corrimal,"138-146 Princes Highway, Corrimal NSW 2518",Corrimal,2518,7-Eleven
+1568,7- Eleven Towradgi,"162-166 Pioneer Rd, TOWRADGI NSW 2518",TOWRADGI,2518,7-Eleven
+1569,TASCO Leeton Vance Rd,"44-46 Vance Rd, LEETON NSW 2705",LEETON,2705,Ampol
+1570,BP Whitebridge,"170 Dudley Road, Whitebridge NSW 2290",Whitebridge,2290,BP
+1571,Independent Mullumbimby,"44 Dalley Street, Mullumbimby NSW 2482",Mullumbimby,2482,Independent
+1572,ARKO ENERGY GLOUCESTER,"141 CHURCH ST, GLOUCESTER NSW 2422",GLOUCESTER,2422,Independent
+1573,7-Eleven Mawson,"1 Mawson Pl, Mawson ACT 2607",Mawson,2607,7-Eleven
+1574,BP Greystanes,"2-4 Kippax St, Greystanes NSW 2145",Greystanes,2145,BP
+1575,Westside Petroleum Granville,"2-4 Blaxcell St, GRANVILLE NSW 2142",GRANVILLE,2142,Westside
+1576,Independent Kogarah,"81 Barton St, Kogarah NSW 2217",Kogarah,2217,Independent
+1577,7-Eleven Orange North,"68-74 MOLONG RD, ORANGE NSW 2800",ORANGE,2800,7-Eleven
+1578,Ampol Inverell Road House,"143-149 WARIALDA RD, INVERELL NSW 2360",INVERELL,2360,Ampol
+1579,EG Ampol Nambucca Heads,"115 Mann St, NAMBUCCA HEADS NSW 2448",NAMBUCCA HEADS,2448,EG Ampol
+1580,EG Ampol Warabrook,"3 Angaphora Drive, Warabrook NSW 2304",Warabrook,2304,EG Ampol
+1581,Shell Wollongbar,"1185 Bruxner Hwy, WOLLONGBAR NSW 2477",WOLLONGBAR,2477,Shell
+1582,Brunswick Village Greens,"151 TWEED ST, BRUNSWICK HEADS NSW 2483",BRUNSWICK HEADS,2483,Independent
+1583,Coles Express Canley Vale,"65-99 Hume Highway, Canley Vale NSW 2166",Canley Vale,2166,Coles Express
+1584,BP Phillip,"166 MELROSE DR, PHILLIP ACT 2606",PHILLIP,2606,BP
+1585,Somerton Road House Fuel & Cafe,"1, Oxley Hwy, Somerton NSW 2340",Somerton,2340,Independent
+1586,Ampol Camden,"21 BARSDEN ST, CAMDEN NSW 2570",CAMDEN,2570,Ampol
+1587,Ampol Brownsville,"342 Kanahooka Road, BROWNSVILLE NSW 2530",BROWNSVILLE,2530,Ampol
+1588,EG Ampol Banksia,"314 Princes Highway (Cnr Banksia Street), Banksia NSW 2216",Banksia,2216,EG Ampol
+1589,METRO HEDDON GRETA,"81-83 Main Road, HEDDON GRETA NSW 2321",HEDDON GRETA,2321,Metro Fuel
+1590,7-Eleven Phillip,"86 PARRAMATTA ST, PHILLIP ACT 2606",PHILLIP,2606,7-Eleven
+1591,7-Eleven Metford,"456, Metford Road, Metford NEW SOUTH WALES 2323",Metford,2323,7-Eleven
+1592,EG Ampol Gloucester,"115-115 Church Street, Gloucester NSW 2422",Gloucester,2422,EG Ampol
+1593,7-Eleven Belmore,"792-794 Canterbury Road Chapel Street, Belmore NSW 2192",Belmore,2192,7-Eleven
+1594,Enhance Oak Flats,"77 Old Lake Entrance Rd, Oak Flats NSW 2529",Oak Flats,2529,Enhance
+1595,Independent South Murwillumbah,"303 Tweed Valley Way, South Murwillumbah NSW 2484",South Murwillumbah,2484,Independent
+1596,7-Eleven Rockdale,"293 West Botany Street (Corner Bestic Street), Rockdale NSW 2216",Rockdale,2216,7-Eleven
+1597,Speedway Granville,"348 Blaxcell Street, Granville NSW 2142",Granville,2142,Speedway
+1598,Independent Mooball,"5885 Tweed ValleyWay, Mooball NSW 2483",Mooball,2483,Independent
+1599,Caltex Alstonville,"73 MAIN ST, ALSTONVILLE NSW 2477",ALSTONVILLE,2477,Caltex
+1600,Metro Punchbowl,"10-12 Park Ave, Punchbowl NSW 2196",Punchbowl,2196,Metro Fuel
+1601,7-Eleven Mount Pritchard,"464 Cabramatta Road West, Mount Pritchard NSW 2170",Mount Pritchard,2170,7-Eleven
+1602,Nemingha PostOffice,"1049 Armidale Rd, NEMINGHA NSW 2340",NEMINGHA,2340,Transwest Fuels
+1603,Mobil Gunning,"56 Yass Street, GUNNING NSW 2581",GUNNING,2581,Mobil
+1604,Ampol Chipping Norton,"30-40 Alfred Rd, Chipping Norton NSW 2170",Chipping Norton,2170,Ampol
+1605,EG Ampol Oran Park,"6 Fordham Way, Oran Park NSW 2570",Oran Park,2570,EG Ampol
+1606,Powerfuel,"101 Blaxcell St, GRANVILLE NSW 2142",GRANVILLE,2142,Independent
+1607,Coles Express Oak Flats,"Lot 2 Lake Entrance Road, Oak Flats NSW 2529",Oak Flats,2529,Coles Express
+1608,Metro Petroleum Long Jetty,"326 THE ENTRANCE ROAD, LONG JETTY NSW 2261",LONG JETTY,2261,Metro Fuel
+1609,Liberty Cullendulla,"11191 Princes Highway, BENANDARAH NSW 2536",BENANDARAH,2536,Liberty
+1610,EG Ampol Campbelltown,"48-50 Blaxland Road, Campbelltown NSW 2560",Campbelltown,2560,EG Ampol
+1611,Bargo Petroleum,"3030 REMEMBRANCE DVWY, BARGO NSW 2574",BARGO,2574,Independent
+1612,Coles Express Wetherill Park,"37 Elizabeth St (Cnr Victoria St), Wetherill Park NSW 2164",Wetherill Park,2164,Coles Express
+1613,Taylors Corner,"89 EWING ST, MURWILLUMBAH NSW 2484",MURWILLUMBAH,2484,Independent
+1614,EG Ampol Woolooware,"449 Captain Cook Drive, Woolooware NSW 2230",Woolooware,2230,EG Ampol
+1615,BP Fairy Meadow,"Northgate Ctr 224 Princess Hway, Fairy Meadow NSW 2519",Fairy Meadow,2519,BP
+1616,United Grafton,"105 Bent St, SOUTH GRAFTON NSW 2460",SOUTH GRAFTON,2460,United
+1617,BP Tamworth,"190 Peel Street, Tamworth NSW 2340",Tamworth,2340,BP
+1618,Metro Petroleum Bomaderry,"UNIT 3 1 BEINDA ST, BOMADERRY NSW 2541",BOMADERRY,2541,Metro Fuel
+1619,Independent Narrabri,"177 Maitland Street, Narrabri NSW 2390",Narrabri,2390,Independent
+1620,Werrington Depot (unmanned with payment terminal),"Lot 3 Werringon Road, WERRINGTON NSW 2747",WERRINGTON,2747,BP
+1621,EG Ampol Leeton,"Cnr Warnoon & Palm Avenue, Leeton NSW 2705",Leeton,2705,EG Ampol
+1622,7-Eleven Mount Pritchard,"352 Elizabeth Drive (Corner Meadow Road), Mount Pritchard NSW 2170",Mount Pritchard,2170,7-Eleven
+1623,7-Eleven Sutherland,"693 Old Princes Highway (Retank Reopens 23 Jun'16), Sutherland NSW 2232",Sutherland,2232,7-Eleven
+1624,7-Eleven Guildford,"272-278 Woodville Road, Guildford NSW 2161",Guildford,2161,7-Eleven
+1625,7-Eleven Green Point,"390 Avoca Drive (Gosford), Green Point NSW 2251",Green Point,2251,7-Eleven
+1626,7-Eleven Kincumber,"28 - 30 Avoca Drive, Kincumber NSW 2251",Kincumber,2251,7-Eleven
+1627,7-Eleven Campbelltown,"71 Blaxland Road, Campbelltown NSW 2560",Campbelltown,2560,7-Eleven
+1628,7-Eleven Campbelltown,"96 Queen & Broughton Streets, Campbelltown NSW 2560",Campbelltown,2560,7-Eleven
+1629,Access North Lismore,"62 BRIDGE ST, NORTH LISMORE NSW 2480",NORTH LISMORE,2480,Independent
+1630,Speedway Roselands,"948-950 Canterbury Rd, Roselands NSW 2196",Roselands,2196,Speedway
+1631,BP Belfield,"53 Punchbowl Rd, Belfield NSW 2191",Belfield,2191,BP
+1632,Liberty Narrandera,"110 AUDLEY ST, NARRANDERA NSW 2700",NARRANDERA,2700,Liberty
+1633,Independent Gladstone,"54 Barnard Street, Gladstone NSW 2440",Gladstone,2440,Independent
+1634,Shell Rylstone,"25 Louee Street, Rylstone NSW 2849",Rylstone,2849,BP
+1635,BP Beckom,"7452 Newell Hwy, Beckom NSW 2665",Beckom,2665,BP
+1636,NightOwl Shell Berkeley Vale,"1a Tumbi Creek Road, BERKELEY VALE NSW 2261",BERKELEY VALE,2261,Shell
+1637,BP Port Macquarie,"100 Ocean Drive, Port Macquarie NSW 2444",Port Macquarie,2444,BP
+1638,BP Port Macquarie,"Cnr Pacific & Oxley Highways, PORT MACQUARIE NSW 2444",PORT MACQUARIE,2444,BP
+1639,Budget Petrol St Helens Park,"24 Wooland Rd, St Helens Park NSW 2560",St Helens Park,2560,Budget
+1640,Mobil,"62-64 Wamoon Ave, LEETON NSW 2705",LEETON,2705,Mobil
+1641,BP Grafton,"58 Fitzroy Street, Grafton NSW 2460",Grafton,2460,BP
+1642,Endeavour Petroleum Pty Ltd,"12 REIFF ST, LAVINGTON NSW 2641",LAVINGTON,2641,Independent
+1643,Shell Cobar,"69 Marshal St, Cobar NSW 2835",Cobar,2835,Shell
+1644,Metro Berkeley,"57 Winnima Way, BERKELEY NSW 2506",BERKELEY,2506,Metro Fuel
+1645,Ampol Murwillumbah,"1-7 Buchanan St, SOUTH MURWILLUMBAH NSW 2484",SOUTH MURWILLUMBAH,2484,Ampol
+1646,Ampol Wyoming,"465 Pacific Hwy, WYOMING NSW 2250",WYOMING,2250,Ampol
+1647,Ampol Unanderra,"86-98 Princes Hwy, UNANDERRA NSW 2526",UNANDERRA,2526,Ampol
+1648,Ampol East Maitland,"Newcastle St & William St, EAST MAITLAND NSW 2323",EAST MAITLAND,2323,Ampol
+1649,Ampol Woolworths New Lambton,"148 Bridges Rd, NEW LAMBTON NSW 2305",NEW LAMBTON,2305,Ampol
+1650,Ampol Merrylands,"150 Woodville Rd, MERRYLANDS NSW 2160",MERRYLANDS,2160,Ampol
+1651,Ampol Woolworths Kellyville,"3-5 Windsor Rd, KELLYVILLE NSW 2155",KELLYVILLE,2155,Ampol
+1652,Ampol Bonnyrigg,"Smithfield Rd, Cnr Elizabeth Drive, BONNYRIGG NSW 2177",BONNYRIGG,2177,Ampol
+1653,Ampol Port Macquarie,"29 Lord St, PORT MACQUARIE NSW 2444",PORT MACQUARIE,2444,Ampol
+1654,Ampol Barrack Heights,"332-336 Shellharbour Rd, BARRACK HEIGHTS NSW 2528",BARRACK HEIGHTS,2528,Ampol
+1655,Coles Express Merewether,"87 Llewellyn St (Cnr Glebe Rd), Merewether NSW 2291",Merewether,2291,Coles Express
+1656,Coles Express Kotara,"93 Park Avenue, Kotara NSW 2289",Kotara,2289,Coles Express
+1657,7-Eleven Braddon,"20 MORT ST, BRADDON ACT 2612",BRADDON,2612,7-Eleven
+1658,Coles Express Kariong,"6-8 Pacific Hwy, Kariong NSW 2250",Kariong,2250,Coles Express
+1659,Coles Express Ourimbah,"78 Pacific Highway (Cnr Burns Rd), Ourimbah NSW 2258",Ourimbah,2258,Coles Express
+1660,Coles Express Wallsend,"15 Thomas St (Cnr Brook St), Wallsend NSW 2287",Wallsend,2287,Coles Express
+1661,Coles Express Nelson Bay,"23-27 Stockton St, Nelson Bay NSW 2315",Nelson Bay,2315,Coles Express
+1662,Kentucky General Store,"46 Noalimba Avenue, 46 Noalimba Avenue, KENTUCKY NSW 2354",KENTUCKY,2354,Independent
+1663,Coles Express Wallsend,"14 Thomas St, Wallsend NSW 2287",Wallsend,2287,Coles Express
+1664,First Fuels,"79 Hartley Rd, SMEATON GRANGE NSW 2567",SMEATON GRANGE,2567,Independent
+1665,BP Wallsend,"103- Newcastle Road, Wallsend NSW 2287",Wallsend,2287,BP
+1666,Coles Express Murwillumbah,"279-283 Tweed Valley Way, SOUTH MURWILLUMBAH NSW 2484",SOUTH MURWILLUMBAH,2484,Coles Express
+1667,Coles Express Liverpool,"338-340 Hume Highway, Liverpool NSW 2170",Liverpool,2170,Coles Express
+1668,Coles Express Tamworth,"251-253 Goonoo Goonoo Rd, Tamworth NSW 2340",Tamworth,2340,Coles Express
+1669,BP Kellyville,"19-21 Windsor Road, Kellyville NSW 2155",Kellyville,2155,BP
+1670,BP Hamilton Tudor Street,"56 Tudor Street, HAMILTON NSW 2303",HAMILTON,2303,BP
+1671,BP Newcastle West,"113 PARRY ST, NEWCASTLE WEST NSW 2302",NEWCASTLE WEST,2302,BP
+1672,BP Braddon,"2 LONSDALE ST, BRADDON ACT 2612",BRADDON,2612,BP
+1673,Ampol Bega Depot,"36 Lagoon Street, BEGA NSW 2550",BEGA,2550,Ampol
+1674,Ampol Milton,"331 Princes Hwy, Milton NSW 2538",Milton,2538,Ampol
+1675,EG Ampol Fairy Meadow,"47 Princes Highway, Fairy Meadow NSW 2519",Fairy Meadow,2519,EG Ampol
+1676,Ampol Vincentia,"153 Elizabeth Dr, Vincentia NSW 2540",Vincentia,2540,Ampol
+1677,EG Ampol Lake Cathie,"1609 Ocean Drive, Lake Cathie NSW 2445",Lake Cathie,2445,EG Ampol
+1678,EG Ampol Ballina,"44 Pacific Hwy (Cnr Kerr & Bangalow Sts), Ballina NSW 2478",Ballina,2478,EG Ampol
+1679,EG Ampol Tahmoor,"Cnr Thirlmere Way & Remembrance Drive, Tahmoor NSW 2573",Tahmoor,2573,EG Ampol
+1680,BP Deniliquin,"137 Hardinge St, Deniliquin NSW 2710",Deniliquin,2710,BP
+1681,BP Moama,"49/51 Meninya St, Moama NSW 2731",Moama,2731,BP
+1682,Independent Yenda,"31 Yenda Place, Yenda NSW 2680",Yenda,2680,Independent
+1683,Ampol Goulburn Depot,"13 Sloane St, Goulburn NSW 2580",Goulburn,2580,Ampol
+1684,Ampol Woolworths Lambton,"422 Newcastle Road, NORTH LAMBTON NSW 2299",NORTH LAMBTON,2299,Ampol
+1685,AMPOL WOOLWORTHS KARIONG,"Lot 2 Langford Drive Cnr Mitchell Dr, KARIONG NSW 2250",KARIONG,2250,Ampol
+1686,EG Ampol Bonnyrigg,"100 Bonnyrigg Avenue, Bonnyrigg NSW 2177",Bonnyrigg,2177,EG Ampol
+1687,EG Ampol Salamander Bay,"19 Bagnall Beach Road, SALAMANDER BAY NSW 2317",SALAMANDER BAY,2317,EG Ampol
+1688,Ampol Woolworths Tweed Heads West,"96-98 Kennedy Dr Cnr Barrett St, Tweed Heads West NSW 2485",Tweed Heads West,2485,Ampol
+1689,7-Eleven Glendale,"397 Main Rd, CARDIFF NSW 2285",CARDIFF,2285,7-Eleven
+1690,7-Eleven Wickham,"184-188 Hannell Street, Wickham NSW 2293",Wickham,2293,7-Eleven
+1691,METRO FYSHWICK WHYALLA,"51 Whyalla St, Fyshwick ACT 2609",Fyshwick,2609,Metro Fuel
+1692,Vantage Fuels Junee,"1 Illabo Rd,, Junee NSW 2663",Junee,2663,Shell
+1693,7-Eleven Berkeley,"47 Nolan Street (Corner Northcliffe Road), Berkeley NSW 2506",Berkeley,2506,7-Eleven
+1694,Metro Fuel Williamtown,"3 Williamtown Dr, Williamtown NSW 2318",Williamtown,2318,Metro Fuel
+1695,7-Eleven Bonnyrigg,"140 Edensor & Bibbys Roads, Bonnyrigg NSW 2177",Bonnyrigg,2177,7-Eleven
+1696,Ampol Rankins Springs,"20 Boomerang Street, Rankins Springs NSW 2669",Rankins Springs,2669,Ampol
+1697,BP North Ballina,"Bungalow ROAD, North Ballina NSW 2478",North Ballina,2478,BP
+1698,METRO PETROLEUM BIRRONG,"1/158 Auburn Rd, Birrong NSW 2143",Birrong,2143,Metro Fuel
+1699,SHELL WINGHAM SERVO,"24 Murray Road, WINGHAM NSW 2429",WINGHAM,2429,Shell
+1700,BP Kennedy Drive,"Cnr Kennedy Dve & Ducat St, Tweed Heads NSW 2485",Tweed Heads,2485,BP
+1701,Ampol Macksville,"22 COOPER ST, MACKSVILLE NSW 2447",MACKSVILLE,2447,Ampol
+1702,Ampol Moama,"73 Meninya St, MOAMA NSW 2731",MOAMA,2731,Ampol
+1703,BK Cafe and Fuel,"70 Court St, MANILLA NSW 2346",MANILLA,2346,Caltex
+1704,BP Milton,"32-36 Princes Highway, MILTON NSW 2538",MILTON,2538,BP
+1705,Independent Albion Park,"114 Tongarra Rd, Albion Park NSW 2527",Albion Park,2527,Independent
+1706,Campbells Fuel Service Moree,"423 Frome St, Moree NSW 2400",Moree,2400,BP
+1707,Ampol Fairy Meadow,"30-34 PRINCES HWY, FAIRY MEADOW NSW 2519",FAIRY MEADOW,2519,Ampol
+1708,Shell Finley,"16-20 MURRAY ST, FINLEY NSW 2713",FINLEY,2713,Shell
+1709,Ampol Woolworths Maryland,"41 Minmi Rd, WALLSEND NSW 2287",WALLSEND,2287,Ampol
+1710,Telarah Fuels,"17 South St, TELARAH NSW 2320",TELARAH,2320,Independent
+1711,Ampol Moree,"54 Alice St, MOREE NSW 2400",MOREE,2400,Ampol
+1712,7-Eleven Wallsend,"15 Minmi Road, Wallsend NSW 2287",Wallsend,2287,7-Eleven
+1713,Gloucester Tyres & Auto Centre,"89-91 CHURCH ST, GLOUCESTER NSW 2422",GLOUCESTER,2422,Independent
+1714,GLOUCESTER SERVICE CENTRE,"1 PARK ST, GLOUCESTER NSW 2422",GLOUCESTER,2422,Independent
+1715,7-Eleven Kingswood,"127 GREAT WESTERN HWY, KINGSWOOD NSW 2747",KINGSWOOD,2747,7-Eleven
+1716,Independent Bundarra,"25 Bendemeer St, Bundarra NSW 2359",Bundarra,2359,Independent
+1717,Coles Express Bega,"2-6 Swan St, Bega NSW 2550",Bega,2550,Coles Express
+1718,Independent North Lismore,"Northside Liberty 78 Terania Street, North Lismore NSW 2480",North Lismore,2480,Independent
+1719,Shell Wandandian,"2720 PRINCES HWY, WANDANDIAN NSW 2540",WANDANDIAN,2540,Shell
+1720,BP Bankstown Airport,"Henry Lawson Drive, Bankstown NSW 2200",Bankstown,2200,BP
+1721,DENI PETROLEUM,"90 DAVIDSON ST, DENILIQUIN NSW 2710",DENILIQUIN,2710,Independent
+1722,BP Taree,"102 Commerce Street, Taree NSW 2430",Taree,2430,BP
+1723,Metro North Wyong,"6b 1-10 Amy Close, WYONG NSW 2259",WYONG,2259,Metro Fuel
+1724,Metro Doyalson,"50 Pacific Hwy, DOYALSON NSW 2262",DOYALSON,2262,Metro Fuel
+1725,MOBIL SALAMANDER BAY,"15 Bagnall Beach Road, SALAMANDER BAY NSW 2317",SALAMANDER BAY,2317,Mobil
+1726,BP ROADHOUSE WALLABADAH,"3055 New England Highway, WALLABADAH NSW 2343",WALLABADAH,2343,BP
+1727,BP Macksville,"Partridge Street, Macksville NSW 2447",Macksville,2447,BP
+1728,United Macksville,"44 Cooper Street, Macksville NSW 2447",Macksville,2447,United
+1729,United South West Rocks,"102 Gregory Street, South West Rocks NSW 2431",South West Rocks,2431,United
+1730,Ampol East Ballina,"30 Links Ave, EAST BALLINA NSW 2478",EAST BALLINA,2478,Ampol
+1731,Mobil Gundagai,"223 Sheridan Street, Gundagai NSW 2722",Gundagai,2722,Independent
+1732,Mobil Jugiong,"5 Riverside Drive, JUGIONG NSW 2726",JUGIONG,2726,Mobil
+1733,Bulga Servo,"2046 PUTTY RD, BULGA NSW 2330",BULGA,2330,Independent
+1734,Metro Fuel Ulladulla,"74 Princess Highway, ULLADULLA NSW 2539",ULLADULLA,2539,Metro Fuel
+1735,7-Eleven Kellyville,"54 - 56 Windsor Road, Kellyville NSW 2155",Kellyville,2155,7-Eleven
+1736,Mann River Caravan Park,"4467 Gywdir Highway, JACKADGERY NSW AUSTRALIA 2460",JACKADGERY NSW,2460,Liberty
+1737,Independent Port Macquarie,"141 Pacific Drive,, Port Macquarie NSW 2444",Port Macquarie,2444,Independent
+1738,7-Eleven Shellharbour,"Corner Shellharbour & Wattle Roads, Shellharbour NSW 2529",Shellharbour,2529,7-Eleven
+1739,7-Eleven Unanderra,"41-43 Princes Hwy, UNANDERRA NSW 2526",UNANDERRA,2526,7-Eleven
+1740,Ampol Dawson River,"1 Manning River Drive, CUNDLETOWN NSW 2430",CUNDLETOWN,2430,Ampol
+1741,Pearl Energy Wagga Wagga,"17-19 FORSYTH ST, WAGGA WAGGA NSW 2650",WAGGA WAGGA,2650,Independent
+1742,BP Wilberforce,"362 Putty Road, Wilberforce NSW 2756",Wilberforce,2756,BP
+1743,Caltex Colo Heights,"3356 Putty Road, Colo Heights NSW 2756",Colo Heights,2756,Caltex
+1744,Independent North Lismore,"111 Terania Street, North Lismore NSW 2480",North Lismore,2480,Independent
+1745,Shell Berry,"88 Queen Street, Berry NSW 2535",Berry,2535,Shell
+1746,Reel (Taralga) Pty Ltd,"58 Bunnaby St, TARALGA NSW 2580",TARALGA,2580,Caltex
+1747,BP Hamilton South,"67 Stewart Ave, HAMILTON SOUTH NSW 2303",HAMILTON SOUTH,2303,BP
+1748,Metro Figtree,"99 Bellevue Road, FIGTREE NSW 2525",FIGTREE,2525,Metro Fuel
+1749,BP Warrawong,"42-46 King St, WARRAWONG NSW 2502",WARRAWONG,2502,BP
+1750,BP Narrabri,"BP Service Station Res 65 Cooma Rd, NARRABRI NSW 2390",NARRABRI,2390,BP
+1751,Endeavour Tanilba Bay,"1063 Lemon Tree Passage Rd, TANILBA BAY NSW 2319",TANILBA BAY,2319,Independent
+1752,Mobil Appin,"136 APPIN RD, APPIN NSW 2560",APPIN,2560,Mobil
+1753,Ampol Chittaway,"100 CHITTAWAY RD, CHITTAWAY BAY NSW 2261",CHITTAWAY BAY,2261,Ampol
+1754,Ampol Tuggerah,"2 Johnson Road, Tuggerah NSW 2259",Tuggerah,2259,Ampol
+1755,Ampol Bega,"277 Newtown Road, Bega NSW 2550",Bega,2550,Ampol
+1756,Ampol Cooma,"41 Sharpe Street, Cooma NSW 2630",Cooma,2630,Ampol
+1757,BLOK INDUSTRIAL,"119 JUBILEE ST, TOWNSEND NSW 2463",TOWNSEND,2463,Independent
+1758,Independent Lake Cargelligo,"108 Canada St, Lake Cargelligo NSW 2672",Lake Cargelligo,2672,Independent
+1759,Coles Express Kooragang,"130 Cormorant Rd (Po Box 222), Kooragang NSW 2304",Kooragang,2304,Coles Express
+1760,Ampol Moama Diesel Stop,"21 NEIL ST, MOAMA NSW 2731",MOAMA,2731,Ampol
+1761,Ampol Hay South,"429 Moama Street, Hay NSW 2711",Hay,2711,Ampol
+1762,Ampol Finley Diesel Stop,"Cnr Newell Hwy & Rice Mill Rd, Finley NSW 2713",Finley,2713,Ampol
+1763,Ampol Griffith,"2-4 MACKAY AV, GRIFFITH NSW 2680",GRIFFITH,2680,Ampol
+1764,Ampol Jerilderie,"150 Jerilderie Street, Jerilderie NSW 2716",Jerilderie,2716,Ampol
+1765,7-Eleven Lake Illawarra,"2 - 4 Peterborough Avenue, Lake Illawarra NSW 2528",Lake Illawarra,2528,7-Eleven
+1766,BP North Manly,"504 Pittwater road, North Manly NSW 2100",North Manly,2100,BP
+1767,Ampol Woolworths Coonabarabran,"85-87 John St, COONABARABRAN NSW 2357",COONABARABRAN,2357,Ampol
+1768,Budget Petrol,"365 Liverpool Rd, South Strathfield NSW 2135",South Strathfield,2135,Budget
+1769,7-Eleven Blacktown,"175 Richmond Road, Blacktown NSW 2148",Blacktown,2148,7-Eleven
+1770,Reflections Holiday Parks,"Reflections Holiday Parks Fashions Mount Road, MUMBIL NSW 2820",MUMBIL,2820,Independent
+1771,Independent Scone,"66 Kelly Street, Scone NSW 2337",Scone,2337,Independent
+1772,Ampol Deniliquin Cobb Highway,"162 Hardinge Street, Deniliquin NSW 2710",Deniliquin,2710,Ampol
+1773,Shell Deniliquin,"375 Cressy St, Deniliquin NSW 2710",Deniliquin,2710,Shell
+1774,Independent Dareton,"1-3 Tapio Street, Dareton NSW 2717",Dareton,2717,Independent
+1775,EG Ampol Vincentia,"Cnr Naval College Rd & Moona Creek Rd, Vincentia NSW 2540",Vincentia,2540,EG Ampol
+1776,Ampol Cobar,"99 Barrier Hwy, COBAR NSW 2835",COBAR,2835,Ampol
+1777,Ampol Canley Heights,"280-282 Canley Vale Road, CANLEY HEIGHTS NSW 2166",CANLEY HEIGHTS,2166,Ampol
+1778,Ampol Woolworths Merimbula,"19-25 MERIMBULA DR, MERIMBULA NSW 2548",MERIMBULA,2548,Ampol
+1779,7-Eleven Merrylands,"295-297 Merrylands Road (Corner Windsor Street), Merrylands NSW 2160",Merrylands,2160,7-Eleven
+1780,BP Anna Bay,"133 GAN GAN RD, ANNA BAY NSW 2316",ANNA BAY,2316,BP
+1781,BP Sans Souci,"518 Rocky Point Road, Sans Souci NSW 2219",Sans Souci,2219,BP
+1782,Cringila fuel,"95 FIVE ISLANDS RD, CRINGILA NSW 2502",CRINGILA,2502,Independent
+1783,Ampol Lake Munmorah,"1135 Pacific Highway, LAKE MUNMORAH NSW 2259",LAKE MUNMORAH,2259,Ampol
+1784,Golden Apple Super Store,"2637 Irrigation Way, Leeton NSW 2705",Leeton,2705,BP
+1785,Independent Pitt Town,"24 Chatham Rd, Pitt Town NSW 2756",Pitt Town,2756,BP
+1786,Casino Roadhouse,"86 Johnston St, CASINO NSW 2470",CASINO,2470,Liberty
+1787,7-Eleven Jerrabomberra,"2 Ferdinand Lane, JERRABOMBERRA NSW 2619",JERRABOMBERRA,2619,7-Eleven
+1788,METRO WILLIAMTOWN LAVIS,"1 Lavis Lane, WILLIAMTOWN NSW 2318",WILLIAMTOWN,2318,Metro Fuel
+1789,7-Eleven Sans Souci,"474-478 Rocky Point Rd, SANS SOUCI NSW 2219",SANS SOUCI,2219,7-Eleven
+1790,Wakool Agri Services Pty Ltd,"6066 WAKOOL RD, WAKOOL NSW 2710",WAKOOL,2710,Independent
+1791,South Petrol,"48 Illawarra St, PORT KEMBLA NSW 2505",PORT KEMBLA,2505,Mobil
+1792,BP BULAHDELAH,"73-75 BULAHDELAH WAY, BULAHDELAH NSW 2423",BULAHDELAH,2423,BP
+1793,Endeavour Petroleum Pty Ltd,"3 Neil ST, Moama NSW 2731",Moama,2731,Independent
+1794,Enhance Port Kembla,"2-4 Church Street, Port Kembla NSW 2505",Port Kembla,2505,Enhance
+1795,7-Eleven McGraths Hill,"142 Windsor Rd, MCGRATHS HILL NSW 2756",MCGRATHS HILL,2756,7-Eleven
+1796,BP Park Beach,"33 Ocean Parade, Coffs Harbour NSW 2450",Coffs Harbour,2450,BP
+1797,Shell Unanderra,"40 Princes Highway, UNANDERRA NSW 2526",UNANDERRA,2526,Shell
+1798,Starlite Power Wyee,"105 Wyee Road, WYEE NSW 2259",WYEE,2259,Independent
+1799,Your Fuel Coniston,"136 Gladstone St, Coniston NSW 2500",Coniston,2500,Westside
+1800,Enhance Waratah,"51 LAMBTON RD, WARATAH NSW 2298",WARATAH,2298,Enhance
+1801,Mobil East Nowra,"112 Kalander Street, East Nowra NSW 2541",East Nowra,2541,Mobil
+1802,BP Glendenning,"646 Richmond Rd, Glendenning NSW 2761",Glendenning,2761,BP
+1803,Independent Tumbarumba,"76 The Parade, Tumbarumba NSW 2653",Tumbarumba,2653,Independent
+1804,Independent Port Macquarie,"156 Gordon St, Port Macquarie NSW 2444",Port Macquarie,2444,Independent
+1805,BP Lake Munmorah,"335 Pacific Highway, Lake Munmorah NSW 2259",Lake Munmorah,2259,BP
+1806,Sunset Petroleum,"Shop 1 140-146 Windang Road, WINDANG NSW 2528",WINDANG,2528,Independent
+1807,METRO WARILLA,"230 SHELLHARBOUR RD, WARILLA NSW 2528",WARILLA,2528,Metro Fuel
+1808,7-Eleven Plumpton,"Corner Richmond Road & Dublin Street, Plumpton NSW 2761",Plumpton,2761,7-Eleven
+1809,7-Eleven Plumpton,"291 Rooty Hill Road North, Plumpton NSW 2761",Plumpton,2761,7-Eleven
+1810,Caltex Batehaven,"264 Beach Rd, BATEHAVEN NSW 2536",BATEHAVEN,2536,Caltex
+1811,Ampol Moruya,"80-84 Campbell Street, MORUYA NSW 2537",MORUYA,2537,Ampol
+1812,7-Eleven Belmont North,"378 Pacific Highway, Belmont North NSW 2280",Belmont North,2280,7-Eleven
+1813,Metro Petroleum,"37 Shellharbour Rd, LAKE ILLAWARRA NSW 2528",LAKE ILLAWARRA,2528,Metro Fuel
+1814,7-Eleven Marks Point,"770 Pacific Highway & Marks Point Road, Marks Point NSW 2280",Marks Point,2280,7-Eleven
+1815,BP Shalvey,"481 Luxford Road, Shalvey NSW 2770",Shalvey,2770,BP
+1816,Speedway West Ryde,"899 Victoria Road, West Ryde NSW 2114",West Ryde,2114,Speedway
+1817,Kiah General Store,"4 KIAH STORE RD, KIAH NSW 2551",KIAH,2551,Independent
+1818,EG Ampol Ulladulla,"155-157 Princes Highway, Ulladulla NSW 2539",Ulladulla,2539,EG Ampol
+1819,BP Ulladulla,"153 Princess Highway, ULLADULLA NSW 2539",ULLADULLA,2539,BP
+1820,BP Albion Park,"UNIT 1 83 PRINCES HWY, ALBION PARK RAIL NSW 2527",ALBION PARK RAIL,2527,BP
+1821,EG Ampol Moruya,"2808 Princes Hwy (cnr Ford St), Moruya NSW 2537",Moruya,2537,EG Ampol
+1822,Tanilba Bay fuel station,"46 President Wilson Walk, TANILBA BAY NSW 2319",TANILBA BAY,2319,Independent
+1823,Snowy Valley Service Centre,"5332 Kosciuszko Rd, EAST JINDABYNE NSW 2627",EAST JINDABYNE,2627,Metro Fuel
+1824,Riverside Co,"203 Charlotte Bay St, CHARLOTTE BAY NSW 2428",CHARLOTTE BAY,2428,Metro Fuel
+1825,Lowes Griffith,"30-34 Banna Ave, GRIFFITH NSW 2680",GRIFFITH,2680,Lowes
+1826,BP Griffith,"477 Banna Avenue, Griffith NSW 2680",Griffith,2680,BP
+1827,Ampol Ulladulla,"62 Deering Street, ULLADULLA NSW 2539",ULLADULLA,2539,Ampol
+1828,7-Eleven Adamstown,"531 - 537 Glebe Road & Bryant Street, Adamstown NSW 2289",Adamstown,2289,7-Eleven
+1829,Mobil Coonamble,"66 Aberford St, COONAMBLE NSW 2829",COONAMBLE,2829,Mobil
+1830,Tucabia village store,"12 CORDINI ST, TUCABIA NSW 2462",TUCABIA,2462,Liberty
+1831,EG Ampol Griffith,"29 Banna Avenue, Griffith NSW 2680",Griffith,2680,EG Ampol
+1832,Independent Ivanhoe,"28 Columbus Street, Ivanhoe NSW 2878",Ivanhoe,2878,Independent
+1833,Speedway North St Marys,"91 Glossop St, North St Marys NSW 2760",North St Marys,2760,Speedway
+1834,Candelo Service Station,"40 WILLIAM ST, CANDELO NSW 2550",CANDELO,2550,Independent
+1835,Metro Fuel Wyong,"35 Alison Rd, WYONG NSW 2259",WYONG,2259,Metro Fuel
+1836,MOBIL YASS,"44 Comur Street, YASS NSW 2582",YASS,2582,Mobil
+1837,Mobil Coolac,"518 Coolac Rd, Coolac NSW 2727",Coolac,2727,Mobil
+1838,Metro Petroleum Gwandalan,"47 Orana Road, Gwandalan NSW 2259",Gwandalan,2259,Metro Fuel
+1839,Ampol Roadhouse Tamworth,"502 Goonoo Goonoo Rd, Hillvue NSW 2340",Hillvue,2340,Ampol
+1840,BP Lake Cargelligo,"44 Foster St, Lake Cargelligo NSW 2672",Lake Cargelligo,2672,BP
+1841,Independent Westleigh,"128 Duffy Avenue, Westleigh NSW 2120",Westleigh,2120,Independent
+1842,Mobil Port Macquarie,"59 GORDON ST, PORT MACQUARIE NSW 2444",PORT MACQUARIE,2444,Mobil
+1843,Mobil Ocean Drive,"15 OCEAN DR, PORT MACQUARIE NSW 2444",PORT MACQUARIE,2444,Mobil
+1844,Independent Bungendore,"44 Malbon Street, Bungendore NSW 2621",Bungendore,2621,Independent
+1845,Shell Maroota,"1563 WISEMANS FERRY RD, MAROOTA NSW 2756",MAROOTA,2756,Shell
+1846,BP Termeil,"1600 Princes Hwy, TERMEIL NSW 2539",TERMEIL,2539,BP
+1847,Tom Thumb Service Station,"17 Ellen Street, Wollongong NSW 2500",Wollongong,2500,BP
+1848,Coles Express Grafton,"91 Bent St (Cnr Spring St), Grafton NSW 2460",Grafton,2460,Coles Express
+1849,MOBIL YENDA ROADHOUSE,"30-32 Mirrool Ave, YENDA NSW 2681",YENDA,2681,Mobil
+1850,ENHANCE TERALBA,"63 York St, Teralba NSW 2284",Teralba,2284,Enhance
+1851,Ampol Thirroul,"242 Lawrence Hargrave Drive, Thirroul NSW 2515",Thirroul,2515,Ampol
+1852,Lowes Tamworth,"17 Bridge Street, Tamworth NSW 2340",Tamworth,2340,Lowes
+1853,Ungarie Pines Motel ans Service Station,"76 Wollongough Street, UNGARIE NSW 2669",UNGARIE,2669,Independent
+1854,Caltex Wagga Wagga,"7 Lake Albert Rd, Wagga Wagga, EAST WAGGA WAGGA NSW 2650",EAST WAGGA WAGGA,2650,Caltex
+1855,Tabourie Tuckerbox,"70 Princess Highway, LAKE TABOURIE NSW 2539",LAKE TABOURIE,2539,Independent
+1856,The Gullie Roadhouse,"The Gullie Store 2356 Sturt Hwy, COLLINGULLIE NSW 2650",COLLINGULLIE,2650,Metro Fuel
+1857,BP Berowra,"111 Berowra Waters Rd, BEROWRA HEIGHTS NSW 2082",BEROWRA HEIGHTS,2082,BP
+1858,BP Gymea,"758-760 Gymea Bay Rd, GYMEA NSW 2227",GYMEA,2227,BP
+1859,Lowes Tamworth,"27-29 Gunnedah Road, Tamworth NSW 2340",Tamworth,2340,Lowes
+1860,Ampol Hay,"58 Lachlan Street, Hay NSW 2711",Hay,2711,Ampol
+1861,The Pit Stop Service Station & Cafe,"2842 Nelson Bay Rd, SALT ASH NSW 2318",SALT ASH,2318,Independent
+1862,Coles Express Ryde,"45 Lane Cove Rd & Myra Ave, Ryde NSW 2112",Ryde,2112,Coles Express
+1863,BP Lithgow,"1106 Great Western Hwy., Lithgow NSW 2790",Lithgow,2790,BP
+1864,Coles Express Hoxton Park,"650-652 Hoxton Park Rd, Hoxton Park NSW 2171",Hoxton Park,2171,Coles Express
+1865,Coles Express Yagoona,"112 Rookwood (Cnr Brunker) Rds, Yagoona NSW 2199",Yagoona,2199,Coles Express
+1866,7-Eleven Randwick,"128 Barker Street, Randwick NSW 2031",Randwick,2031,7-Eleven
+1867,Coles Express Berowra,"955 Pacific Highway (Cnr Yallambee Rd), Berowra NSW 2081",Berowra,2081,Coles Express
+1868,Coles Express Greystanes,"Merrylands Road & Braeside St, Greystanes NSW 2145",Greystanes,2145,Coles Express
+1869,Independent Weethalle,"47 Railway Street, Weethalle NSW 2669",Weethalle,2669,Independent
+1870,Coles Express Wetherill Park,"1181 The Horsley Drive, Wetherill Park NSW 2164",Wetherill Park,2164,Coles Express
+1871,Shell Freemans Waterhole,"890 FREEMANS DR, FREEMANS WATERHOLE NSW 2323",FREEMANS WATERHOLE,2323,Shell
+1872,7-Eleven Berowra,"965-969 Pacific Highway (Corner Waratah Road), Berowra NSW 2081",Berowra,2081,7-Eleven
+1873,Shell Boolaroo,"106 MUNIBUNG RD, BOOLAROO NSW 2284",BOOLAROO,2284,Shell
+1874,Puma Moree,"3 Blueberry Rd, MOREE NSW 2400",MOREE,2400,Puma Energy
+1875,Ampol Wilcannia Roadhouse,"79-81 WOORE ST, WILCANNIA NSW 2836",WILCANNIA,2836,Ampol
+1876,Lowes Petroleum Service,"1 Mclennan Street, ARMIDALE NSW 2350",ARMIDALE,2350,Lowes
+1877,Shell Ballina,"273 River Street, Ballina NSW 2478",Ballina,2478,Shell
+1878,Liberty Alstonville,"3 Bugden Avenue, Alstonville NSW 2477",Alstonville,2477,Liberty
+1879,Liberty Moorland,"99 Jericho Road, Moorland NSW 2443",Moorland,2443,Liberty
+1880,Independent Ballina,"337 River st, Ballina NSW 2478",Ballina,2478,Independent
+1881,Baldwin Automotive,"631 McGowen St, BROKEN HILL NSW 2880",BROKEN HILL,2880,Independent
+1882,Independent Bendemeer,"19 Havannah Street, Bendemeer NSW 2355",Bendemeer,2355,Independent
+1883,Independent Culburra Beach,"159 Prince Edward Av, Culburra Beach NSW 2540",Culburra Beach,2540,Independent
+1884,Sussex Inlet Service Station,"1 Jacobs Dr, SUSSEX INLET NSW 2540",SUSSEX INLET,2540,Independent
+1885,SHELL NEVERTIRE TRUCKSTOP,"Mitchell Highway, Nevertire NSW 2826",Nevertire,2826,Shell
+1886,Lowes Boggabilla,"Newell Highway, BOGGABILLA NSW 2409",BOGGABILLA,2409,Lowes
+1887,LOWES NORTH STAR OPT,"3 EDWARD ST, NORTH STAR NSW 2408",NORTH STAR,2408,BP
+1888,EG Ampol Marrickville,"490 Illawarra Road (Cnr Hill Street), Marrickville NSW 2204",Marrickville,2204,EG Ampol
+1889,EG Ampol Lithgow,"41 Lithgow Street (Cnr Mort Street), Lithgow NSW 2790",Lithgow,2790,EG Ampol
+1890,Pearl Energy Greta,"28 HIGH ST, GRETA NSW 2334",GRETA,2334,Independent
+1891,BP Kahibah Food and Fuel,"93a Wallsend St, KAHIBAH NSW 2290",KAHIBAH,2290,BP
+1892,Caltex Wetherill Park,"449 Victoria St, WETHERILL PARK NSW 2164",WETHERILL PARK,2164,Caltex
+1893,Kulnura General Store,"Kulnura LPO 4 Greta Rd, KULNURA NSW 2250",KULNURA,2250,Metro Fuel
+1894,Bewong Roadhouse,"2399 Princes Highway, BEWONG NSW 2540",BEWONG,2540,Ampol
+1895,Ampol Deniliquin North Junction,"336 Hay Road, Deniliquin NSW 2710",Deniliquin,2710,Ampol
+1896,Mobil Gunnedah,"277 Conadilly St, GUNNEDAH NSW 2380",GUNNEDAH,2380,Mobil
+1897,Metro Ourimbah,"161-163 Pacific Hwy, Ourimbah NSW 2258",Ourimbah,2258,Metro Fuel
+1898,Barooga General Store,"37 Vermont Street, BAROOGA NSW 3644",BAROOGA,3644,BP
+1899,Ampol Mathoura,"29 Moama Street, Mathoura NSW 2710",Mathoura,2710,Ampol
+1900,Logan & Hitchens,"53 LAKE ST, GANMAIN NSW 2702",GANMAIN,2702,Independent
+1901,7-Eleven Karabar,"2 Southqueen Pl, KARABAR NSW 2620",KARABAR,2620,7-Eleven
+1902,BP Potts Hill T/S,"155-157 Rockwood Road, Yagoona NSW 2199",Yagoona,2199,BP
+1903,SHELL CONDELL PARK,"228 Edgar Street, Condell Park NSW 2200",Condell Park,2200,Shell
+1904,Shell Parkes,"42-46 PEAK HILL RD, PARKES NSW 2870",PARKES,2870,Shell
+1905,Independent Wee Waa,"45 Boolcarrol Road, Wee Waa NSW 2388",Wee Waa,2388,Independent
+1906,Independent Walgett,"21 Fox Street, Walgett NSW 2832",Walgett,2832,Inland Petroleum
+1907,Metro Highfields,"317A Pacific Hwy, Highfields NSW 2289",Highfields,2289,Metro Fuel
+1908,Metro Fuel Charlestown,"132/138 Pacific Hwy, Charlestown NSW 2290",Charlestown,2290,Metro Fuel
+1909,7-Eleven Lambton,"21 Croudace & De Vitre Streets, Lambton NSW 2299",Lambton,2299,7-Eleven
+1910,GATESHEAD INDEPENDENT FUEL,"66-68 Oxford Street, GATESHEAD NSW 2290",GATESHEAD,2290,Independent
+1911,Metro Shelly Beach,"50 Shelly Beach Rd, Shelly Beach NSW 2261",Shelly Beach,2261,Metro Fuel
+1912,EG Ampol Macquarie Fields,"Brooks St (Glenquarie Shopping Centre), Macquarie Fields NSW 2564",Macquarie Fields,2564,EG Ampol
+1913,Ampol Unanderra,"15 GLASTONBURY AV, UNANDERRA NSW 2526",UNANDERRA,2526,Ampol
+1914,Shell Cardiff,"200 Main Road, Cardiff NSW 2285",Cardiff,2285,Shell
+1915,7-Eleven Lithgow,"1131 Great Western Hwy, LITHGOW NSW 2790",LITHGOW,2790,7-Eleven
+1916,METRO PETROLEUM BELMONT,"SHOP 2 507 PACIFIC HWY, BELMONT NSW 2280",BELMONT,2280,Metro Fuel
+1917,Mannering Park Mini Mart,"70 Vales Rd, MANNERING PARK NSW 2259",MANNERING PARK,2259,Independent
+1918,Pearl Energy Belmont,"494 PACIFIC HWY, BELMONT NSW 2280",BELMONT,2280,Independent
+1919,BP Wyoming,"481 Pacific Highway, Wyoming NSW 2250",Wyoming,2250,BP
+1920,Budget Petrol Sanctuary Point,"147 Larmer Ave, SANCTUARY POINT NSW 2540",SANCTUARY POINT,2540,Budget
+1921,Mobil Huskisson,"2 TOMERONG ST, HUSKISSON NSW 2540",HUSKISSON,2540,Mobil
+1922,BP Tullamore,"23-25 Cardigan Street, TULLAMORE NSW 2874",TULLAMORE,2874,BP
+1923,Ampol IGA Express,"1413-1415 Elizabeth Dr, KEMPS CREEK NSW 2178",KEMPS CREEK,2178,Ampol
+1924,Enhance Kiama,"35 COLLINS ST, KIAMA NSW 2533",KIAMA,2533,Enhance
+1925,Ampol Gunnedah,"21 ABBOTT ST, GUNNEDAH NSW 2380",GUNNEDAH,2380,Ampol
+1926,Bungwahl Fuel and Liquour,"2600 THE LAKES WAY, BUNGWAHL NSW 2423",BUNGWAHL,2423,Independent
+1927,Caltex Cameron Park,"119 Stenhouse Dr, CAMERON PARK NSW 2285",CAMERON PARK,2285,Caltex
+1928,Ampol Pheasants Nest Sb,"Lot 12, South Western Freeway, Pheasants Nest NSW 2574",Pheasants Nest,2574,Ampol
+1929,AMPOL PHEASANTS NEST NB,"Lot no 13 South Western Freeway, Pheasants Nest NSW 2574",Pheasants Nest,2574,Ampol
+1930,7-Eleven Edgeworth,"745 Main Rd, EDGEWORTH NSW 2285",EDGEWORTH,2285,7-Eleven
+1931,Coles Express South Bowenfels,"Lot 1 Great Western Highway (Cnr Rydal Rd), South Bowenfels NSW 2790",South Bowenfels,2790,Coles Express
+1932,Coles Express Maroubra,"959-961 Anzac Pde, Maroubra NSW 2035",Maroubra,2035,Coles Express
+1933,Independent Bendalong,"20 Waratah Street, Bendalong NSW 2539",Bendalong,2539,Independent
+1934,Metro Canley Heights,"190 CANLEY VALE RD, CANLEY HEIGHTS NSW 2166",CANLEY HEIGHTS,2166,Metro Fuel
+1935,EG Ampol Cameron Park,"180 PORTLAND DR, CAMERON PARK NSW 2285",CAMERON PARK,2285,EG Ampol
+1936,Coles Express Berkshire Park,"746-752 Richmond Road, Berkshire Park NSW 2765",Berkshire Park,2765,Coles Express
+1937,Metro Petroleum Kearsley,"18 Allandale St, KEARSLEY NSW 2325",KEARSLEY,2325,Metro Fuel
+1938,BP Grafton South,"1 Spring Street, SOUTH GRAFTON NSW 2460",SOUTH GRAFTON,2460,BP
+1939,Metro Lucknow,"4613 MITCHELL HWY, LUCKNOW NSW 2800",LUCKNOW,2800,Metro Fuel
+1940,Coles Express Carlton,"277-281 Princes Highway, Carlton NSW 2218",Carlton,2218,Coles Express
+1941,Goodooga Community store,"41-43 ADAMS ST, GOODOOGA NSW 2838",GOODOOGA,2838,Independent
+1942,Coles Express Bulahdelah,"42 Bulahdelah Way, Bulahdelah NSW 2423",Bulahdelah,2423,Coles Express
+1943,Black Stump Service Station,"119 Binnia St, COOLAH NSW 2843",COOLAH,2843,Shell
+1944,Ampol Gerringong,"2 Belinda Street, GERRINGONG NSW 2534",GERRINGONG,2534,Ampol
+1945,BP Kirrawee,"596 Princes Highway, Kirrawee NSW 2232",Kirrawee,2232,BP
+1946,Independent Rathmines,"14 Fishing Point Rd, Rathmines NSW 2283",Rathmines,2283,Independent
+1947,BP Marulan Southbound T/S,"Hume Highway, Marulan South NSW 2579",Marulan South,2579,BP
+1948,BP Marulan Northbound T/S,"Hume Highway, Marulan North NSW 2579",Marulan North,2579,BP
+1949,BP Sydenham,"339 Princes Highway, Sydenham NSW 2044",Sydenham,2044,BP
+1950,BP Kingsford,"368 Anzac Parade, Kingsford NSW 2032",Kingsford,2032,BP
+1951,BP Botany,"1579 BOTANY RD, BOTANY NSW 2019",BOTANY,2019,BP
+1952,BP Cundletown,"45 MAIN ST, CUNDLETOWN NSW 2430",CUNDLETOWN,2430,BP
+1953,Pearl Energy Bathurst,"146 William Street, BATHURST NSW 2795",BATHURST,2795,Independent
+1954,Ampol Kelso,"19 Sydney Road, KELSO NSW 2795",KELSO,2795,Ampol
+1955,Metro Petroleum Kelso,"12 INGERSOLE DR, KELSO NSW 2795",KELSO,2795,Metro Fuel
+1956,BP Erskine Park Truckstop (unmanned),"LENORE DRIVE (CNR TEMPLAR ROAD), Erskine Park NSW 2759",Erskine Park,2759,BP
+1957,BP Prestons,"14- Bernera Road, Prestons NSW 2170",Prestons,2170,BP
+1958,Coles Express Jamisontown,"Mulgoa Road & Wolseley Road, Jamisontown NSW 2750",Jamisontown,2750,Coles Express
+1959,METRO PETROLEUM PERTHVILLE,"11-13 Vale Rd, PERTHVILLE NSW 2795",PERTHVILLE,2795,Metro Fuel
+1960,METRO SOUTH BATHURST,"45 Bant Street, SOUTH BATHURST NSW 2795",SOUTH BATHURST,2795,Metro Fuel
+1961,Ampol Homebush,"334-336 Parramatta Rd, HOMEBUSH WEST NSW 2140",HOMEBUSH WEST,2140,Ampol
+1962,Gooloogong Handymart,"9 King St, GOOLOOGONG NSW 2805",GOOLOOGONG,2805,BP
+1963,Independent Jindabyne,"6532 Kosciuszko Rd, Jindabyne NSW 2627",Jindabyne,2627,Independent
+1964,Ampol Eastern Creek Diesel Stop,"Lot 1548 Roberts Rd, Eastern Creek NSW 2766",Eastern Creek,2766,Ampol
+1965,Legume Store,"9297 MOUNT LINDESAY RD, LEGUME NSW 2476",LEGUME,2476,Independent
+1966,7-Eleven Arncliffe,"28 Princes Highway, Arncliffe NSW 2205",Arncliffe,2205,7-Eleven
+1967,BP Gulgong,"77 Medley St, Gulgong NSW 2852",Gulgong,2852,BP
+1968,Mobil Five Ways Servo Tumut,"3 Blowering Rd, TUMUT NSW 2720",TUMUT,2720,Mobil
+1969,Ampol Bourke,"82-86 Anson St, Bourke NSW 2840",Bourke,2840,Ampol
+1970,7-Eleven North Ryde,"400 Lane Cove Road, North Ryde NSW 2113",North Ryde,2113,7-Eleven
+1971,Shell Southwest Rocks,"158-162 Gregory St, SOUTH WEST ROCKS NSW 2431",SOUTH WEST ROCKS,2431,Shell
+1972,BP St Peters (NSW),"2 Princes Highway, St Peters NSW 2044",St Peters,2044,BP
+1973,Caltex Grafton,"60-64 Schwinghammer St, SOUTH GRAFTON NSW 2460",SOUTH GRAFTON,2460,Caltex
+1974,BP Karuah,"403 Tarean Street, Karuah NSW 2324",Karuah,2324,BP
+1975,Broke Village Store,"4 Wollombi St, BROKE NSW 2330",BROKE,2330,Caltex
+1976,Ampol Barraba,"21 QUEEN ST, BARRABA NSW 2347",BARRABA,2347,Ampol
+1977,Shell Blaxland,"126 GREAT WESTERN HWY, BLAXLAND NSW 2774",BLAXLAND,2774,Shell
+1978,Shell Port Kembla Truckstop (Unmanned),"87-89, Flinders Street, Port Kembla NSW 2505",Port Kembla,2505,Shell
+1979,SHELL TAMWORTH TRUCKSTOP (unmanned),"9-13 Gunnedah Road, Tamworth NSW 2340",Tamworth,2340,Shell
+1980,Independent Moruya,"95 Campbell St, Moruya NSW 2537",Moruya,2537,Independent
+1981,Lowes Petroleum Gunnedah OPT,"1 Law Close, GUNNEDAH NSW 2380",GUNNEDAH,2380,Lowes
+1982,Lowes Gunnedah,"14 Abbott Street, Gunnedah NSW 2380",Gunnedah,2380,Lowes
+1983,7-Eleven Blaxland,"139 Great Western Highway (Corner Layton Avenue), Blaxland NSW 2774",Blaxland,2774,7-Eleven
+1984,Ampol Banksmeadow Diesel Stop,"1-3 Penrhyn Rd, BANKSMEADOW NSW 2019",BANKSMEADOW,2019,Ampol
+1985,BP Tornik,"2-8 DUNCANS RD, CLARENZA NSW 2460",CLARENZA,2460,BP
+1986,Shell Gunnedah,"1 KAMILAROI HWY, GUNNEDAH NSW 2380",GUNNEDAH,2380,Shell
+1987,DURI FUEL STATION,"68 Duri Road, TAMWORTH NSW 2340",TAMWORTH,2340,Independent
+1988,Independent Liberty South Grafton,"174 Ryan St, South Grafton NSW 2460",South Grafton,2460,Independent
+1989,Ampol Glenbrook,"78 Great Western Hwy Cnr Ross St, Glenbrook NSW 2773",Glenbrook,2773,Ampol
+1990,BP Balranald Roadhouse,"Sturt Hwy, BALRANALD NSW 2715",BALRANALD,2715,BP
+1991,Independent Gunnedah,"3 Railway Ave, Gunnedah NSW 2380",Gunnedah,2380,Independent
+1992,Ultra St George's Basin,"1 St Georges Road, ST GEORGES BASIN NSW 2540",ST GEORGES BASIN,2540,Independent
+1993,Coles Express Kingsford,"48-56 Gardeners Road, Kingsford NSW 2032",Kingsford,2032,Coles Express
+1994,Lowes Armidale,"84 Marsh Street, Armidale NSW 2350",Armidale,2350,Lowes
+1995,7-Eleven Cessnock,"210-214 Wollombi Road, Cessnock NSW 2325",Cessnock,2325,7-Eleven
+1996,7-Eleven Kanwal,"207-209 Wallarah Rd, KANWAL NSW 2259",KANWAL,2259,7-Eleven
+1997,7-Eleven Wadalba,"Corner Pacific Highway & London Drive, Wadalba NSW 2259",Wadalba,2259,7-Eleven
+1998,BP South Grafton,"26 Skinner Street, South Grafton NSW 2460",South Grafton,2460,BP
+1999,Liberty Albert,"9, Melrose Road, Albert NSW 2873",Albert,2873,Liberty
+2000,Liberty Bourke,"96-104 ANSON ST, BOURKE NSW 2840",BOURKE,2840,Liberty
+2001,Lowes Newcastle,"Cnr Pennant St and Belford Place, NEWCASTLE NSW 2285",NEWCASTLE,2285,Lowes
+2002,NORCO RURAL KYOGLE,"4 Willis St, KYOGLE NSW 2474",KYOGLE,2474,Lowes
+2003,METRO KANWAL,"68 Craigie Ave, KANWAL NSW 2259",KANWAL,2259,Metro Fuel
+2004,EG Ampol Glenmore Park,"Cnr. Glenmore Parkway & Main Street, Glenmore Park NSW 2745",Glenmore Park,2745,EG Ampol
+2005,JONES PANELBEATING,"72 Bolaro St, DUNEDOO NSW 2844",DUNEDOO,2844,Independent
+2006,Coles Express Avalon Beach,"2 Avalon Pde (Cnr Barrenjoey Rd), Avalon Beach NSW 2107",Avalon Beach,2107,Coles Express
+2007,Independent Coleambally,"Bencubbin Avenue, Coleambally NSW 2707",Coleambally,2707,Independent
+2008,Speedway Cabramatta,"267 John St, CABRAMATTA WEST NSW 2166",CABRAMATTA WEST,2166,Speedway
+2009,BP Jerrys Plains,"23 Pagan Street, JERRYS PLAINS NSW 2330",JERRYS PLAINS,2330,BP
+2010,BP Oakville,"225 Saunders Rd, Oakville NSW 2765",Oakville,2765,BP
+2011,BP Gilgandra,"13 Castlereagh Street, GILGANDRA NSW 2827",GILGANDRA,2827,BP
+2012,Westside Adamstown,"125 Brunker Rd, Adamstown NSW 2289",Adamstown,2289,Westside
+2013,Ultra Boolaroo,"No 6 Main Road, Boolaroo NSW 2284",Boolaroo,2284,Independent
+2014,Ampol Kiama & News Agency,"180 Manning St, KIAMA NSW 2533",KIAMA,2533,Ampol
+2015,Independent Carroll,"70 76 Breeza Street, Carroll NSW 2340",Carroll,2340,Independent
+2016,Enhance Gerringong,"142 Fern St, Gerringong NSW 2534",Gerringong,2534,Enhance
+2017,Shell Jerilderi,"81-83 Jerilderie Road, JERILDERIE NSW 2716",JERILDERIE,2716,Shell
+2018,Shell Willow Tree,"8589 NEW ENGLAND HWY, WILLOW TREE NSW 2339",WILLOW TREE,2339,Shell
+2019,Independent Comboyne,"55 Main Street, Comboyne NSW 2429",Comboyne,2429,Independent
+2020,Ampol Armidale,"142 Marsh St, ARMIDALE NSW 2350",ARMIDALE,2350,Ampol
+2021,Ampol Armidale,"6-8 Queen Elizabeth Dr, ARMIDALE NSW 2350",ARMIDALE,2350,Ampol
+2022,Coles Express Brighton-Le-Sands,"2-6 General Holmes Drive, Brighton-Le-Sands NSW 2216",Brighton-Le-Sands,2216,Coles Express
+2023,Coles Express Sutton Forest,"13124 Hume Highway, Sutton Forest NSW 2577",Sutton Forest,2577,Coles Express
+2024,Coles Express Sutton Forest,"13125 Hume Highway (Cnr Sally Corner Rd), Sutton Forest NSW 2577",Sutton Forest,2577,Coles Express
+2025,Caltex Tea Gardens,"1 Myall Quays Boulevard, Tea Gardens NSW 2324",Tea Gardens,2324,Caltex
+2026,BP Bourke,"23-25 Mooculta Street, Bourke NSW 2840",Bourke,2840,BP
+2027,Barrington General Store,"12 ARGYLE ST, BARRINGTON NSW 2422",BARRINGTON,2422,Independent
+2028,Tasco Berrigan Chanter street,"155-165 Chanter St, BERRIGAN NSW 2712",BERRIGAN,2712,Ampol
+2029,Independent Maroota,"11 Roberts Rd., Maroota NSW 2756",Maroota,2756,Independent
+2030,Ampol Dunedoo,"20 BOLARO ST, DUNEDOO NSW 2844",DUNEDOO,2844,Ampol
+2031,Caroona Store,"Post Office Residence 8 Boundary St, CAROONA NSW 2343",CAROONA,2343,Independent
+2032,BP Runway,"Cnr Butler Rd & General Holmes Dve, Mascot NSW 2020",Mascot,2020,BP
+2033,norco rural bowraville,"51 Carbin Street, Bowraville NSW 2449",Bowraville,2449,Independent
+2034,BP Charmhaven,"210, Pacific Highway, Charmhaven NSW 2263",Charmhaven,2263,BP
+2035,Enhance Lithgow,"151 Mort St, LITHGOW NSW 2790",LITHGOW,2790,Enhance
+2036,Westside Braidwood,"71 Wallace Street, Braidwood NSW 2622",Braidwood,2622,Westside
+2037,INFINITY FUELS KEW,"149 Nancy Bird Walton Dr, Kew NSW 2439",Kew,2439,Independent
+2038,Westside Petroleum Young,"Cnr Main and Short Street, YOUNG NSW 2594",YOUNG,2594,Shell
+2039,Independent Braidwood,"76 Lascelles St, Braidwood NSW 2622",Braidwood,2622,Independent
+2040,Caltex Adaminaby,"5172 Snowy Mtns hwy, Adaminaby NSW 2629",Adaminaby,2629,Caltex
+2041,BP Nulkaba,"247 Wine Country, Nulkaba NSW 2325",Nulkaba,2325,BP
+2042,McNabb Mobil Griffith,"2-8 OXLEY ST, GRIFFITH NSW 2680",GRIFFITH,2680,Mobil
+2043,Independent Coramba,"33 Gale Street, Coramba NSW 2450",Coramba,2450,Independent
+2044,BP Hastings Point,"1 Coast Road, Hastings Point NSW 2489",Hastings Point,2489,BP
+2045,Lowes Gulgong,"6 Railway Street, Gulgong NSW 2852",Gulgong,2852,Lowes
+2046,Metro Orange( Bathurst Road),"68 Bathurst Road, ORANGE NSW 2800",ORANGE,2800,Metro Fuel
+2047,Coles Express Hastings Point,"99 Tweed Coast Rd, Hastings Point NSW 2489",Hastings Point,2489,Coles Express
+2048,BP Chisholm,"3 Benham St, Chisholm ACT 2905",Chisholm,2905,BP
+2049,Broulee Supermarket & Cellars,"23-25 Grant St, BROULEE NSW 2537",BROULEE,2537,Liberty
+2050,Tuggerawong Metro,"U 13 2 Cadonia Road, TUGGERAWONG NSW 2259",TUGGERAWONG,2259,Metro Fuel
+2051,7-Eleven Narrabeen,"1234 Pittwater Road, Narrabeen NSW 2101",Narrabeen,2101,7-Eleven
+2052,Independent Stroud,"1 Cowper St, Stroud NSW 2425",Stroud,2425,Independent
+2053,Bendy Kates,"2a Francis Hollis Dr, TATHRA NSW 2550",TATHRA,2550,Independent
+2054,Coles Express Narrabeen,"1418 Pittwater Rd, Narrabeen NSW 2101",Narrabeen,2101,Coles Express
+2055,The Wooli store,"381 NORTH ST, WOOLI NSW 2462",WOOLI,2462,Independent
+2056,Dunedoo Shell,"21 CAIGAN ST, DUNEDOO NSW 2844",DUNEDOO,2844,Shell
+2057,7-Eleven Mona Vale,"24 Barrenjoey Road (Corner Darley Street East), Mona Vale NSW 2103",Mona Vale,2103,7-Eleven
+2058,7-Eleven Caringbah,"367 The Kingsway (Corner Willarong Road), Caringbah NSW 2229",Caringbah,2229,7-Eleven
+2059,Independent Rylstone,"88 Louee St, Rylstone NSW 2849",Rylstone,2849,Independent
+2060,EG Ampol Newington,"1 Avenue of the Americas, Newington NSW 2127",Newington,2127,EG Ampol
+2061,EG Ampol Cowra,"13 Railway Lane, Cowra NSW 2646",Cowra,2646,EG Ampol
+2062,METRO PETROLEUM MITCHELL,"2 CALLAN ST, MITCHELL ACT 2911",MITCHELL,2911,Metro Fuel
+2063,United Michelago,"1 Ryrie Street, MICHELAGO NSW 2620",MICHELAGO,2620,United
+2064,Independent Geurie,"61 Buckenbah Street, Geurie NSW 2818",Geurie,2818,Independent
+2065,APCO IGA Wagga,"101 Hammond Avenue, Wagga Wagga NSW 2650",Wagga Wagga,2650,Independent
+2066,Eungai Rail Petrol & Diesel,"8 Station St, EUNGAI RAIL NSW 2441",EUNGAI RAIL,2441,Independent
+2067,Shell Jindera,"99 URANA ST, JINDERA NSW 2642",JINDERA,2642,Shell
+2068,Ampol Woolworths Metro Narrabeen,"1509-1511 Pittwater Road, NORTH NARRABEEN NSW 2101",NORTH NARRABEEN,2101,Ampol
+2069,Independent Glen Innes,"94-96 Church Street, Glen Innes NSW 2370",Glen Innes,2370,Independent
+2070,Independent Summerland Point,"64 Cams Blvd, Summerland Point NSW 2259",Summerland Point,2259,Independent
+2071,Metro Petroleum Morisset,"57 Dora St, MORISSET NSW 2264",MORISSET,2264,Metro Fuel
+2072,Independent Barraba,"69 Queen Street, Barraba NSW 2347",Barraba,2347,Inland Petroleum
+2073,Independent Gilgandra,"84 Miller Street, Gilgandra NSW 2827",Gilgandra,2827,Inland Petroleum
+2074,Ampol Ambarvale,"37 Woodhouse Dr Cnr Wickfield St, Ambarvale NSW 2560",Ambarvale,2560,Ampol
+2075,7-Eleven Ambarvale,"67 WOODHOUSE DR, AMBARVALE NSW 2560",AMBARVALE,2560,7-Eleven
+2076,BP Engadine,"963 Old Princes Hwy, Engadine NSW 2233",Engadine,2233,BP
+2077,EG Ampol Macarthur Square,"Macarthur Gardens Village U 57 100 Gilchrist Drive, CAMPBELLTOWN NSW 2560",CAMPBELLTOWN,2560,EG Ampol
+2078,Biti Motors,"35 Balfour St, Culcairn NSW 2660",Culcairn,2660,Independent
+2079,Independent Cobar,"65 Marshall Street, Cobar NSW 2835",Cobar,2835,Inland Petroleum
+2080,Metro Macquarie Fields,"68 HAROLD ST, MACQUARIE FIELDS NSW 2564",MACQUARIE FIELDS,2564,Metro Fuel
+2081,Independent Narromine,"9 Trangie Road, ""Mitchell Highway"", Narromine NSW 2821",Narromine,2821,Inland Petroleum
+2082,BP Mona Vale,"1721 Pittwater Road, Mona Vale NSW 2103",Mona Vale,2103,BP
+2083,Independent Batemans Bay,"1 SHARON RD, BATEMANS BAY NSW 2536",BATEMANS BAY,2536,Independent
+2084,Liberty Oil,"6 MACKAY AV, GRIFFITH NSW 2680",GRIFFITH,2680,Liberty
+2085,Liberty Oil,"49 BURRAWAY ST, NARROMINE NSW 2821",NARROMINE,2821,Liberty
+2086,Johns River Tavern,"28 JOHNS RIVER RD, JOHNS RIVER NSW 2443",JOHNS RIVER,2443,Independent
+2087,MOBIL HASTINGS RIVER,"128 HASTINGS RIVER DR, PORT MACQUARIE NSW 2444",PORT MACQUARIE,2444,Mobil
+2088,Independent Mirrabooka,"69 Fishery Point Road, Mirrabooka NSW 2264",Mirrabooka,2264,Independent
+2089,EG Ampol Campbelltown Mall,"90-94 Queen Street (Cnr Broughton Street), Campbelltown NSW 2560",Campbelltown,2560,EG Ampol
+2090,Coles Express Campbelltown,"27 Queen Street, Campbelltown NSW 2560",Campbelltown,2560,Coles Express
+2091,BP Macarthur,"Cnr Campbelltown & Blaxland Roads, Campbelltown NSW 2560",Campbelltown,2560,BP
+2092,Connetic Armidale,"1 ENDEAVOUR DR, ARMIDALE NSW 2350",ARMIDALE,2350,Independent
+2093,Independent Orange,"34-38 Peisley Street, Orange NSW 2800",Orange,2800,Independent
+2094,BELLBROOK HOTEL & GENERAL STORE,"29 MAIN ST, BELLBROOK NSW 2440",BELLBROOK,2440,Independent
+2095,Coles Express St Helens Park,"Lot 201 Appin Road, St Helens Park NSW 2560",St Helens Park,2560,Coles Express
+2096,Coles Express North Ryde,"275 Lane Cove Rd, North Ryde NSW 2113",North Ryde,2113,Coles Express
+2097,SINGLETON PETROLEUM,"40 MAITLAND RD, SINGLETON NSW 2330",SINGLETON,2330,Independent
+2098,Coles Express Northmead,"197 Windsor Road, Northmead NSW 2152",Northmead,2152,Coles Express
+2099,Coles Express Merrylands,"398 Merrylands Rd (Cnr Fowler Rd), Merrylands NSW 2160",Merrylands,2160,Coles Express
+2100,Lowes Coolah,"72 Cunningham Street, Coolah NSW 2843",Coolah,2843,Lowes
+2101,7-Eleven St Helens Park,"Corner Appin Road & Kellerman Drive St Helens Park, St Helens Park NSW 2560",St Helens Park,2560,7-Eleven
+2102,7-Eleven Mosman,"162A Spit Road (Corner Mitchell Road), Mosman NSW 2088",Mosman,2088,7-Eleven
+2103,Ampol Woolgoolga,"16 Bosworth Road, Woolgoolga NSW 2456",Woolgoolga,2456,Ampol
+2104,BP Engadine,"1234 Princess Highway, Engadine NSW 2233",Engadine,2233,BP
+2105,BP Mosman (9542),"175 Ourimbah Road, Mosman NSW 2088",Mosman,2088,BP
+2106,Avs Fuel Lockhart,"57 Urana St, LOCKHART NSW 2656",LOCKHART,2656,Independent
+2107,Independent Laurieton,"461 Ocean Drive, Laurieton NSW 2443",Laurieton,2443,Independent
+2108,BP Peninsula,"Cnr Barrenjoey & Darley Roads, Mona Vale NSW 2103",Mona Vale,2103,BP
+2109,Metro Old Bar,"124 Old Bar Road, OLD BAR NSW 2430",OLD BAR,2430,Metro Fuel
+2110,BP Bondi,"185 Bondi Rd, Bondi NSW 2026",Bondi,2026,BP
+2111,Whiporie General Store,"5351 SUMMERLAND WAY, WHIPORIE NSW 2469",WHIPORIE,2469,Lowes
+2112,Mobil Uralla,"133 BRIDGE ST, URALLA NSW 2358",URALLA,2358,Mobil
+2113,Macquarie Valley Fuels,"4 Industry Avenue, NARROMINE NSW 2821",NARROMINE,2821,Independent
+2114,Metro Belmore,"607 Canterbury Road, Belmore NSW 2192",Belmore,2192,Metro Fuel
+2115,Ultra Kandos,"60 DAVIES RD, KANDOS NSW 2848",KANDOS,2848,Independent
+2116,Independent Warren,"Oxley Hwy (Uncle Clarrie'S Service Station), Warren NSW 2824",Warren,2824,Independent
+2117,Independent Warren,"1 Coonamble Road (Warren Fuels), Warren NSW 2824",Warren,2824,Independent
+2118,Bangalow General Store,"16 GRANUAILLE RD, BANGALOW NSW 2479",BANGALOW,2479,Independent
+2119,Endeavour Glen Innes,"144 MEADE ST, GLEN INNES NSW 2370",GLEN INNES,2370,Independent
+2120,Ampol Brunkerville,"1549 LEGGETTS DR, BRUNKERVILLE NSW 2323",BRUNKERVILLE,2323,Ampol
+2121,Ampol Gilgandra,"6425 Newell Hwy, GILGANDRA NSW 2827",GILGANDRA,2827,Ampol
+2122,BP Mosman (0926),"Cnr Avenue & Cowles Roads, Mosman NSW 2088",Mosman,2088,BP
+2123,Independent Kandos,"6 Ilford Rd, Kandos NSW 2848",Kandos,2848,Independent
+2124,Independent Grenfell,"39 Alexandra St, GRENFELL NSW 2810",GRENFELL,2810,Independent
+2125,SWIFT Independent Wagga Wagga,"175 Fitzmaurice St, Wagga Wagga NSW 2650",Wagga Wagga,2650,Independent
+2126,BP Edgecliff,"67 New South Head Rd, EDGECLIFF NSW 2027",EDGECLIFF,2027,BP
+2127,Mobil Wyalong,"20 NEELD ST, WYALONG NSW 2671",WYALONG,2671,Mobil
+2128,Lowes Mulwala,"55-57 Melbourne Stre, Mulwala NSW 2647",Mulwala,2647,Lowes
+2129,Independent Inverell,"24 Glen Innes Road, Inverell NSW 2360",Inverell,2360,Independent
+2130,Shell Tyndale (24/7 unmanned fuel),"4012 BIG RIVER WAY, TYNDALE NSW 2460",TYNDALE,2460,Shell
+2131,Independent Stratford,"31 Bridge Street, Stratford NSW 2429",Stratford,2429,Independent
+2132,Gresford Garage and Rural,"26 Durham Rd, EAST GRESFORD NSW 2311",EAST GRESFORD,2311,Independent
+2133,Access Fuel,"10 Pacific St, CRESCENT HEAD NSW 2440",CRESCENT HEAD,2440,Independent
+2134,Independent Gunnedah,"103 Mathias Street, ""Boggabri Road"", Gunnedah NSW 2380",Gunnedah,2380,Inland Petroleum
+2135,Your Local Independent Servo,"2 Kew Road, Laurieton NSW 2443",Laurieton,2443,Liberty
+2136,Independent Mangoplah,"Kyeamba Street, Mangoplah NSW 2652",Mangoplah,2652,Independent
+2137,BP Boggabri,"11 Grantham Street, Boggabri NSW 2382",Boggabri,2382,BP
+2138,MOBIL BOOROWA,"63-65 Marsden Street, BOOROWA NSW 2586",BOOROWA,2586,Mobil
+2139,Elong Rural,"13 DUBBO ST, ELONG ELONG NSW 2831",ELONG ELONG,2831,Independent
+2140,Coolahs Top Service Station,"1a Binnia St, COOLAH NSW 2843",COOLAH,2843,Independent
+2141,Ultra Harden,"379 ALBURY ST, HARDEN NSW 2587",HARDEN,2587,Independent
+2142,BP Nambucca Heads,"50-54 Riverside Drive, Nambucca Heads NSW 2448",Nambucca Heads,2448,BP
+2143,7-Eleven Gymea,"110 Gymea Bay Rd (Cnr 337-339 President Avenue), Gymea NSW 2227",Gymea,2227,7-Eleven
+2144,Pearl Energy Mona Vale,"79 BARRENJOEY RD, MONA VALE NSW 2103",MONA VALE,2103,Independent
+2145,Jigaroo Holdings,"21 Main St, CLUNES NSW 2480",CLUNES,2480,Liberty
+2146,Independent Boorowa,"84-86 Marsden Street, Boorowa NSW 2586",Boorowa,2586,Independent
+2147,Independent Bonny Hills,"923 Ocean Drive, Bonny Hills NSW 2445",Bonny Hills,2445,Independent
+2148,MOBIL 1 CROOKWELL,"204 Goulburn Street, CROOKWELL NSW 2583",CROOKWELL,2583,Mobil
+2149,South West Fuel - Murrumburrah,"294 Albury St, Murrumburrah NSW 2586",Murrumburrah,2586,South West
+2150,Riverview Service Centre,"595 Ocean Dr, NORTH HAVEN NSW 2443",NORTH HAVEN,2443,Independent
+2151,Caltex Denman,"8 Ogilvie St, DENMAN NSW 2328",DENMAN,2328,Caltex
+2152,Liberty Bangalow,"54 BYRON ST, BANGALOW NSW 2479",BANGALOW,2479,Liberty
+2153,Tasco Bunnaloo,"RMB 520, Bunnaloo NSW 2731",Bunnaloo,2731,Ampol
+2154,Independent Gulgong,"22 Station St, Gulgong NSW 2852",Gulgong,2852,Independent
+2155,Independent Kulnura,"1154 George Downes Dr, KULNURA NSW 2250",KULNURA,2250,Independent
+2156,AMPOL TALBINGO,"321 MILES FRANKLIN DR, TALBINGO NSW 2720",TALBINGO,2720,Ampol
+2157,Metro Crookwell,"20 Carrington Street, Crookwell NSW 2583",Crookwell,2583,Metro Fuel
+2158,Mobil Tumut,"70-72 Capper Street, TUMUT NSW 2720",TUMUT,2720,Mobil
+2159,Coombes Transport,"1 Perry Street, MENINDEE NSW 2879",MENINDEE,2879,Ampol
+2160,Shell Morisset,"608 Fishery Point Rd, Morisset NSW 2264",Morisset,2264,Shell
+2161,BP Merriwa,"167 Bettington St, Merriwa NSW 2329",Merriwa,2329,BP
+2162,BP Urunga,"8451 Pacific Highway, Urunga NSW 2455",Urunga,2455,BP
+2163,Toowoon Bay Service Station,"142 Bay Rd, TOOWOON BAY NSW 2261",TOOWOON BAY,2261,Caltex
+2164,Shell Lennox Head,"44-48 Byron St, Lennox Head NSW 2478",Lennox Head,2478,Shell
+2165,Shell Suffolk Park,"207 Broken Head Road, Suffolk Park NSW 2481",Suffolk Park,2481,Shell
+2166,Shell Urunga,"63 Pacific Hwy, Urunga NSW 2455",Urunga,2455,Independent
+2167,Independent Paterson,"38 Maitland Road, Paterson NSW 2421",Paterson,2421,Independent
+2168,Lowes Orange(Unmanned),"76-82 PEISLEY ST, ORANGE NSW 2800",ORANGE,2800,Lowes
+2169,Caltex Khancoban,"1389 Alpine Way, Khancoban NSW 2642",Khancoban,2642,Caltex
+2170,Midtown Lithgow,"325 Main St, LITHGOW NSW 2790",LITHGOW,2790,Independent
+2171,Quick Stop Liberty,"2/ 997 Pemberton St, WEST ALBURY NSW 2640",WEST ALBURY,2640,Liberty
+2172,Tito’s Fuel Station Restaurant and Coffee House,"87 MITCHELL ST, BOURKE NSW 2840",BOURKE,2840,Ampol
+2173,Billabong Takeaway & LPO,"5 Forbes Street, YEOVAL NSW 2868",YEOVAL,2868,Independent
+2174,Ampol Berrigan,"160-162 Jerilderie Street, BERRIGAN NSW 2712",BERRIGAN,2712,Ampol
+2175,Lowes Petroleum Service,"13 Midkin St, GARAH NSW 2405",GARAH,2405,BP
+2176,Shell Cowra,"2 GRENFELL RD, COWRA NSW 2794",COWRA,2794,Shell
+2177,Shell Big Pineapple West Ballina,"482 River Street, West Ballina NSW 2478",West Ballina,2478,Shell
+2178,BP Wardell,"32 Fitzroy St, WARDELL NSW 2477",WARDELL,2477,BP
+2179,EASMAN'S GILGANDRA,"176 Warren Road, GILGANDRA NSW 2827",GILGANDRA,2827,Independent
+2180,Independent Albury,"997 Mate Street, Albury NSW 2640",Albury,2640,Independent
+2181,Glen Artney Truck Repairs,"55-67 Armstrong St, WESTDALE NSW 2340",WESTDALE,2340,Independent
